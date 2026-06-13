@@ -1,0 +1,522 @@
+[
+    {
+        "halte": "Terminal palur",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Terminal palur",
+        "koridor": "K2"
+    },
+    {
+        "halte": "Terminal palur",
+        "koridor": "K4"
+    },
+    {
+        "halte": "Terminal palur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "plaza palur",
+        "koridor": "K1"
+    },
+    {
+        "halte": "plaza palur",
+        "koridor": "K2"
+    },
+    {
+        "halte": "mitra palur",
+        "koridor": "K1"
+    },
+    {
+        "halte": "mitra palur",
+        "koridor": "K2"
+    },
+    {
+        "halte": "brigif",
+        "koridor": "K1"
+    },
+    {
+        "halte": "brigif",
+        "koridor": "K2"
+    },
+    {
+        "halte": "ASMI",
+        "koridor": "K1"
+    },
+    {
+        "halte": "ASMI",
+        "koridor": "K2"
+    },
+    {
+        "halte": "ASMI",
+        "koridor": "K4"
+    },
+    {
+        "halte": "ASMI",
+        "koridor": "K10"
+    },
+    {
+        "halte": "jurug",
+        "koridor": "K1"
+    },
+    {
+        "halte": "jurug",
+        "koridor": "K2"
+    },
+    {
+        "halte": "jurug",
+        "koridor": "K4"
+    },
+    {
+        "halte": "TMP",
+        "koridor": "K1"
+    },
+    {
+        "halte": "TMP",
+        "koridor": "K2"
+    },
+    {
+        "halte": "UNS",
+        "koridor": "K1"
+    },
+    {
+        "halte": "UNS",
+        "koridor": "K2"
+    },
+    {
+        "halte": "TBS",
+        "koridor": "K1"
+    },
+    {
+        "halte": "TBS",
+        "koridor": "K2"
+    },
+    {
+        "halte": "Sekarpace",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Sekarpace",
+        "koridor": "K2"
+    },
+    {
+        "halte": "Cembengan",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Cembengan",
+        "koridor": "K2"
+    },
+    {
+        "halte": "Thiongting 1",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Thiongting 2",
+        "koridor": "K2"
+    },
+    {
+        "halte": "Thiongting 3",
+        "koridor": "K3"
+    },
+    {
+        "halte": "Thiongting 4",
+        "koridor": "K4"
+    },
+    {
+        "halte": "SMA Muhammadiyah 3",
+        "koridor": "K1"
+    },
+    {
+        "halte": "SMA Muhammadiyah 4",
+        "koridor": "K2"
+    },
+    {
+        "halte": "SMA Muhammadiyah 5",
+        "koridor": "K3"
+    },
+    {
+        "halte": "SMA Muhammadiyah 6",
+        "koridor": "K4"
+    },
+    {
+        "halte": "RS Moewardi",
+        "koridor": "K1"
+    },
+    {
+        "halte": "RS Moewardi",
+        "koridor": "K2"
+    },
+    {
+        "halte": "RS Moewardi",
+        "koridor": "K3"
+    },
+    {
+        "halte": "RS Moewardi",
+        "koridor": "K4"
+    },
+    {
+        "halte": "Hermina",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Hermina",
+        "koridor": "K2"
+    },
+    {
+        "halte": "Hermina",
+        "koridor": "K3"
+    },
+    {
+        "halte": "Hermina",
+        "koridor": "K4"
+    },
+    {
+        "halte": "panggung",
+        "koridor": "K1"
+    },
+    {
+        "halte": "panggung",
+        "koridor": "K2"
+    },
+    {
+        "halte": "panggung",
+        "koridor": "K3"
+    },
+    {
+        "halte": "panggung",
+        "koridor": "K4"
+    },
+    {
+        "halte": "jebres",
+        "koridor": "K1"
+    },
+    {
+        "halte": "jebres",
+        "koridor": "K3"
+    },
+    {
+        "halte": "mesen",
+        "koridor": "K1"
+    },
+    {
+        "halte": "mesen",
+        "koridor": "K3"
+    },
+    {
+        "halte": "timlo",
+        "koridor": "K1"
+    },
+    {
+        "halte": "timlo",
+        "koridor": "K3"
+    },
+    {
+        "halte": "warung pelem",
+        "koridor": "K1"
+    },
+    {
+        "halte": "warung pelem",
+        "koridor": "K3"
+    },
+    {
+        "halte": "warung pelem",
+        "koridor": "K8"
+    },
+    {
+        "halte": "warung pelem",
+        "koridor": "K10"
+    },
+    {
+        "halte": "pasar gede",
+        "koridor": "K1"
+    },
+    {
+        "halte": "pasar gede",
+        "koridor": "K3"
+    },
+    {
+        "halte": "pasar gede",
+        "koridor": "K8"
+    },
+    {
+        "halte": "pasar gede",
+        "koridor": "K10"
+    },
+    {
+        "halte": "balaikota",
+        "koridor": "K1"
+    },
+    {
+        "halte": "balaikota",
+        "koridor": "K3"
+    },
+    {
+        "halte": "balaikota",
+        "koridor": "K8"
+    },
+    {
+        "halte": "balaikota",
+        "koridor": "K10"
+    },
+    {
+        "halte": "vastenburg",
+        "koridor": "K1"
+    },
+    {
+        "halte": "vastenburg",
+        "koridor": "K3"
+    },
+    {
+        "halte": "vastenburg",
+        "koridor": "K8"
+    },
+    {
+        "halte": "vastenburg",
+        "koridor": "K10"
+    },
+    {
+        "halte": "gladag",
+        "koridor": "K1"
+    },
+    {
+        "halte": "gladag",
+        "koridor": "K3"
+    },
+    {
+        "halte": "nonongan",
+        "koridor": "K1"
+    },
+    {
+        "halte": "nonongan",
+        "koridor": "K3"
+    },
+    {
+        "halte": "pasar pon",
+        "koridor": "K1"
+    },
+    {
+        "halte": "pasar pon",
+        "koridor": "K5"
+    },
+    {
+        "halte": "wisma batari",
+        "koridor": "K1"
+    },
+    {
+        "halte": "wisma batari",
+        "koridor": "K5"
+    },
+    {
+        "halte": "timuran",
+        "koridor": "K1"
+    },
+    {
+        "halte": "sriwedari 2",
+        "koridor": "K1"
+    },
+    {
+        "halte": "sriwedari 1",
+        "koridor": "K1"
+    },
+    {
+        "halte": "gendengan",
+        "koridor": "K1"
+    },
+    {
+        "halte": "DKT",
+        "koridor": "K1"
+    },
+    {
+        "halte": "rs karima",
+        "koridor": "K1"
+    },
+    {
+        "halte": "terminal kartasura",
+        "koridor": "K1"
+    },
+    {
+        "halte": "luwes kartasura",
+        "koridor": "K1"
+    },
+    {
+        "halte": "klegen",
+        "koridor": "K1"
+    },
+    {
+        "halte": "gereja colomadu",
+        "koridor": "K1"
+    },
+    {
+        "halte": "pasar colomadu",
+        "koridor": "K1"
+    },
+    {
+        "halte": "maria regina",
+        "koridor": "K2"
+    },
+    {
+        "halte": "sekolah warga",
+        "koridor": "K2"
+    },
+    {
+        "halte": "smp kristen 3",
+        "koridor": "K2"
+    },
+    {
+        "halte": "kota barat",
+        "koridor": "K2"
+    },
+    {
+        "halte": "smpn 24",
+        "koridor": "K2"
+    },
+    {
+        "halte": "batikan",
+        "koridor": "K2"
+    },
+    {
+        "halte": "pasar kabangan",
+        "koridor": "K2"
+    },
+    {
+        "halte": "omah laweyan",
+        "koridor": "K2"
+    },
+    {
+        "halte": "wangkung",
+        "koridor": "K3"
+    },
+    {
+        "halte": "jongke",
+        "koridor": "K3"
+    },
+    {
+        "halte": "serengan",
+        "koridor": "K3"
+    },
+    {
+        "halte": "widya wacana",
+        "koridor": "K3"
+    },
+    {
+        "halte": "Gemblegan",
+        "koridor": "K5"
+    },
+    {
+        "halte": "notosuman",
+        "koridor": "K3"
+    },
+    {
+        "halte": "kalilarangan",
+        "koridor": "K3"
+    },
+    {
+        "halte": "batik keris",
+        "koridor": "K3"
+    },
+    {
+        "halte": "stikes aisiyah",
+        "koridor": "K3"
+    },
+    {
+        "halte": "solo techno park",
+        "koridor": "K3"
+    },
+    {
+        "halte": "kecamatan jebres",
+        "koridor": "K3"
+    },
+    {
+        "halte": "pintu belakang uns",
+        "koridor": "K3"
+    },
+    {
+        "halte": "rs jiwa/taman lansia",
+        "koridor": "K3"
+    },
+    {
+        "halte": "rs bhayangkara",
+        "koridor": "K4"
+    },
+    {
+        "halte": "stadion manahan",
+        "koridor": "K4"
+    },
+    {
+        "halte": "terminal tirtonadi",
+        "koridor": "K4"
+    },
+    {
+        "halte": "Kandang Sapi timur",
+        "koridor": "K4"
+    },
+    {
+        "halte": "adiyasa",
+        "koridor": "K4"
+    },
+    {
+        "halte": "luwes gading",
+        "koridor": "K5"
+    },
+    {
+        "halte": "pasar gading",
+        "koridor": "K5"
+    },
+    {
+        "halte": "baturono",
+        "koridor": "K5"
+    },
+    {
+        "halte": "spbu semanggi",
+        "koridor": "K5"
+    },
+    {
+        "halte": "sub terminal semanggi",
+        "koridor": "K5"
+    },
+    {
+        "halte": "Subter Taman Pelangi",
+        "koridor": "K6"
+    },
+    {
+        "halte": "smpn 4 a",
+        "koridor": "K6"
+    },
+    {
+        "halte": "patung mayor ahmadi a",
+        "koridor": "K6"
+    },
+    {
+        "halte": "smk kristen 2",
+        "koridor": "K6"
+    },
+    {
+        "halte": "Keluruhan stabelan A",
+        "koridor": "K6"
+    },
+    {
+        "halte": "Pasar Beras A",
+        "koridor": "K6"
+    },
+    {
+        "halte": "Perempatan Pasar Legi",
+        "koridor": "K6"
+    },
+    {
+        "halte": "pasar akik",
+        "koridor": "K8"
+    },
+    {
+        "halte": "alun alun utara",
+        "koridor": "K8"
+    },
+    {
+        "halte": "polsek pasar kliwon",
+        "koridor": "K8"
+    },
+    {
+        "halte": "Pasar Klewer",
+        "koridor": "K8"
+    }
+]
