@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BST Route Finder – Batik Solo Trans</title>
+
+  <!-- Fonts & Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+  <!-- MapTiler SDK -->
+  <link rel="stylesheet" href="https://cdn.maptiler.com/maptiler-sdk-js/v2.0.1/maptiler-sdk.css" />
+  <script src="https://cdn.maptiler.com/maptiler-sdk-js/v2.0.1/maptiler-sdk.umd.js"></script>
+
+  <!-- App Styles -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div id="app">
+
+  <!-- ══════════════ SIDEBAR ══════════════ -->
+  <aside id="sidebar">
+
+    <!-- Header -->
+    <div id="header">
+      <div class="header-logo">
+        <div class="logo-icon"><i class="fa-solid fa-bus"></i></div>
+        <div>
+          <div class="header-title">Optimasi Rute<br>Batik Solo Trans</div>
+          <div class="header-sub">Pencarian Rute Optimal · Algoritma A*</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Search Form -->
+    <div class="search-panel">
+      <div class="fields-group">
+
+        <!-- Asal -->
+        <div class="field-wrap">
+          <span class="field-label">Halte Asal</span>
+          <div class="select-wrap">
+            <i class="fa-solid fa-location-crosshairs field-icon"></i>
+            <select id="sel-origin"><option value="">Pilih halte asal…</option></select>
+            <i class="fa-solid fa-chevron-down chevron-icon"></i>
+          </div>
+        </div>
+
+        <!-- Swap -->
+        <button class="swap-btn" id="btn-swap" title="Tukar asal & tujuan">
+          <i class="fa-solid fa-arrows-up-down"></i>
+        </button>
+
+        <!-- Tujuan -->
+        <div class="field-wrap" style="margin-top: 6px">
+          <span class="field-label">Halte Tujuan</span>
+          <div class="select-wrap">
+            <i class="fa-solid fa-location-dot field-icon red"></i>
+            <select id="sel-dest"><option value="">Pilih halte tujuan…</option></select>
+            <i class="fa-solid fa-chevron-down chevron-icon"></i>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- CTA -->
+      <button class="btn-search" id="btn-search">
+        <i class="fa-solid fa-route"></i> Cari Rute
+      </button>
+    </div>
+
+    <!-- Result Panel (hidden until search) -->
+    <div id="result-panel">
+      <div class="divider"></div>
+
+      <!-- Summary Grid -->
+      <div class="summary-grid">
+        <div class="summary-card">
+          <div class="s-icon"><i class="fa-solid fa-bus"></i></div>
+          <div class="s-label">Koridor</div>
+          <div class="s-value" id="sum-corridor">–</div>
+        </div>
+        <div class="summary-card">
+          <div class="s-icon"><i class="fa-regular fa-clock"></i></div>
+          <div class="s-label">Waktu</div>
+          <div class="s-value" id="sum-time">–</div>
+        </div>
+        <div class="summary-card">
+          <div class="s-icon"><i class="fa-solid fa-map-pin"></i></div>
+          <div class="s-label">Halte</div>
+          <div class="s-value" id="sum-stops">–</div>
+        </div>
+        <div class="summary-card">
+          <div class="s-icon"><i class="fa-solid fa-shuffle"></i></div>
+          <div class="s-label">Transit</div>
+          <div class="s-value" id="sum-transit">–</div>
+        </div>
+      </div>
+
+      <!-- Timeline -->
+      <div class="timeline-header">
+        <i class="fa-solid fa-route"></i> Detail Perjalanan
+      </div>
+      <div class="timeline" id="timeline"></div>
+    </div>
+
+  </aside>
+
+  <!-- ══════════════ MAP ══════════════ -->
+  <div id="map"></div>
+
+</div>
+
+<!-- App Script -->
+<script src="app.js"></script>
+</body>
+</html>
