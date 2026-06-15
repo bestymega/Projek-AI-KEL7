@@ -415,12 +415,12 @@
     },
     {
         "from": "TMP",
-        "to": "UNS selatan",
+        "to": "UNS",
         "time": 1,
         "corridor": "K2"
     },
     {
-        "from": "UNS selatan",
+        "from": "UNS",
         "to": "TBS Selatan",
         "time": 1,
         "corridor": "K2"
@@ -1057,7 +1057,7 @@
     },
     {
         "from": "smkn 4 surakarta",
-        "to": "RS Bhayangkara tadi sma 4",
+        "to": "RS Bhayangkara",
         "time": 2,
         "corridor": "K4"
     },
@@ -2389,12 +2389,12 @@
     },
     {
         "from": "sma 3 smp 14",
-        "to": "pertiggan wonosaren",
+        "to": "pertigaan wonosaren",
         "time": 1,
         "corridor": "K10"
     },
     {
-        "from": "pertiggan wonosaren",
+        "from": "pertigaan wonosaren",
         "to": "kelurahan jagalan",
         "time": 1,
         "corridor": "K10"
