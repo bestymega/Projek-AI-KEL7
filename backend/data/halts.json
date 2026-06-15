@@ -1,1592 +1,2647 @@
 [
     {
-        "name": "Terminal palur",
-        "lat": -7.56607199999999,
-        "lon": 110.87161
+        "name": "Halte Bandara Adi Soemarmo",
+        "lat": -7.5125674,
+        "lon": 110.7495559
     },
     {
-        "name": "plaza palur",
-        "lat": -7.5678014,
-        "lon": 110.8737268
+        "name": "Halte Tanggulsari",
+        "lat": -7.5227224,
+        "lon": 110.7456546
     },
     {
-        "name": "mitra palur",
-        "lat": -7.56826,
-        "lon": 110.87167
+        "name": "Halte Tanjung Sari",
+        "lat": -7.5228744,
+        "lon": 110.7464592
     },
     {
-        "name": "brigif",
-        "lat": -7.56649,
-        "lon": 110.86883
+        "name": "Halte Lanud",
+        "lat": -7.5309142,
+        "lon": 110.7476904
     },
     {
-        "name": "ASMI",
-        "lat": -7.56545,
-        "lon": 110.86489
+        "name": "Halte Colomadu",
+        "lat": -7.534511,
+        "lon": 110.7468401
     },
     {
-        "name": "jurug",
-        "lat": -7.56387999999999,
-        "lon": 110.6196629
+        "name": "Halte Gereja Colomadu",
+        "lat": -7.5346664,
+        "lon": 110.7467115
     },
     {
-        "name": "TMP",
-        "lat": -7.56495,
-        "lon": 110.85681
+        "name": "Halte Klegen",
+        "lat": -7.537636,
+        "lon": 110.7460859
     },
     {
-        "name": "UNS",
-        "lat": -7.5594886,
-        "lon": 110.8563295
+        "name": "Halte Luwes",
+        "lat": -7.5427415,
+        "lon": 110.7448374
     },
     {
-        "name": "TBS",
-        "lat": -7.56365,
-        "lon": 110.85256
+        "name": "Halte Luwes Kartasura",
+        "lat": -7.5426605,
+        "lon": 110.7449378
     },
     {
-        "name": "Sekarpace",
-        "lat": -7.5614,
-        "lon": 110.84922
+        "name": "Halte Kecamatan Kartasura",
+        "lat": -7.5468967,
+        "lon": 110.7439242
     },
     {
-        "name": "Cembengan",
-        "lat": -7.55856,
-        "lon": 110.84812
+        "name": "Halte Singopuran",
+        "lat": -7.5509218,
+        "lon": 110.7426776
     },
     {
-        "name": "Thiongting",
-        "lat": -7.558082,
-        "lon": 110.8464
+        "name": "Halte SMP N 1 Kartasura",
+        "lat": -7.5489681,
+        "lon": 110.7432741
     },
     {
-        "name": "SMA Muhammadiyah 3",
-        "lat": -7.559202,
-        "lon": 110.84381
+        "name": "Halte SMPN 1 Kartasura",
+        "lat": -7.548651,
+        "lon": 110.7432274
     },
     {
-        "name": "RS Moewardi",
-        "lat": -7.55870479999999,
-        "lon": 110.8418721
+        "name": "Halte Perempatan Kartasura",
+        "lat": -7.552669,
+        "lon": 110.7430367
     },
     {
-        "name": "Hermina",
-        "lat": -7.5602845,
-        "lon": 110.8402108
+        "name": "Halte SMP 1 Muhammadiyah",
+        "lat": -7.5543039,
+        "lon": 110.745866
     },
     {
-        "name": "panggung",
-        "lat": -7.55971,
-        "lon": 110.83843
+        "name": "Halte SMP Muhammadiyah",
+        "lat": -7.5541836,
+        "lon": 110.7460551
     },
     {
-        "name": "jebres",
-        "lat": -7.55770229999999,
-        "lon": 110.8476391
+        "name": "Halte Sarwo Motor",
+        "lat": -7.5552092,
+        "lon": 110.7480847
     },
     {
-        "name": "mesen",
-        "lat": -7.56303,
-        "lon": 110.83534
+        "name": "Halte Pom Bensin Gembongan",
+        "lat": -7.5565102,
+        "lon": 110.7507687
     },
     {
-        "name": "timlo",
-        "lat": -7.5645116,
-        "lon": 110.834624
+        "name": "Halte Gembongan",
+        "lat": -7.5586058,
+        "lon": 110.7542671
     },
     {
-        "name": "warung pelem",
-        "lat": -7.56717999999999,
-        "lon": 110.83263
+        "name": "Halte Suharti",
+        "lat": -7.559526,
+        "lon": 110.7564297
     },
     {
-        "name": "pasar gede",
-        "lat": -7.569377,
-        "lon": 110.8315563
+        "name": "Halte Perempatan Gembongan",
+        "lat": -7.5580073,
+        "lon": 110.7535984
     },
     {
-        "name": "balaikota",
-        "lat": -7.5694476,
-        "lon": 110.829594
+        "name": "Halte Goro Mall",
+        "lat": -7.5607692,
+        "lon": 110.7625127
     },
     {
-        "name": "vastenburg",
-        "lat": -7.57218389999999,
-        "lon": 110.8313275
+        "name": "Halte Goro Selatan",
+        "lat": -7.5609331,
+        "lon": 110.7620347
     },
     {
-        "name": "gladag",
-        "lat": -7.5720324,
-        "lon": 110.8280273
+        "name": "Halte SMPN 2 Kartasura",
+        "lat": -7.5607213,
+        "lon": 110.7652663
     },
     {
-        "name": "nonongan",
-        "lat": -7.57101,
-        "lon": 110.82487
+        "name": "Halte Puskesmas",
+        "lat": -7.5604647,
+        "lon": 110.7654712
     },
     {
-        "name": "pasar pon",
-        "lat": -7.6625011,
-        "lon": 111.9618081
+        "name": "Halte UMS",
+        "lat": -7.5592609,
+        "lon": 110.7698037
     },
     {
-        "name": "wisma batari",
-        "lat": -7.569951,
-        "lon": 110.8200437
+        "name": "Halte UMS Selatan",
+        "lat": -7.5594378,
+        "lon": 110.7700209
     },
     {
-        "name": "timuran",
-        "lat": -7.56637449999999,
-        "lon": 110.8187841
+        "name": "Halte RS Yarsis",
+        "lat": -7.5591372,
+        "lon": 110.7713393
     },
     {
-        "name": "sriwedari 2",
-        "lat": -7.56799,
-        "lon": 110.81432
+        "name": "Halte Relasi",
+        "lat": -7.5580175,
+        "lon": 110.7761661
     },
     {
-        "name": "sriwedari 1",
-        "lat": -7.56706,
-        "lon": 110.8119
+        "name": "Halte Mendungan",
+        "lat": -7.5575522,
+        "lon": 110.7779167
     },
     {
-        "name": "gendengan",
-        "lat": -7.5653557,
-        "lon": 110.8059815
+        "name": "Halte Gapura Kleco",
+        "lat": -7.5585547,
+        "lon": 110.783688
     },
     {
-        "name": "DKT",
-        "lat": -7.56527,
-        "lon": 110.80539
+        "name": "Halte Farokha",
+        "lat": -7.5586124,
+        "lon": 110.7843934
     },
     {
-        "name": "center point",
+        "name": "Halte Korem 2",
+        "lat": -7.5597424,
+        "lon": 110.7873893
+    },
+    {
+        "name": "Halte Korem",
+        "lat": -7.5597602,
+        "lon": 110.7879492
+    },
+    {
+        "name": "Sub Terminal Kerten",
+        "lat": -7.560449,
+        "lon": 110.7896152
+    },
+    {
+        "name": "Halte Center Point",
         "lat": -7.5632798,
         "lon": 110.7987311
     },
     {
-        "name": "sub terminal kerten",
-        "lat": -7.5605099,
-        "lon": 110.7896978
+        "name": "Halte RS Kasih Ibu",
+        "lat": -7.5639389,
+        "lon": 110.8016265
     },
     {
-        "name": "korem",
-        "lat": -7.55973,
-        "lon": 110.78786
+        "name": "Halte Kasih Ibu Selatan",
+        "lat": -7.5640858,
+        "lon": 110.8013954
     },
     {
-        "name": "faroka",
-        "lat": -7.55853589999999,
-        "lon": 110.7842387
+        "name": "Halte Pizza Hut",
+        "lat": -7.5650069,
+        "lon": 110.8051701
     },
     {
-        "name": "smk 2 batik",
-        "lat": -7.557598,
-        "lon": 110.778868
+        "name": "Halte DKT",
+        "lat": -7.5652749,
+        "lon": 110.8053597
     },
     {
-        "name": "relasi",
-        "lat": -7.55768,
-        "lon": 110.7761661
+        "name": "Halte Gendengan Selatan",
+        "lat": -7.5657508,
+        "lon": 110.8069375
     },
     {
-        "name": "rs uns",
-        "lat": -7.559315,
-        "lon": 110.7733186
+        "name": "Halte Gendengan Utara",
+        "lat": -7.5656432,
+        "lon": 110.8072914
     },
     {
-        "name": "rs yarsis",
-        "lat": -7.55909999999999,
-        "lon": 110.77134
+        "name": "Halte Sriwedari 1 Utara",
+        "lat": -7.5670482,
+        "lon": 110.8118392
     },
     {
-        "name": "ums",
-        "lat": -7.5650102,
-        "lon": 110.8068005
+        "name": "Halte Sriwedari 2 Utara",
+        "lat": -7.5685691,
+        "lon": 110.8143902
     },
     {
-        "name": "transmart",
-        "lat": -7.562292,
-        "lon": 110.8098311
+        "name": "Halte Sriwedari 2 Selatan",
+        "lat": -7.5679376,
+        "lon": 110.8143278
     },
     {
-        "name": "smpn 2 kartasura",
-        "lat": -7.5609797,
-        "lon": 110.7654018
+        "name": "Halte Ngapeman Utara",
+        "lat": -7.5685459,
+        "lon": 110.8166363
     },
     {
-        "name": "goro mall",
-        "lat": -7.56075,
-        "lon": 110.762541
-    },
-    {
-        "name": "gumpang",
-        "lat": -7.5673189,
-        "lon": 110.7562271
-    },
-    {
-        "name": "suharti",
-        "lat": -7.559467,
-        "lon": 110.75629
-    },
-    {
-        "name": "gembongan",
-        "lat": -7.558006,
-        "lon": 110.75366
-    },
-    {
-        "name": "spbu gembongan",
-        "lat": -7.5564703,
-        "lon": 110.7508007
-    },
-    {
-        "name": "sarwo motor",
-        "lat": -7.555268,
-        "lon": 110.747853
-    },
-    {
-        "name": "smp muhammadiyah 1",
-        "lat": -7.5715139,
-        "lon": 110.8288192
-    },
-    {
-        "name": "bri kartasura",
-        "lat": -7.553264,
-        "lon": 110.7439
-    },
-    {
-        "name": "singopuran",
-        "lat": -7.54998209999999,
-        "lon": 110.7494964
-    },
-    {
-        "name": "smp n 1 kartasura",
-        "lat": -7.548608,
-        "lon": 110.743229
-    },
-    {
-        "name": "bulog",
-        "lat": -7.6328274,
-        "lon": 110.8274962
-    },
-    {
-        "name": "rs karima",
-        "lat": -7.546158,
-        "lon": 110.742928
-    },
-    {
-        "name": "terminal kartasura",
-        "lat": -7.543914,
-        "lon": 110.73507
-    },
-    {
-        "name": "luwes kartasura",
-        "lat": -7.5775936,
-        "lon": 110.7833098
-    },
-    {
-        "name": "klegen",
-        "lat": -7.53789,
-        "lon": 110.74588
-    },
-    {
-        "name": "gereja colomadu",
-        "lat": -7.534611,
-        "lon": 110.746722
-    },
-    {
-        "name": "pasar colomadu",
-        "lat": -7.530962,
-        "lon": 110.747637
-    },
-    {
-        "name": "AURI",
-        "lat": -7.527551,
-        "lon": 110.74815
-    },
-    {
-        "name": "tanjungsari",
-        "lat": -7.55208,
-        "lon": 110.74633
-    },
-    {
-        "name": "smpn 1 ngemplak",
-        "lat": -7.512383,
-        "lon": 110.74553
-    },
-    {
-        "name": "bandara adi soemarmo",
-        "lat": -7.5054722,
-        "lon": 110.7477598
-    },
-    {
-        "name": "maria regina",
-        "lat": -7.55857,
-        "lon": 110.83563
-    },
-    {
-        "name": "sekolah warga",
-        "lat": -7.55907,
-        "lon": 110.83246
-    },
-    {
-        "name": "smp kristen 3",
-        "lat": -7.5588525,
-        "lon": 110.8302689
-    },
-    {
-        "name": "margoyudan",
-        "lat": -7.5588255,
-        "lon": 110.8296634
-    },
-    {
-        "name": "sd cemara",
-        "lat": -7.55833,
-        "lon": 110.82699
-    },
-    {
-        "name": "spbu balapan",
-        "lat": -7.55744219999999,
-        "lon": 110.8234039
-    },
-    {
-        "name": "stasiun solo balapan",
-        "lat": -7.5570131,
-        "lon": 110.8213794
-    },
-    {
-        "name": "punggawan",
-        "lat": -7.5593789,
-        "lon": 110.8180391
-    },
-    {
-        "name": "wonder",
-        "lat": -7.56115089999999,
-        "lon": 110.8196281
-    },
-    {
-        "name": "sahid",
-        "lat": -7.5638586,
-        "lon": 110.8192154
-    },
-    {
-        "name": "rs pku surakarta",
-        "lat": -7.56559949999999,
-        "lon": 110.8165735
-    },
-    {
-        "name": "sma muhammadiyah 2",
-        "lat": -7.5634522,
-        "lon": 110.8144971
-    },
-    {
-        "name": "yosodipuro",
-        "lat": -7.56194,
-        "lon": 110.81174
-    },
-    {
-        "name": "paragon",
-        "lat": -7.5624118,
-        "lon": 110.8100122
-    },
-    {
-        "name": "kota barat",
-        "lat": -7.5621785,
-        "lon": 110.8074437
-    },
-    {
-        "name": "smpn 24",
-        "lat": -7.56372999999999,
-        "lon": 110.80648
-    },
-    {
-        "name": "kasih ibu",
-        "lat": -7.56310469999999,
-        "lon": 110.8016497
-    },
-    {
-        "name": "aston",
-        "lat": -7.56388199999999,
-        "lon": 110.7991087
-    },
-    {
-        "name": "batikan",
-        "lat": -7.5695177,
-        "lon": 110.8250266
-    },
-    {
-        "name": "pasar kabangan",
-        "lat": -7.5695802,
-        "lon": 110.7971372
-    },
-    {
-        "name": "omah laweyan",
-        "lat": -7.5690719,
-        "lon": 110.7945611
-    },
-    {
-        "name": "sd jamaatul ichwan",
-        "lat": -7.56729,
-        "lon": 110.79235
-    },
-    {
-        "name": "UNIBA",
-        "lat": -7.56296,
-        "lon": 110.79462
-    },
-    {
-        "name": "stasiun purwosari",
-        "lat": -7.5616918,
-        "lon": 110.7965074
-    },
-    {
-        "name": "tugu kartasura",
-        "lat": -7.55037169999999,
-        "lon": 110.7367071
-    },
-    {
-        "name": "pku kartasura",
-        "lat": -7.55169,
-        "lon": 110.73637
-    },
-    {
-        "name": "pasar kartasura",
-        "lat": -7.551957,
-        "lon": 110.7404109
-    },
-    {
-        "name": "tugu keraton kartasura",
-        "lat": -7.55491,
-        "lon": 110.74142
-    },
-    {
-        "name": "sidoramo",
-        "lat": -7.55676,
-        "lon": 110.74478
-    },
-    {
-        "name": "superindo",
-        "lat": -7.55885,
-        "lon": 110.74826
-    },
-    {
-        "name": "ngadirejo",
-        "lat": -7.56105,
-        "lon": 110.75486
-    },
-    {
-        "name": "pasar gompang",
-        "lat": -7.56208,
-        "lon": 110.75799
-    },
-    {
-        "name": "tyfountex pintu utama",
-        "lat": -7.56331,
-        "lon": 110.76157
-    },
-    {
-        "name": "tyfountex pintu timur",
-        "lat": -7.56409,
-        "lon": 110.76441
-    },
-    {
-        "name": "proyek bengawan",
-        "lat": -7.56503999999999,
-        "lon": 110.76733
-    },
-    {
-        "name": "masjid windan",
-        "lat": -7.56593999999999,
-        "lon": 110.7718
-    },
-    {
-        "name": "pracimaloyo",
-        "lat": -7.5649801,
-        "lon": 110.7735773
-    },
-    {
-        "name": "makam haji",
-        "lat": -7.56279839999999,
-        "lon": 110.774827
-    },
-    {
-        "name": "tugu lilin",
-        "lat": -7.5676663,
-        "lon": 110.7838034
-    },
-    {
-        "name": "wangkung",
-        "lat": -7.5683537,
-        "lon": 110.7880699
-    },
-    {
-        "name": "jongke",
-        "lat": -7.5686656,
-        "lon": 110.7899912
-    },
-    {
-        "name": "ria miranda",
-        "lat": -7.5707084,
-        "lon": 110.8001691
-    },
-    {
-        "name": "sabar motor",
-        "lat": -7.5712661,
-        "lon": 110.8035283
-    },
-    {
-        "name": "baron barat",
-        "lat": -7.5713106,
-        "lon": 110.8050432
-    },
-    {
-        "name": "baron timur",
-        "lat": -7.6385145,
-        "lon": 111.3590118
-    },
-    {
-        "name": "laweyan",
-        "lat": -7.5699639,
-        "lon": 110.7968624
-    },
-    {
-        "name": "BLK",
-        "lat": -7.573509,
-        "lon": 110.8095022
-    },
-    {
-        "name": "SMA N 7",
-        "lat": -7.57514349999999,
-        "lon": 110.8097735
-    },
-    {
-        "name": "lotte mart",
-        "lat": -7.5778589,
-        "lon": 110.808262
-    },
-    {
-        "name": "taspen",
-        "lat": -7.5715106,
-        "lon": 110.8282691
-    },
-    {
-        "name": "serengan",
-        "lat": -7.5804,
-        "lon": 110.81513
-    },
-    {
-        "name": "widya wacana",
-        "lat": -7.58111,
-        "lon": 110.81723
-    },
-    {
-        "name": "gemblengan sampurna",
-        "lat": -7.5817,
-        "lon": 110.81975
-    },
-    {
-        "name": "notosuman",
-        "lat": -7.5525998,
-        "lon": 110.8218411
-    },
-    {
-        "name": "kalilarangan",
-        "lat": -7.57392,
-        "lon": 110.88229
-    },
-    {
-        "name": "batik keris",
-        "lat": -7.57291,
-        "lon": 110.82354
-    },
-    {
-        "name": "stikes aisiyah",
-        "lat": -7.5568,
-        "lon": 110.84942
-    },
-    {
-        "name": "solo techno park",
-        "lat": -7.5560692,
-        "lon": 110.8538665
-    },
-    {
-        "name": "kantor kecamatan jebres",
-        "lat": -7.5550907,
-        "lon": 110.8551854
-    },
-    {
-        "name": "pintu belakang uns",
-        "lat": -7.55431,
-        "lon": 110.85663
-    },
-    {
-        "name": "rs jiwa/taman lansia",
-        "lat": -7.55686219999999,
-        "lon": 110.860724
-    },
-    {
-        "name": "kecamatan colomadu",
-        "lat": -7.53224349999999,
-        "lon": 110.7473305
-    },
-    {
-        "name": "pom bensin utara",
-        "lat": -7.5332856,
-        "lon": 110.7521496
-    },
-    {
-        "name": "koramil",
-        "lat": -7.53517419999999,
-        "lon": 110.7549059
-    },
-    {
-        "name": "ypac utara",
-        "lat": -7.5373049,
-        "lon": 110.7578896
-    },
-    {
-        "name": "jonggrang utara",
-        "lat": -7.5379275,
-        "lon": 110.7599966
-    },
-    {
-        "name": "ihs utara",
-        "lat": -7.53961,
-        "lon": 110.76249
-    },
-    {
-        "name": "atmi",
-        "lat": -7.54152599999999,
-        "lon": 110.766359
-    },
-    {
-        "name": "lor inn utara",
-        "lat": -7.5429682,
-        "lon": 110.76914
-    },
-    {
-        "name": "lapangan bulukan utara",
-        "lat": -7.54389,
-        "lon": 110.7715
-    },
-    {
-        "name": "alana",
-        "lat": -7.5449034,
-        "lon": 110.7746072
-    },
-    {
-        "name": "solo pos utara",
-        "lat": -7.54709,
-        "lon": 110.7795
-    },
-    {
-        "name": "dprd utara",
-        "lat": -7.54844,
-        "lon": 110.78341
-    },
-    {
-        "name": "adi sucipto barat 1",
-        "lat": -7.54933,
-        "lon": 110.78602
-    },
-    {
-        "name": "adisucipto timur",
-        "lat": -7.55074,
-        "lon": 110.7903
-    },
-    {
-        "name": "jajar",
-        "lat": -7.5517,
-        "lon": 110.79324
-    },
-    {
-        "name": "ursulin",
-        "lat": -7.55339759999999,
-        "lon": 110.7957826
-    },
-    {
-        "name": "smkn 4 surakarta",
-        "lat": -7.55325569999999,
-        "lon": 110.7983771
-    },
-    {
-        "name": "RS Bhayangkara",
-        "lat": -7.55548,
-        "lon": 110.4714619
-    },
-    {
-        "name": "stadion manahan",
-        "lat": -7.5555789,
-        "lon": 110.8065334
-    },
-    {
-        "name": "gedung wanita",
-        "lat": -7.7832971,
-        "lon": 110.3935667
-    },
-    {
-        "name": "pom bensin manahan",
-        "lat": -7.5562077,
-        "lon": 110.8046283
-    },
-    {
-        "name": "rs brayat",
-        "lat": -7.5526844,
-        "lon": 110.8142742
-    },
-    {
-        "name": "dewa dewi",
-        "lat": -7.5417649,
-        "lon": 110.8206344
-    },
-    {
-        "name": "terminal tirtonadi",
-        "lat": -7.55188679999999,
-        "lon": 110.8195409
-    },
-    {
-        "name": "pertigaan gilingan",
-        "lat": -7.55329,
-        "lon": 110.82348
-    },
-    {
-        "name": "viaduk gilingan",
-        "lat": -7.55413999999999,
-        "lon": 110.82749
-    },
-    {
-        "name": "pasar ngemplak",
-        "lat": -7.70115469999999,
-        "lon": 110.4472796
-    },
-    {
-        "name": "perempatan aub",
-        "lat": -7.55463,
-        "lon": 110.83393
-    },
-    {
-        "name": "kandang sapi timur",
-        "lat": -7.5561722,
-        "lon": 110.8385638
-    },
-    {
-        "name": "solo technopark",
-        "lat": -7.5560692,
-        "lon": 110.8538665
-    },
-    {
-        "name": "kecamatan jebres",
-        "lat": -7.5550907,
-        "lon": 110.8551854
-    },
-    {
-        "name": "pintu belakang uns",
-        "lat": -7.55431,
-        "lon": 110.85663
-    },
-    {
-        "name": "taman lansia",
-        "lat": -7.55686219999999,
-        "lon": 110.860724
-    },
-    {
-        "name": "rusun jurug timur",
-        "lat": -7.56008,
-        "lon": 110.86052
-    },
-    {
-        "name": "pasar buah jurug timur",
-        "lat": -7.5623,
-        "lon": 110.85907
-    },
-    {
-        "name": "jurug 1",
-        "lat": -7.56521899999999,
-        "lon": 110.858743
-    },
-    {
-        "name": "adiyasa",
-        "lat": -7.56562,
-        "lon": 110.86892
-    },
-    {
-        "name": "gbi malangjiwan",
-        "lat": -7.52989,
-        "lon": 110.75125
-    },
-    {
-        "name": "apotek kirana",
-        "lat": -7.53033,
-        "lon": 119.75564
-    },
-    {
-        "name": "smp 1 gawanan",
-        "lat": -7.53108999999999,
-        "lon": 110.75853
-    },
-    {
-        "name": "smk adi soemarmo",
-        "lat": -7.53007659999999,
-        "lon": 110.7618114
-    },
-    {
-        "name": "yakkum",
-        "lat": -7.53252,
-        "lon": 110.76544
-    },
-    {
-        "name": "garasi bst",
-        "lat": -7.53270999999999,
-        "lon": 110.76873
-    },
-    {
-        "name": "afkis",
-        "lat": -7.53353,
-        "lon": 110.7718
-    },
-    {
-        "name": "soto sawah",
-        "lat": -7.5340888,
-        "lon": 110.7760432
-    },
-    {
-        "name": "puskesmas colomadu",
-        "lat": -7.533719,
-        "lon": 110.7180361
-    },
-    {
-        "name": "klodran",
-        "lat": -7.53498999999999,
-        "lon": 110.7941977
-    },
-    {
-        "name": "smkn 9",
-        "lat": -7.53735,
-        "lon": 110.80302
-    },
-    {
-        "name": "smpn 23",
-        "lat": -7.54045999999999,
-        "lon": 110.80699
-    },
-    {
-        "name": "graha saba buana",
-        "lat": -7.5446869,
-        "lon": 110.806696
-    },
-    {
-        "name": "lapangan sumber",
-        "lat": -7.55017999999999,
-        "lon": 110.80301
-    },
-    {
-        "name": "smpn 12",
-        "lat": -7.5533,
-        "lon": 110.80032
-    },
-    {
-        "name": "ngapeman",
+        "name": "Halte Ngapeman Selatan",
         "lat": -7.5686609,
         "lon": 110.8166249
     },
     {
-        "name": "gemblegan",
-        "lat": -7.58217,
-        "lon": 110.82094
+        "name": "Halte Timuran",
+        "lat": -7.568942,
+        "lon": 110.817963
     },
     {
-        "name": "luwes gading",
-        "lat": -7.583363,
-        "lon": 110.82487
+        "name": "Halte Timuran Selatan",
+        "lat": -7.56915,
+        "lon": 110.8182291
     },
     {
-        "name": "pasar gading",
-        "lat": -7.58356249999999,
-        "lon": 110.8263556
+        "name": "Halte Wismabatari",
+        "lat": -7.5697057,
+        "lon": 110.8203995
     },
     {
-        "name": "baturono",
-        "lat": -7.58481,
-        "lon": 110.83011
+        "name": "Halte Wisma Batari",
+        "lat": -7.5697561,
+        "lon": 110.8202246
     },
     {
-        "name": "spbu semanggi",
-        "lat": -7.5862,
-        "lon": 110.83378
+        "name": "Halte Pasarpon",
+        "lat": -7.5703796,
+        "lon": 110.8227019
     },
     {
-        "name": "sma mta surakarta",
+        "name": "Halte Pasar Pon Selatan",
+        "lat": -7.5705245,
+        "lon": 110.8227609
+    },
+    {
+        "name": "Halte Nonongan",
+        "lat": -7.5710409,
+        "lon": 110.824882
+    },
+    {
+        "name": "Halte Nonongan Selatan",
+        "lat": -7.5711729,
+        "lon": 110.824889
+    },
+    {
+        "name": "Halte Gladag",
+        "lat": -7.5720324,
+        "lon": 110.8280273
+    },
+    {
+        "name": "Halte BCA",
+        "lat": -7.5720514,
+        "lon": 110.8277933
+    },
+    {
+        "name": "Benteng Vastenburg",
+        "lat": -7.5717795,
+        "lon": 110.8297874
+    },
+    {
+        "name": "Kantor Pos",
+        "lat": -7.5714286,
+        "lon": 110.8296582
+    },
+    {
+        "name": "Balai Kota",
+        "lat": -7.5700557,
+        "lon": 110.8300432
+    },
+    {
+        "name": "Pasar Gede Timur",
+        "lat": -7.5685971,
+        "lon": 110.831896
+    },
+    {
+        "name": "Pasar Gede Barat",
+        "lat": -7.5684678,
+        "lon": 110.8317003
+    },
+    {
+        "name": "Halte Warung Pelem",
+        "lat": -7.5671981,
+        "lon": 110.8326329
+    },
+    {
+        "name": "Halte Warung Pelem Timur",
+        "lat": -7.5672699,
+        "lon": 110.8327871
+    },
+    {
+        "name": "Halte Timlo",
+        "lat": -7.5643989,
+        "lon": 110.8346102
+    },
+    {
+        "name": "Halte Timlo Barat",
+        "lat": -7.5643218,
+        "lon": 110.8344694
+    },
+    {
+        "name": "Halte Mesen Barat",
+        "lat": -7.5630708,
+        "lon": 110.8352701
+    },
+    {
+        "name": "Halte Mesen Timur",
+        "lat": -7.5631648,
+        "lon": 110.8353647
+    },
+    {
+        "name": "Halte Jebres 2",
+        "lat": -7.5617554,
+        "lon": 110.8360851
+    },
+    {
+        "name": "Halte Jebres 1",
+        "lat": -7.5616241,
+        "lon": 110.836346
+    },
+    {
+        "name": "Halte Panggung Utara",
+        "lat": -7.5597078,
+        "lon": 110.838428
+    },
+    {
+        "name": "Halte Panggung Selatan",
+        "lat": -7.5598692,
+        "lon": 110.8384705
+    },
+    {
+        "name": "Halte Helmina Utara",
+        "lat": -7.5595893,
+        "lon": 110.8406072
+    },
+    {
+        "name": "Halte RS Moewardi",
+        "lat": -7.5594844,
+        "lon": 110.8422552
+    },
+    {
+        "name": "Halte PMI",
+        "lat": -7.5596106,
+        "lon": 110.8427986
+    },
+    {
+        "name": "Halte Muhammadiyah 3 Utara",
+        "lat": -7.5591823,
+        "lon": 110.8438377
+    },
+    {
+        "name": "Halte Muhammadiyah 3 Selatan",
+        "lat": -7.5591806,
+        "lon": 110.8442438
+    },
+    {
+        "name": "Tugu Cembengan",
+        "lat": -7.5580766,
+        "lon": 110.8463926
+    },
+    {
+        "name": "Halte Thiongting 1",
+        "lat": -7.5582683,
+        "lon": 110.846324
+    },
+    {
+        "name": "Halte Cembengan",
+        "lat": -7.5585815,
+        "lon": 110.8481173
+    },
+    {
+        "name": "Halte Cembengan Barat",
+        "lat": -7.5588056,
+        "lon": 110.8481036
+    },
+    {
+        "name": "Halte Sekarpace Barat",
+        "lat": -7.5613985,
+        "lon": 110.8492272
+    },
+    {
+        "name": "Halte Sekarpace Utara",
+        "lat": -7.5614056,
+        "lon": 110.8493796
+    },
+    {
+        "name": "Halte TBS Selatan",
+        "lat": -7.5638249,
+        "lon": 110.8522496
+    },
+    {
+        "name": "Halte TBS",
+        "lat": -7.563737,
+        "lon": 110.8525357
+    },
+    {
+        "name": "Halte UNS",
+        "lat": -7.564695,
+        "lon": 110.8562505
+    },
+    {
+        "name": "Halte UNS Selatan",
+        "lat": -7.5643634,
+        "lon": 110.855116
+    },
+    {
+        "name": "Halte TMP",
+        "lat": -7.56494,
+        "lon": 110.8568032
+    },
+    {
+        "name": "Halte Pom Bensin",
+        "lat": -7.5649972,
+        "lon": 110.8578546
+    },
+    {
+        "name": "Halte Jurug 2",
+        "lat": -7.5656964,
+        "lon": 110.8586469
+    },
+    {
+        "name": "Halte Jurug 1",
+        "lat": -7.5651757,
+        "lon": 110.8586955
+    },
+    {
+        "name": "Halte Asmi Selatan",
+        "lat": -7.5660787,
+        "lon": 110.8645285
+    },
+    {
+        "name": "Halte Asmi",
+        "lat": -7.5658778,
+        "lon": 110.8648576
+    },
+    {
+        "name": "Halte Brigif",
+        "lat": -7.567152,
+        "lon": 110.8692467
+    },
+    {
+        "name": "Halte Mitra Palur",
+        "lat": -7.5682567,
+        "lon": 110.8716592
+    },
+    {
+        "name": "Halte Palur Plaza",
+        "lat": -7.5682628,
+        "lon": 110.8736291
+    },
+    {
+        "name": "Terminal Kartasura",
+        "lat": -7.5439534,
+        "lon": 110.7351408
+    },
+    {
+        "name": "Halte Bulog",
+        "lat": -7.546818,
+        "lon": 110.7438098
+    },
+    {
+        "name": "Halte Helmina Selatan",
+        "lat": -7.559727,
+        "lon": 110.8406276
+    },
+    {
+        "name": "Terminal Palur",
+        "lat": -7.566043,
+        "lon": 110.8723768
+    },
+    {
+        "name": "Halte Pertigaan Adiyasa",
+        "lat": -7.5656347,
+        "lon": 110.868926
+    },
+    {
+        "name": "Halte RS Karima",
+        "lat": -7.5462026,
+        "lon": 110.7429542
+    },
+    {
+        "name": "Balaikota Timur",
+        "lat": -7.5700943,
+        "lon": 110.8302188
+    },
+    {
+        "name": "Halte Pasar Colomadu",
+        "lat": -7.5316611,
+        "lon": 110.747401
+    },
+    {
+        "name": "Halte Sriwedari 1 Selatan",
+        "lat": -7.5672331,
+        "lon": 110.8120007
+    },
+    {
+        "name": "Halte Pasar Pucang Sawit Selatan",
+        "lat": -7.5684269,
+        "lon": 110.8582799
+    },
+    {
+        "name": "Halte Pasar Pucang Sawit Utara",
+        "lat": -7.5682497,
+        "lon": 110.8582145
+    },
+    {
+        "name": "Halte Tugu Adipura Jurug Timur",
+        "lat": -7.5669882,
+        "lon": 110.8601758
+    },
+    {
+        "name": "Halte Tugu Adipura Jurug Barat",
+        "lat": -7.5669419,
+        "lon": 110.8600217
+    },
+    {
+        "name": "Halte Boing Tenis Center Selatan",
+        "lat": -7.5688399,
+        "lon": 110.8550643
+    },
+    {
+        "name": "Halte Boing Tenis Center Utara",
+        "lat": -7.5686996,
+        "lon": 110.8550059
+    },
+    {
+        "name": "Halte Kelurahan Pucang Sawit Selatan",
+        "lat": -7.5692279,
+        "lon": 110.852856
+    },
+    {
+        "name": "Halte Kelurahan Pucang Sawit Utara",
+        "lat": -7.5691271,
+        "lon": 110.8525664
+    },
+    {
+        "name": "Halte Perdana Oli Utara",
+        "lat": -7.5697952,
+        "lon": 110.8497029
+    },
+    {
+        "name": "Halte Perdana Oli Selatan",
+        "lat": -7.5699127,
+        "lon": 110.8497348
+    },
+    {
+        "name": "Halte Alfamart Jonasan Utara",
+        "lat": -7.5702839,
+        "lon": 110.8476047
+    },
+    {
+        "name": "Halte Alfamart Jonasan Selatan",
+        "lat": -7.5703796,
+        "lon": 110.8477449
+    },
+    {
+        "name": "Halte Tambal Ban Jonasan Timur",
+        "lat": -7.5697318,
+        "lon": 110.846692
+    },
+    {
+        "name": "Halte Tambal Ban Jonasan Barat",
+        "lat": -7.5696794,
+        "lon": 110.8465944
+    },
+    {
+        "name": "Halte Abon Sapi Jagalan Timur",
+        "lat": -7.5673535,
+        "lon": 110.8475586
+    },
+    {
+        "name": "Halte Abon Sapi Jagalan Barat",
+        "lat": -7.5674634,
+        "lon": 110.8474168
+    },
+    {
+        "name": "Halte SMP 20",
+        "lat": -7.5651819,
+        "lon": 110.846441
+    },
+    {
+        "name": "Halte SMPN 20",
+        "lat": -7.5651486,
+        "lon": 110.8465985
+    },
+    {
+        "name": "Halte Kelurahan Jagalan Selatan",
+        "lat": -7.5659187,
+        "lon": 110.8444856
+    },
+    {
+        "name": "Halte Kelurahan Jagalan Utara",
+        "lat": -7.565645,
+        "lon": 110.8450891
+    },
+    {
+        "name": "Halte Pertigaan Wonosaren Selatan",
+        "lat": -7.5656473,
+        "lon": 110.8430024
+    },
+    {
+        "name": "Halte Pertigaan Wonosaren Utara",
+        "lat": -7.5655769,
+        "lon": 110.843103
+    },
+    {
+        "name": "Halte SMA 3/SMP 14",
+        "lat": -7.5653526,
+        "lon": 110.8409576
+    },
+    {
+        "name": "Halte SMA 3 Keskop/SMP 14",
+        "lat": -7.5654151,
+        "lon": 110.840853
+    },
+    {
+        "name": "Halte Dr Loo Barat",
+        "lat": -7.5664761,
+        "lon": 110.838773
+    },
+    {
+        "name": "Halte Dr Loo Timur",
+        "lat": -7.5664638,
+        "lon": 110.8388824
+    },
+    {
+        "name": "Halte SD Warga Selatan",
+        "lat": -7.5676322,
+        "lon": 110.8366371
+    },
+    {
+        "name": "Halte SD Warga Utara",
+        "lat": -7.5674562,
+        "lon": 110.8363931
+    },
+    {
+        "name": "Halte Apotik Talenta Selatan",
+        "lat": -7.5668853,
+        "lon": 110.8345313
+    },
+    {
+        "name": "Halte Apotik Talenta Utara",
+        "lat": -7.5668297,
+        "lon": 110.8346445
+    },
+    {
+        "name": "Pasar Akik",
+        "lat": -7.573781,
+        "lon": 110.8293438
+    },
+    {
+        "name": "Pranoto Alun-Alun Utara",
+        "lat": -7.5744956,
+        "lon": 110.8298487
+    },
+    {
+        "name": "Polsek Pasar Kliwon",
+        "lat": -7.5760894,
+        "lon": 110.8290794
+    },
+    {
+        "name": "PGS Selatan",
+        "lat": -7.5741284,
+        "lon": 110.8304661
+    },
+    {
+        "name": "BTC Selatan",
+        "lat": -7.5743508,
+        "lon": 110.831235
+    },
+    {
+        "name": "Pertigaan Lodji Wetan",
+        "lat": -7.5718752,
+        "lon": 110.8330139
+    },
+    {
+        "name": "Luwes Sangkrah",
+        "lat": -7.5731397,
+        "lon": 110.8328422
+    },
+    {
+        "name": "Telkom",
+        "lat": -7.570946,
+        "lon": 110.8307171
+    },
+    {
+        "name": "Pasar Klewer",
+        "lat": -7.5750275,
+        "lon": 110.8277204
+    },
+    {
+        "name": "Halte Perbatasan Kota",
+        "lat": -7.566273,
+        "lon": 110.8632528
+    },
+    {
+        "name": "Halte Ringin Semar",
+        "lat": -7.5595117,
+        "lon": 110.8355587
+    },
+    {
+        "name": "Halte Purbowardayan",
+        "lat": -7.5596622,
+        "lon": 110.8356031
+    },
+    {
+        "name": "Halte Sekolah Warga B",
+        "lat": -7.5590476,
+        "lon": 110.8323625
+    },
+    {
+        "name": "Halte Sekolah Warga A",
+        "lat": -7.5591232,
+        "lon": 110.8322395
+    },
+    {
+        "name": "Halte SMAN 1",
+        "lat": -7.5587976,
+        "lon": 110.830783
+    },
+    {
+        "name": "Halte SMP Kristen 3",
+        "lat": -7.558844,
+        "lon": 110.8303134
+    },
+    {
+        "name": "Halte SD Banjarsari",
+        "lat": -7.5586379,
+        "lon": 110.8296799
+    },
+    {
+        "name": "Halte Ganesha",
+        "lat": -7.5586819,
+        "lon": 110.8292736
+    },
+    {
+        "name": "Halte SD Cemara 2",
+        "lat": -7.5583093,
+        "lon": 110.8274633
+    },
+    {
+        "name": "Halte TK Cemara Selatan",
+        "lat": -7.55832,
+        "lon": 110.826998
+    },
+    {
+        "name": "Halte Proliman",
+        "lat": -7.5578527,
+        "lon": 110.8246378
+    },
+    {
+        "name": "Halte Pom Bensin Balapan",
+        "lat": -7.5576743,
+        "lon": 110.8231774
+    },
+    {
+        "name": "Halte Balapan Utara",
+        "lat": -7.557347,
+        "lon": 110.8218804
+    },
+    {
+        "name": "Halte Balapan Selatan B",
+        "lat": -7.5575034,
+        "lon": 110.8220943
+    },
+    {
+        "name": "Halte Punggawan Timur",
+        "lat": -7.5584992,
+        "lon": 110.8204739
+    },
+    {
+        "name": "Halte Punggawan",
+        "lat": -7.5590953,
+        "lon": 110.8200508
+    },
+    {
+        "name": "Halte Wonder Timur",
+        "lat": -7.5615267,
+        "lon": 110.8194633
+    },
+    {
+        "name": "Halte Wonder Barat",
+        "lat": -7.5610062,
+        "lon": 110.8194947
+    },
+    {
+        "name": "Halte Hotel Sahid",
+        "lat": -7.5641886,
+        "lon": 110.8186791
+    },
+    {
+        "name": "Halte RS PKU Utara",
+        "lat": -7.564234,
+        "lon": 110.8170524
+    },
+    {
+        "name": "Halte RS PKU Solo",
+        "lat": -7.5642463,
+        "lon": 110.816825
+    },
+    {
+        "name": "Halte SDN Yosodipuro",
+        "lat": -7.5630642,
+        "lon": 110.8141112
+    },
+    {
+        "name": "Halte Muhammadiyah 2",
+        "lat": -7.5632123,
+        "lon": 110.8142837
+    },
+    {
+        "name": "Halte Apotek Kencana",
+        "lat": -7.5621588,
+        "lon": 110.8117081
+    },
+    {
+        "name": "Halte LBC",
+        "lat": -7.5623064,
+        "lon": 110.8118569
+    },
+    {
+        "name": "Halte Paragon Mall Timur",
+        "lat": -7.5625126,
+        "lon": 110.810924
+    },
+    {
+        "name": "Halte Paragon Mall",
+        "lat": -7.5615112,
+        "lon": 110.8098056
+    },
+    {
+        "name": "Halte Kota Barat",
+        "lat": -7.5617858,
+        "lon": 110.8070652
+    },
+    {
+        "name": "Halte SMPN 24",
+        "lat": -7.5636763,
+        "lon": 110.806504
+    },
+    {
+        "name": "Halte Aston",
+        "lat": -7.5640643,
+        "lon": 110.7991988
+    },
+    {
+        "name": "Halte Perempatan Batikan",
+        "lat": -7.5673457,
+        "lon": 110.7981484
+    },
+    {
+        "name": "Halte Pasar Kabangan",
+        "lat": -7.5696854,
+        "lon": 110.7967489
+    },
+    {
+        "name": "Halte Jamaatul Ichwan",
+        "lat": -7.567266,
+        "lon": 110.7923744
+    },
+    {
+        "name": "Halte Uniba",
+        "lat": -7.564007,
+        "lon": 110.7947351
+    },
+    {
+        "name": "Omah Laweyan",
+        "lat": -7.5689935,
+        "lon": 110.7944823
+    },
+    {
+        "name": "Halte Stasiun Purwosari",
+        "lat": -7.5622298,
+        "lon": 110.7960349
+    },
+    {
+        "name": "Halte Perhutani",
+        "lat": -7.5643508,
+        "lon": 110.8185316
+    },
+    {
+        "name": "Halte Tugu Kartasura",
+        "lat": -7.5500186,
+        "lon": 110.7360498
+    },
+    {
+        "name": "Halte PKU Muhammadiyah Kartasura",
+        "lat": -7.5517475,
+        "lon": 110.7361354
+    },
+    {
+        "name": "Halte Pertigaan Kartasura",
+        "lat": -7.551752,
+        "lon": 110.7363603
+    },
+    {
+        "name": "Halte Pasar Kartasura",
+        "lat": -7.5541851,
+        "lon": 110.7404122
+    },
+    {
+        "name": "Halte Tugu Kraton Kartasura",
+        "lat": -7.5549668,
+        "lon": 110.741707
+    },
+    {
+        "name": "Halte SMK Pelayaran",
+        "lat": -7.5548943,
+        "lon": 110.7414042
+    },
+    {
+        "name": "Halte Sidaromo",
+        "lat": -7.5567782,
+        "lon": 110.7447469
+    },
+    {
+        "name": "Halte Klinik Medika",
+        "lat": -7.5578105,
+        "lon": 110.7462937
+    },
+    {
+        "name": "Halte Superindo",
+        "lat": -7.5588669,
+        "lon": 110.7482476
+    },
+    {
+        "name": "Halte Superindo Selatan",
+        "lat": -7.5589876,
+        "lon": 110.7482689
+    },
+    {
+        "name": "Halte Ngadirejo",
+        "lat": -7.5610507,
+        "lon": 110.7548072
+    },
+    {
+        "name": "Halte Sidorejo Selatan",
+        "lat": -7.5610427,
+        "lon": 110.754344
+    },
+    {
+        "name": "Halte Pasar Gumpang",
+        "lat": -7.5620919,
+        "lon": 110.758023
+    },
+    {
+        "name": "Halte Gumpang Selatan",
+        "lat": -7.5626047,
+        "lon": 110.7592397
+    },
+    {
+        "name": "Halte Tyfountex Pintu Utama",
+        "lat": -7.5633053,
+        "lon": 110.7615379
+    },
+    {
+        "name": "Halte Tyfountex Utara",
+        "lat": -7.5632393,
+        "lon": 110.761643
+    },
+    {
+        "name": "Halte Tyfountex Timur",
+        "lat": -7.5641236,
+        "lon": 110.7644455
+    },
+    {
+        "name": "Halte Tyfountex Pintu Timur",
+        "lat": -7.5642697,
+        "lon": 110.764539
+    },
+    {
+        "name": "Halte Proyek Bengawan",
+        "lat": -7.5650408,
+        "lon": 110.767384
+    },
+    {
+        "name": "Halte Proyek Bengawan Selatan",
+        "lat": -7.5649936,
+        "lon": 110.7668382
+    },
+    {
+        "name": "Halte Masjid Windan",
+        "lat": -7.5659531,
+        "lon": 110.7718058
+    },
+    {
+        "name": "Halte Getuk Semar",
+        "lat": -7.5660647,
+        "lon": 110.7718742
+    },
+    {
+        "name": "Halte STIE AAS",
+        "lat": -7.5662269,
+        "lon": 110.7730087
+    },
+    {
+        "name": "Halte Praci Maloyo",
+        "lat": -7.5662907,
+        "lon": 110.77415
+    },
+    {
+        "name": "Halte Makam Haji",
+        "lat": -7.5671924,
+        "lon": 110.7799928
+    },
+    {
+        "name": "Halte STIS",
+        "lat": -7.5671991,
+        "lon": 110.7807908
+    },
+    {
+        "name": "Halte Tugu Lilin Utara",
+        "lat": -7.5676093,
+        "lon": 110.7835649
+    },
+    {
+        "name": "Halte Tugu Lilin Selatan",
+        "lat": -7.5677025,
+        "lon": 110.7834108
+    },
+    {
+        "name": "Halte Wangkung Selatan",
+        "lat": -7.5683537,
+        "lon": 110.7880699
+    },
+    {
+        "name": "Halte Jongke",
+        "lat": -7.5685434,
+        "lon": 110.7897493
+    },
+    {
+        "name": "Halte Kelurahan Laweyan",
+        "lat": -7.5696794,
+        "lon": 110.7970717
+    },
+    {
+        "name": "Halte Trubus",
+        "lat": -7.5707749,
+        "lon": 110.7999935
+    },
+    {
+        "name": "Halte Ria Miranda",
+        "lat": -7.5707084,
+        "lon": 110.8001691
+    },
+    {
+        "name": "Halte Sabar Motor",
+        "lat": -7.5712209,
+        "lon": 110.804112
+    },
+    {
+        "name": "Halte Sabar Motor Selatan",
+        "lat": -7.5712661,
+        "lon": 110.8035283
+    },
+    {
+        "name": "Halte Baron Barat",
+        "lat": -7.5713106,
+        "lon": 110.8050432
+    },
+    {
+        "name": "Halte Baron Selatan",
+        "lat": -7.57148,
+        "lon": 110.8068287
+    },
+    {
+        "name": "Halte Baron Timur",
+        "lat": -7.5713792,
+        "lon": 110.8070952
+    },
+    {
+        "name": "Halte Kecamatan Laweyan",
+        "lat": -7.5714515,
+        "lon": 110.8088444
+    },
+    {
+        "name": "Halte Kecamatan Laweyan Selatan",
+        "lat": -7.5715691,
+        "lon": 110.8088799
+    },
+    {
+        "name": "Halte BLK Timur",
+        "lat": -7.5728918,
+        "lon": 110.8100395
+    },
+    {
+        "name": "Halte Lottemart Timur",
+        "lat": -7.5770469,
+        "lon": 110.8092392
+    },
+    {
+        "name": "Halte SPBU Bunderan A",
+        "lat": -7.5804555,
+        "lon": 110.8151423
+    },
+    {
+        "name": "Halte Widya Wacana",
+        "lat": -7.5811092,
+        "lon": 110.8172355
+    },
+    {
+        "name": "Halte Gemblegan Barat",
+        "lat": -7.5818481,
+        "lon": 110.8204687
+    },
+    {
+        "name": "Halte Pertigaan Notosuman B",
+        "lat": -7.578307,
+        "lon": 110.8216477
+    },
+    {
+        "name": "Halte Kalilarangan",
+        "lat": -7.5745852,
+        "lon": 110.8229438
+    },
+    {
+        "name": "Halte Batik Keris",
+        "lat": -7.5729403,
+        "lon": 110.8235484
+    },
+    {
+        "name": "Halte Aisyiyah",
+        "lat": -7.556962,
+        "lon": 110.8491712
+    },
+    {
+        "name": "Halte Stikes Aisyiyah",
+        "lat": -7.5567199,
+        "lon": 110.8496932
+    },
+    {
+        "name": "Halte ISI",
+        "lat": -7.5567212,
+        "lon": 110.8521912
+    },
+    {
+        "name": "Halte Solo Techno Park",
+        "lat": -7.5566019,
+        "lon": 110.8534034
+    },
+    {
+        "name": "Halte Kecamatan Jebres Timur",
+        "lat": -7.5554106,
+        "lon": 110.8549598
+    },
+    {
+        "name": "Halte Kecamatan Jebres Barat",
+        "lat": -7.5555159,
+        "lon": 110.8550135
+    },
+    {
+        "name": "Halte Pintu Belakang UNS Barat",
+        "lat": -7.5542767,
+        "lon": 110.8569368
+    },
+    {
+        "name": "Halte Pintu Belakang UNS",
+        "lat": -7.5542908,
+        "lon": 110.8566417
+    },
+    {
+        "name": "Halte RS Jiwa/Taman Lansia",
+        "lat": -7.5571555,
+        "lon": 110.8605903
+    },
+    {
+        "name": "Halte Jongke Selatan",
+        "lat": -7.5686656,
+        "lon": 110.7899912
+    },
+    {
+        "name": "Halte Pasar Klewer",
+        "lat": -7.5751737,
+        "lon": 110.8264397
+    },
+    {
+        "name": "Halte Sidomumbul",
+        "lat": -7.5747121,
+        "lon": 110.8245589
+    },
+    {
+        "name": "Halte Penni Gallery",
+        "lat": -7.5739581,
+        "lon": 110.8214241
+    },
+    {
+        "name": "Halte Masjid Fatimah",
+        "lat": -7.5735255,
+        "lon": 110.8194997
+    },
+    {
+        "name": "Halte Pasar Kadipolo",
+        "lat": -7.5725051,
+        "lon": 110.8153691
+    },
+    {
+        "name": "Halte Panularan",
+        "lat": -7.5719411,
+        "lon": 110.8129216
+    },
+    {
+        "name": "Halte Polsek Kartasura",
+        "lat": -7.5513855,
+        "lon": 110.7403693
+    },
+    {
+        "name": "Halte Depan Taspen 3",
+        "lat": -7.5795942,
+        "lon": 110.8117653
+    },
+    {
+        "name": "Halte SMA N 7 A",
+        "lat": -7.5752956,
+        "lon": 110.8095604
+    },
+    {
+        "name": "Halte Wangkung",
+        "lat": -7.56824,
+        "lon": 110.7880905
+    },
+    {
+        "name": "Halte RS Karima Utama",
+        "lat": -7.5461454,
+        "lon": 110.7432208
+    },
+    {
+        "name": "Halte Kecamatan Colomadu",
+        "lat": -7.5325203,
+        "lon": 110.7489717
+    },
+    {
+        "name": "Halte Pom Bensin Utara",
+        "lat": -7.5335854,
+        "lon": 110.7524153
+    },
+    {
+        "name": "Halte Pom Bensin Colomadu",
+        "lat": -7.5335441,
+        "lon": 110.7521348
+    },
+    {
+        "name": "Halte Koramil",
+        "lat": -7.5353126,
+        "lon": 110.7549365
+    },
+    {
+        "name": "Halte Koramil Selatan",
+        "lat": -7.5355241,
+        "lon": 110.7549975
+    },
+    {
+        "name": "Halte YPAC Utara",
+        "lat": -7.5373049,
+        "lon": 110.7578896
+    },
+    {
+        "name": "Halte YPAC",
+        "lat": -7.5374669,
+        "lon": 110.7579057
+    },
+    {
+        "name": "Halte Jonggrang Utara",
+        "lat": -7.5382054,
+        "lon": 110.7597216
+    },
+    {
+        "name": "Halte Jonggrang",
+        "lat": -7.5384607,
+        "lon": 110.7599154
+    },
+    {
+        "name": "Halte IHS Selatan",
+        "lat": -7.5395557,
+        "lon": 110.762165
+    },
+    {
+        "name": "Halte ATMI",
+        "lat": -7.5413749,
+        "lon": 110.7661549
+    },
+    {
+        "name": "Halte ATMI Selatan",
+        "lat": -7.5414777,
+        "lon": 110.7661163
+    },
+    {
+        "name": "Halte Lor Inn Utara",
+        "lat": -7.5429682,
+        "lon": 110.7691848
+    },
+    {
+        "name": "Halte Lor Inn Selatan",
+        "lat": -7.5433007,
+        "lon": 110.7695955
+    },
+    {
+        "name": "Halte Lapangan Bulukan Utara",
+        "lat": -7.5440866,
+        "lon": 110.7714671
+    },
+    {
+        "name": "Halte Lapangan Bulukan Selatan",
+        "lat": -7.5442032,
+        "lon": 110.7713998
+    },
+    {
+        "name": "Halte Alana Selatan",
+        "lat": -7.5451451,
+        "lon": 110.773951
+    },
+    {
+        "name": "Halte Alana",
+        "lat": -7.5455138,
+        "lon": 110.7754593
+    },
+    {
+        "name": "Halte Solo Pos Utara",
+        "lat": -7.5470983,
+        "lon": 110.7794739
+    },
+    {
+        "name": "Halte Solopos Selatan",
+        "lat": -7.5471097,
+        "lon": 110.7790979
+    },
+    {
+        "name": "Halte DPRD Utara",
+        "lat": -7.5485332,
+        "lon": 110.7833914
+    },
+    {
+        "name": "Halte PDAM",
+        "lat": -7.5487209,
+        "lon": 110.7834569
+    },
+    {
+        "name": "Halte Adi Sucipto Barat 1",
+        "lat": -7.5493544,
+        "lon": 110.7860188
+    },
+    {
+        "name": "Halte Adi Sucipto Timur 2",
+        "lat": -7.5494395,
+        "lon": 110.7857412
+    },
+    {
+        "name": "Halte Adi Sucipto Timur 1",
+        "lat": -7.550756,
+        "lon": 110.7902717
+    },
+    {
+        "name": "Halte Holland",
+        "lat": -7.5516436,
+        "lon": 110.7925135
+    },
+    {
+        "name": "Halte Cafedangan Manahan",
+        "lat": -7.5516982,
+        "lon": 110.793201
+    },
+    {
+        "name": "Halte SMA Ursulin Utara",
+        "lat": -7.5525667,
+        "lon": 110.7958808
+    },
+    {
+        "name": "Halte Ursulin",
+        "lat": -7.5528554,
+        "lon": 110.7962245
+    },
+    {
+        "name": "Halte SMKN 4 Selatan",
+        "lat": -7.5535307,
+        "lon": 110.7980065
+    },
+    {
+        "name": "Halte SMKN 4",
+        "lat": -7.5534727,
+        "lon": 110.7983046
+    },
+    {
+        "name": "Halte TK Pembina",
+        "lat": -7.554502,
+        "lon": 110.8004831
+    },
+    {
+        "name": "Halte Bank Jateng",
+        "lat": -7.5547906,
+        "lon": 110.8014084
+    },
+    {
+        "name": "Halte RS Bhayangkara",
+        "lat": -7.5554691,
+        "lon": 110.8025552
+    },
+    {
+        "name": "Halte Stadion Manahan",
+        "lat": -7.5565544,
+        "lon": 110.8045873
+    },
+    {
+        "name": "Halte Manahan Selatan",
+        "lat": -7.5572393,
+        "lon": 110.8055174
+    },
+    {
+        "name": "Halte Gedung Wanita",
+        "lat": -7.5572846,
+        "lon": 110.808992
+    },
+    {
+        "name": "Halte Pom Bensin Manahan",
+        "lat": -7.554925,
+        "lon": 110.8116709
+    },
+    {
+        "name": "Halte PLN Manahan",
+        "lat": -7.5550179,
+        "lon": 110.8117325
+    },
+    {
+        "name": "Halte RS Brayat",
+        "lat": -7.5529506,
+        "lon": 110.8143707
+    },
+    {
+        "name": "Halte Dewa Dewi Selatan",
+        "lat": -7.5536549,
+        "lon": 110.8186694
+    },
+    {
+        "name": "Halte Dewa Dewi",
+        "lat": -7.5535239,
+        "lon": 110.8184087
+    },
+    {
+        "name": "Terminal Tirtonadi",
+        "lat": -7.5528723,
+        "lon": 110.8208185
+    },
+    {
+        "name": "Halte Viaduk Gilingan",
+        "lat": -7.5541493,
+        "lon": 110.8274547
+    },
+    {
+        "name": "Halte Pasar Ngemplak Selatan",
+        "lat": -7.5545927,
+        "lon": 110.8300056
+    },
+    {
+        "name": "Halte Pasar Ngemplak",
+        "lat": -7.554504,
+        "lon": 110.8303049
+    },
+    {
+        "name": "Halte Perempatan AUB",
+        "lat": -7.5546384,
+        "lon": 110.8339494
+    },
+    {
+        "name": "Halte Perempatan AUB Selatan",
+        "lat": -7.5547402,
+        "lon": 110.8340441
+    },
+    {
+        "name": "Halte Kandang Sapi Timur",
+        "lat": -7.5561722,
+        "lon": 110.8385638
+    },
+    {
+        "name": "Halte Kandang Sapi Barat",
+        "lat": -7.5561855,
+        "lon": 110.83847
+    },
+    {
+        "name": "Halte Taman Lansia",
+        "lat": -7.5568892,
+        "lon": 110.8606583
+    },
+    {
+        "name": "Halte Rusun Jurug Barat",
+        "lat": -7.5600367,
+        "lon": 110.8604091
+    },
+    {
+        "name": "Halte Rusun Jurug Timur",
+        "lat": -7.5600726,
+        "lon": 110.8605083
+    },
+    {
+        "name": "Halte Pasar Buah Jurug Barat",
+        "lat": -7.562484,
+        "lon": 110.8588203
+    },
+    {
+        "name": "Halte Pasar Buah Jurug Timur",
+        "lat": -7.5624182,
+        "lon": 110.8590379
+    },
+    {
+        "name": "Halte Pasar Ikan",
+        "lat": -7.5530716,
+        "lon": 110.8145511
+    },
+    {
+        "name": "Halte Masjid Syeikh Zayed",
+        "lat": -7.5542763,
+        "lon": 110.8275289
+    },
+    {
+        "name": "GBI Malangjiwan Selatan",
+        "lat": -7.5298531,
+        "lon": 110.7512912
+    },
+    {
+        "name": "GBI Malangjiwan Utara",
+        "lat": -7.5297853,
+        "lon": 110.7511195
+    },
+    {
+        "name": "Apotek Kinara Utara",
+        "lat": -7.530299,
+        "lon": 110.7556789
+    },
+    {
+        "name": "Apotek Kinara Selatan",
+        "lat": -7.5303801,
+        "lon": 110.7555824
+    },
+    {
+        "name": "SMP 1 Gawanan Selatan",
+        "lat": -7.5310885,
+        "lon": 110.7585594
+    },
+    {
+        "name": "SMP 1 Gawanan Utara",
+        "lat": -7.5310412,
+        "lon": 110.7587495
+    },
+    {
+        "name": "SMK Adi Soemarmo",
+        "lat": -7.5321374,
+        "lon": 110.7611614
+    },
+    {
+        "name": "SMK Penerbangan",
+        "lat": -7.5321992,
+        "lon": 110.7610937
+    },
+    {
+        "name": "Yakkum",
+        "lat": -7.5326007,
+        "lon": 110.7652584
+    },
+    {
+        "name": "Yakkum Utara",
+        "lat": -7.5324728,
+        "lon": 110.7654658
+    },
+    {
+        "name": "Garasi BST Utara",
+        "lat": -7.5325033,
+        "lon": 110.7684589
+    },
+    {
+        "name": "Garasi BST",
+        "lat": -7.532701,
+        "lon": 110.768769
+    },
+    {
+        "name": "Akfis",
+        "lat": -7.5334691,
+        "lon": 110.771816
+    },
+    {
+        "name": "Akfis Selatan",
+        "lat": -7.5335656,
+        "lon": 110.7718293
+    },
+    {
+        "name": "Soto Sawah Utara",
+        "lat": -7.5338757,
+        "lon": 110.7766465
+    },
+    {
+        "name": "Soto Sawah Selatan",
+        "lat": -7.5339903,
+        "lon": 110.7766079
+    },
+    {
+        "name": "Puskesmas Colomadu Utara",
+        "lat": -7.5344193,
+        "lon": 110.7898368
+    },
+    {
+        "name": "Puskesmas Colomadu Selatan",
+        "lat": -7.5345243,
+        "lon": 110.7898046
+    },
+    {
+        "name": "Klodran Utara",
+        "lat": -7.5352727,
+        "lon": 110.7943972
+    },
+    {
+        "name": "Klodran Selatan",
+        "lat": -7.5353402,
+        "lon": 110.7942417
+    },
+    {
+        "name": "SMKN 9 Selatan",
+        "lat": -7.5373682,
+        "lon": 110.8030148
+    },
+    {
+        "name": "SMKN 9 Surakarta",
+        "lat": -7.5373046,
+        "lon": 110.8031537
+    },
+    {
+        "name": "SPBU Banyu Anyar",
+        "lat": -7.5406671,
+        "lon": 110.8070542
+    },
+    {
+        "name": "SMPN 23 Utara",
+        "lat": -7.5404878,
+        "lon": 110.806983
+    },
+    {
+        "name": "Graha Saba Buana",
+        "lat": -7.5441995,
+        "lon": 110.8063508
+    },
+    {
+        "name": "Graha Saba Buana Barat",
+        "lat": -7.5441862,
+        "lon": 110.8061912
+    },
+    {
+        "name": "SMK BK",
+        "lat": -7.5504577,
+        "lon": 110.8029554
+    },
+    {
+        "name": "Lapangan Sumber",
+        "lat": -7.5501782,
+        "lon": 110.8029919
+    },
+    {
+        "name": "Kota Barat/Aswata",
+        "lat": -7.561398,
+        "lon": 110.8069728
+    },
+    {
+        "name": "SMP 24 dan 25",
+        "lat": -7.5640239,
+        "lon": 110.8062449
+    },
+    {
+        "name": "Tiktok",
+        "lat": -7.5706132,
+        "lon": 110.8217376
+    },
+    {
+        "name": "Halte Singosaren",
+        "lat": -7.5733425,
+        "lon": 110.8209439
+    },
+    {
+        "name": "Simpang 4 Notosuman",
+        "lat": -7.5770326,
+        "lon": 110.819625
+    },
+    {
+        "name": "Halte Gereja-Masjid",
+        "lat": -7.5798444,
+        "lon": 110.8184832
+    },
+    {
+        "name": "Halte Sampurna Gemblegan",
+        "lat": -7.5819844,
+        "lon": 110.8197368
+    },
+    {
+        "name": "Halte Gemblegan Timur",
+        "lat": -7.5821739,
+        "lon": 110.8209313
+    },
+    {
+        "name": "Halte Pertigaan Notosuman A",
+        "lat": -7.5782053,
+        "lon": 110.8218411
+    },
+    {
+        "name": "Kalilangan Timur",
+        "lat": -7.5747639,
+        "lon": 110.823002
+    },
+    {
+        "name": "Batik Keris",
+        "lat": -7.5732617,
+        "lon": 110.8235569
+    },
+    {
+        "name": "Halte Luwes Gading Selatan",
+        "lat": -7.5833427,
+        "lon": 110.8244844
+    },
+    {
+        "name": "Halte Luwes Gading",
+        "lat": -7.5834779,
+        "lon": 110.8253736
+    },
+    {
+        "name": "Halte Pasar Gading B",
+        "lat": -7.5838392,
+        "lon": 110.8262383
+    },
+    {
+        "name": "Perempatan Baturono",
+        "lat": -7.584551,
+        "lon": 110.8287222
+    },
+    {
+        "name": "Perempatan Baturono Timur",
+        "lat": -7.5844358,
+        "lon": 110.8287337
+    },
+    {
+        "name": "Baturono Timur",
+        "lat": -7.5848048,
+        "lon": 110.8300589
+    },
+    {
+        "name": "Halte SPBU Semanggi B",
+        "lat": -7.5861907,
+        "lon": 110.8337595
+    },
+    {
+        "name": "Halte SPBU Semanggi A",
+        "lat": -7.5862525,
+        "lon": 110.8340109
+    },
+    {
+        "name": "Sub Terminal Semanggi",
+        "lat": -7.5895055,
+        "lon": 110.8350753
+    },
+    {
+        "name": "SMA MTA Surakarta",
         "lat": -7.5873449,
-        "lon": 110.8363838
+        "lon": 110.8362116
     },
     {
-        "name": "sub terminal semanggi",
-        "lat": -7.58941,
-        "lon": 110.83498
+        "name": "Jembatan Mojo",
+        "lat": -7.5905079,
+        "lon": 110.8421446
     },
     {
-        "name": "jembatan mojo",
-        "lat": -7.5895363,
-        "lon": 110.8406702
+        "name": "Ngebrak",
+        "lat": -7.5926486,
+        "lon": 110.8457576
     },
     {
-        "name": "ngebrak",
-        "lat": -7.59259,
-        "lon": 110.84584
+        "name": "Laban",
+        "lat": -7.5941096,
+        "lon": 110.8485739
     },
     {
-        "name": "laban",
-        "lat": -7.59415,
-        "lon": 110.84859
+        "name": "Graha Safira",
+        "lat": -7.5956063,
+        "lon": 110.8510498
     },
     {
-        "name": "graha safira",
-        "lat": -7.5962519,
-        "lon": 110.8506027
+        "name": "Pasar Plumbon",
+        "lat": -7.5974029,
+        "lon": 110.8545314
     },
     {
-        "name": "pasar plumbon",
-        "lat": -7.597319,
-        "lon": 110.8539404
-    },
-    {
-        "name": "gamelan",
-        "lat": -7.5986,
-        "lon": 110.85674
+        "name": "Gamelan",
+        "lat": -7.5986543,
+        "lon": 110.8567501
     },
     {
         "name": "GTP",
         "lat": -7.6004883,
-        "lon": 110.86003
+        "lon": 110.8600494
     },
     {
-        "name": "wirun",
-        "lat": -7.6046944,
-        "lon": 110.8582722
+        "name": "Wirun",
+        "lat": -7.6027883,
+        "lon": 110.8641237
     },
     {
-        "name": "polsek mojolaban",
-        "lat": -7.60320379999999,
-        "lon": 110.8647059
+        "name": "Polsek Mojolaban",
+        "lat": -7.6038723,
+        "lon": 110.8663463
     },
     {
-        "name": "sman 1 mojolaban",
-        "lat": -7.6029344,
-        "lon": 110.8690774
+        "name": "SMAN 1 Mojolaban",
+        "lat": -7.6050456,
+        "lon": 110.8681605
     },
     {
-        "name": "tugu bendo",
-        "lat": -7.60688609999999,
-        "lon": 110.8703243
+        "name": "Tugu Bendo",
+        "lat": -7.6065208,
+        "lon": 110.8700004
     },
     {
-        "name": "pasar bekonang",
-        "lat": -7.60962,
-        "lon": 110.87394
+        "name": "Pasar Bekonang",
+        "lat": -7.6098459,
+        "lon": 110.8742177
     },
     {
-        "name": "lapangan cangkol",
-        "lat": -7.6232169,
-        "lon": 110.8792447
+        "name": "Lapangan Cangkol (MTSN 1 Sukoharjo)",
+        "lat": -7.6107084,
+        "lon": 110.8791575
     },
     {
-        "name": "smp mojolaban",
-        "lat": -7.61143999999999,
-        "lon": 110.88542
+        "name": "Lapangan Cangkol",
+        "lat": -7.6105774,
+        "lon": 110.8787997
     },
     {
-        "name": "spbu sidan",
-        "lat": -7.6128501,
-        "lon": 110.8891529
+        "name": "SMP Mojolaban",
+        "lat": -7.6114162,
+        "lon": 110.8854276
     },
     {
-        "name": "simpang sidan",
-        "lat": -7.61365999999999,
-        "lon": 110.89172
+        "name": "SPBU Sidan",
+        "lat": -7.6124988,
+        "lon": 110.8886901
     },
     {
-        "name": "subter taman pelangi",
-        "lat": -7.53426999999999,
-        "lon": 110.84764
+        "name": "Halte Pasar Gading A",
+        "lat": -7.5837146,
+        "lon": 110.8262383
     },
     {
-        "name": "pasar sibela a",
-        "lat": -7.5359891,
-        "lon": 110.8454378
+        "name": "Simpang Sidan",
+        "lat": -7.6136517,
+        "lon": 110.8917145
     },
     {
-        "name": "taman jayawijaya a",
-        "lat": -7.53729,
-        "lon": 110.84281
+        "name": "Subter Taman Pelangi",
+        "lat": -7.5342236,
+        "lon": 110.847737
     },
     {
-        "name": "indomaret jayawijaya b",
-        "lat": -7.53681999999999,
-        "lon": 110.84076
+        "name": "Halte Dr. Retno Pudjiastuti",
+        "lat": -7.5347659,
+        "lon": 110.8469478
     },
     {
-        "name": "toko anugrah a",
-        "lat": -7.53622999999999,
-        "lon": 110.8391
+        "name": "Pasar Sibela B",
+        "lat": -7.535864,
+        "lon": 110.845415
     },
     {
-        "name": "perempatan busukan a",
-        "lat": -7.53564999999999,
-        "lon": 110.83737
+        "name": "Pasar Sibela A",
+        "lat": -7.5359008,
+        "lon": 110.8455141
     },
     {
-        "name": "dempo a",
-        "lat": -7.5369588,
-        "lon": 110.8370794
+        "name": "Taman Jayawijaya A",
+        "lat": -7.5372934,
+        "lon": 110.8427976
     },
     {
-        "name": "ngaglik a",
-        "lat": -7.5398062,
-        "lon": 110.8364925
+        "name": "Taman Jayawijaya B",
+        "lat": -7.5373882,
+        "lon": 110.8427233
     },
     {
-        "name": "usb poltekes a",
-        "lat": -7.5268371,
-        "lon": 110.8238804
+        "name": "Indomaret Jayawijaya A",
+        "lat": -7.5369496,
+        "lon": 110.840825
     },
     {
-        "name": "pertigaam patung banteng bibis a",
-        "lat": -7.54788999999999,
-        "lon": 110.83053
+        "name": "Indomaret Jayawijaya B",
+        "lat": -7.5368061,
+        "lon": 110.8407374
     },
     {
-        "name": "sma 5 sma 6a",
-        "lat": -7.5502049,
-        "lon": 110.8301422
+        "name": "Toko Anugrah A",
+        "lat": -7.536225,
+        "lon": 110.8390994
     },
     {
-        "name": "masjid al hakam a",
-        "lat": -7.55248119999999,
-        "lon": 110.8294831
+        "name": "Toko Anugrah B",
+        "lat": -7.5361741,
+        "lon": 110.8391846
     },
     {
-        "name": "perempatan pasar ngemplak a",
-        "lat": -7.5549,
-        "lon": 110.8293
+        "name": "Perempatan Busukan B",
+        "lat": -7.5356931,
+        "lon": 110.8373058
     },
     {
-        "name": "patung mayor ahmadi a",
-        "lat": -7.55898,
-        "lon": 110.82847
+        "name": "Perempatan Busukan A",
+        "lat": -7.5356998,
+        "lon": 110.8373728
     },
     {
-        "name": "smpn 4 a",
-        "lat": -7.56050599999999,
-        "lon": 110.828336
+        "name": "Dempo B",
+        "lat": -7.5371117,
+        "lon": 110.8369289
     },
     {
-        "name": "smk kristen 2 a",
-        "lat": -7.56089,
-        "lon": 110.82831
+        "name": "Dempo A",
+        "lat": -7.5370546,
+        "lon": 110.8370362
     },
     {
-        "name": "kelurahan stabelan 1",
-        "lat": -7.56149259999999,
-        "lon": 110.8269797
+        "name": "Ngaglik A",
+        "lat": -7.5398993,
+        "lon": 110.8363874
     },
     {
-        "name": "pasar beras a",
-        "lat": -7.56399999999999,
-        "lon": 110.82569
+        "name": "Ngaglik B",
+        "lat": -7.5396169,
+        "lon": 110.83635
     },
     {
-        "name": "perempatan pasar legi",
-        "lat": -7.56363999999999,
-        "lon": 110.82383
+        "name": "USB Poltekkes B",
+        "lat": -7.5449016,
+        "lon": 110.8341746
     },
     {
-        "name": "sma muhammadiyah 1",
-        "lat": -7.5646311,
-        "lon": 110.8219116
+        "name": "USB Poltekkes A",
+        "lat": -7.5447142,
+        "lon": 110.8344083
     },
     {
-        "name": "dealer viar",
-        "lat": -7.5631,
+        "name": "Pertigaan Patung Banteng Bibis A",
+        "lat": -7.5478469,
+        "lon": 110.8305458
+    },
+    {
+        "name": "Pertigaan Patung Banteng Bibis B",
+        "lat": -7.5477966,
+        "lon": 110.8304503
+    },
+    {
+        "name": "Perempatan Pasar Ngemplak B",
+        "lat": -7.5550863,
+        "lon": 110.8291823
+    },
+    {
+        "name": "Perempatan Pasar Ngemplak A",
+        "lat": -7.5548629,
+        "lon": 110.8293191
+    },
+    {
+        "name": "Masjid Al Hakam B",
+        "lat": -7.5524047,
+        "lon": 110.8295967
+    },
+    {
+        "name": "Masjid Al Hakam A",
+        "lat": -7.5524087,
+        "lon": 110.8297
+    },
+    {
+        "name": "Halte SMA 5/SMA 6 A",
+        "lat": -7.5501106,
+        "lon": 110.830057
+    },
+    {
+        "name": "Halte SMA 5/SMA 6 B",
+        "lat": -7.5503584,
+        "lon": 110.8299208
+    },
+    {
+        "name": "Halte Patung Mayor Ahmadi A",
+        "lat": -7.5590103,
+        "lon": 110.8284656
+    },
+    {
+        "name": "Halte Patung Mayor Ahmadi B",
+        "lat": -7.5588653,
+        "lon": 110.8281912
+    },
+    {
+        "name": "Halte SMP N 4 Surakarta A",
+        "lat": -7.5602013,
+        "lon": 110.8283599
+    },
+    {
+        "name": "Halte SMP N 4 Surakarta B",
+        "lat": -7.5601912,
+        "lon": 110.8282725
+    },
+    {
+        "name": "Halte SMK Kristen 2",
+        "lat": -7.5608944,
+        "lon": 110.8283203
+    },
+    {
+        "name": "Halte SMK Kristen 2 B",
+        "lat": -7.5610566,
+        "lon": 110.8281674
+    },
+    {
+        "name": "Halte Kelurahan Stabelan B",
+        "lat": -7.5621865,
+        "lon": 110.826773
+    },
+    {
+        "name": "Halte Kelurahan Stabelan A",
+        "lat": -7.5624657,
+        "lon": 110.8263975
+    },
+    {
+        "name": "SMP Widya Wacana",
+        "lat": -7.562147,
+        "lon": 110.826178
+    },
+    {
+        "name": "Halte Pasar Beras A",
+        "lat": -7.5639866,
+        "lon": 110.8256733
+    },
+    {
+        "name": "Perempatan Pasar Legi",
+        "lat": -7.5636247,
+        "lon": 110.8237945
+    },
+    {
+        "name": "Pasar Legi",
+        "lat": -7.5614485,
+        "lon": 110.8247702
+    },
+    {
+        "name": "Halte Rusun Belakang Mangkunegaran",
+        "lat": -7.5647591,
+        "lon": 110.8229346
+    },
+    {
+        "name": "SMA Muhammadiyah 1",
+        "lat": -7.5640819,
+        "lon": 110.8215463
+    },
+    {
+        "name": "Halte Dealer VIAR",
+        "lat": -7.5631368,
         "lon": 110.8206885
     },
     {
-        "name": "kelurahan ketelan a",
-        "lat": -7.5625,
-        "lon": 110.81992
+        "name": "Halte Kelurahan Ketelan B",
+        "lat": -7.5622466,
+        "lon": 110.8196962
     },
     {
-        "name": "monumen pers a",
-        "lat": -7.56506269999999,
-        "lon": 110.8180808
+        "name": "Halte Kelurahan Ketelan A",
+        "lat": -7.562436,
+        "lon": 110.8198222
     },
     {
-        "name": "kelurahan timuran",
-        "lat": -7.56637449999999,
-        "lon": 110.8187841
+        "name": "Timur PKU",
+        "lat": -7.5659121,
+        "lon": 110.8180688
     },
     {
-        "name": "sami luwes",
-        "lat": -7.5690328,
-        "lon": 110.8170926
+        "name": "Halte Kelurahan Timuran A",
+        "lat": -7.5668429,
+        "lon": 110.8179041
     },
     {
-        "name": "pasarkembang",
-        "lat": -7.5724513,
-        "lon": 110.8163161
+        "name": "Atria",
+        "lat": -7.5673413,
+        "lon": 110.8206472
     },
     {
-        "name": "perempatan trisakti",
-        "lat": -7.57448999999999,
-        "lon": 110.82047
+        "name": "Mangkunegaran",
+        "lat": -7.5678777,
+        "lon": 110.8221083
     },
     {
-        "name": "perempatan kalilarangan",
-        "lat": -7.57519,
-        "lon": 110.82239
+        "name": "Halte Sami Luwes",
+        "lat": -7.569945,
+        "lon": 110.8171743
     },
     {
-        "name": "perempatan grobakan a",
-        "lat": -7.58294,
-        "lon": 110.82355
+        "name": "Pasar Kembang",
+        "lat": -7.5723318,
+        "lon": 110.8167045
     },
     {
-        "name": "luwes gading a",
-        "lat": -7.583363,
-        "lon": 110.82487
+        "name": "Perempatan Trisakti",
+        "lat": -7.574481,
+        "lon": 110.820409
     },
     {
-        "name": "perempatan baturono a",
-        "lat": -7.5849525,
-        "lon": 110.8290043
+        "name": "Halte Perempatan Kalilangan",
+        "lat": -7.5751942,
+        "lon": 110.8223562
     },
     {
-        "name": "spbu semanggi a",
-        "lat": -7.58623,
-        "lon": 110.83403
+        "name": "Triwindu",
+        "lat": -7.5691377,
+        "lon": 110.8221487
     },
     {
-        "name": "subter semanggi",
-        "lat": -7.58938,
-        "lon": 110.8350067
+        "name": "Perempatan Grobakan B",
+        "lat": -7.5830528,
+        "lon": 110.8234908
     },
     {
-        "name": "bakso putra makmur",
-        "lat": -7.53763249999999,
-        "lon": 110.8473043
+        "name": "Perempatan Grobakan",
+        "lat": -7.5829259,
+        "lon": 110.8235152
     },
     {
-        "name": "kelurahan mojosongo",
-        "lat": -7.5439,
-        "lon": 110.84203
+        "name": "Apil Semanggi B",
+        "lat": -7.5854023,
+        "lon": 110.8318996
     },
     {
-        "name": "goa maria",
-        "lat": -7.54627,
-        "lon": 110.84139
+        "name": "Apil Semanggi A",
+        "lat": -7.5853015,
+        "lon": 110.831859
     },
     {
-        "name": "untoroloyo",
-        "lat": -7.55075999999999,
-        "lon": 110.84052
+        "name": "RSUD Bung Karno",
+        "lat": -7.5917445,
+        "lon": 110.8340185
     },
     {
-        "name": "pabrik jerapah a",
-        "lat": -7.55221,
-        "lon": 110.84021
+        "name": "Halte Perempatan Pasar Legi Selatan",
+        "lat": -7.5638424,
+        "lon": 110.8234816
     },
     {
-        "name": "pasar mojosongo a",
-        "lat": -7.5537,
-        "lon": 110.83924
+        "name": "Halte Bakso Putra Makmur",
+        "lat": -7.5374447,
+        "lon": 110.847261
     },
     {
-        "name": "panggung A",
-        "lat": -7.55991199999999,
-        "lon": 110.838502
+        "name": "Halte Goa Maria B",
+        "lat": -7.5463133,
+        "lon": 110.8413014
     },
     {
-        "name": "smpn 4 surakarta a",
-        "lat": -7.56025859999999,
-        "lon": 110.8285074
+        "name": "Halte Goa Maria",
+        "lat": -7.5462734,
+        "lon": 110.841398
     },
     {
-        "name": "smk kristen 2",
-        "lat": -7.56089,
-        "lon": 110.82831
+        "name": "Halte Kelurahan Mojosongo",
+        "lat": -7.5438125,
+        "lon": 110.8419492
     },
     {
-        "name": "kelurahan stabelan a",
-        "lat": -7.56246,
-        "lon": 110.82638
+        "name": "Halte Untoroloyo B",
+        "lat": -7.550871,
+        "lon": 110.8405095
     },
     {
-        "name": "rsud ngipang",
-        "lat": -7.52598,
-        "lon": 110.81193
+        "name": "Halte Untoroloyo",
+        "lat": -7.5507046,
+        "lon": 110.8406482
     },
     {
-        "name": "gkj ngipang",
-        "lat": -7.5284005,
-        "lon": 110.8130387
+        "name": "Halte Pabrik Jerapah B",
+        "lat": -7.5523446,
+        "lon": 110.8400194
     },
     {
-        "name": "ldii bayan krajan",
-        "lat": -7.5296961,
-        "lon": 110.8170136
+        "name": "Halte Pabrik Jerapah A",
+        "lat": -7.5521997,
+        "lon": 110.8401924
     },
     {
-        "name": "puskesmas kembyongan",
-        "lat": -7.5327352,
-        "lon": 110.8128067
+        "name": "Halte Pasar Mojosongo B",
+        "lat": -7.5535313,
+        "lon": 110.83909
     },
     {
-        "name": "naraya babyshop",
-        "lat": -7.53464,
-        "lon": 110.81287
+        "name": "Halte Pasar Mojosongo A",
+        "lat": -7.5536946,
+        "lon": 110.8392302
     },
     {
-        "name": "sumpingan",
-        "lat": -7.53893,
-        "lon": 110.81225
+        "name": "Halte Panggung B",
+        "lat": -7.5591183,
+        "lon": 110.8372318
     },
     {
-        "name": "sd kristen 2 stablean a",
-        "lat": -7.5408,
-        "lon": 110.81279
+        "name": "Halte Panggung A",
+        "lat": -7.5587727,
+        "lon": 110.8374566
     },
     {
-        "name": "sdn 3 banyuagung",
-        "lat": -7.54238,
-        "lon": 110.8127
+        "name": "Halte RSUD Ngipang",
+        "lat": -7.5260236,
+        "lon": 110.8119744
     },
     {
-        "name": "kimia farma banyuagung",
-        "lat": -7.54238,
-        "lon": 110.81505
+        "name": "GKJ Ngipang",
+        "lat": -7.5283798,
+        "lon": 110.813002
     },
     {
-        "name": "pasar nusukan",
-        "lat": -7.5470739,
-        "lon": 110.821048
+        "name": "LDII Bayan Krajan",
+        "lat": -7.5303647,
+        "lon": 110.8129249
     },
     {
-        "name": "jembatan tirtonadi utara",
-        "lat": -7.551,
-        "lon": 110.82199
+        "name": "Puskesmas Krembyongan",
+        "lat": -7.5326993,
+        "lon": 110.8129114
     },
     {
-        "name": "pasar papsa gilingan",
-        "lat": -7.55298999999999,
-        "lon": 110.82264
+        "name": "Naraya Baby Shop",
+        "lat": -7.5346432,
+        "lon": 110.8128903
     },
     {
-        "name": "pasar besi",
-        "lat": -7.5917899,
-        "lon": 110.8337084
+        "name": "Sumpingan 2",
+        "lat": -7.5375767,
+        "lon": 110.8124074
     },
     {
-        "name": "triharsi",
-        "lat": -7.55783859999999,
-        "lon": 110.8249888
+        "name": "Sumpingan 2 Barat",
+        "lat": -7.5375594,
+        "lon": 110.8123281
     },
     {
-        "name": "arif sport pasar legi",
-        "lat": -7.55927,
-        "lon": 110.82464
+        "name": "Sumpingan",
+        "lat": -7.5389634,
+        "lon": 110.812253
     },
     {
-        "name": "pasar legi",
-        "lat": -7.5626552,
-        "lon": 110.8247223
+        "name": "SD 3 Banyu Agung",
+        "lat": -7.5423494,
+        "lon": 110.8126384
     },
     {
-        "name": "smp widya wacana",
-        "lat": -7.56203319999999,
-        "lon": 110.8260413
+        "name": "SD Kristen 2 Stabelan A",
+        "lat": -7.5409609,
+        "lon": 110.8128057
     },
     {
-        "name": "pdam stabelan",
-        "lat": -7.56284,
-        "lon": 110.82859
+        "name": "SD 3 Banyuagung",
+        "lat": -7.5423665,
+        "lon": 110.8127004
     },
     {
-        "name": "apotik widuran",
-        "lat": -7.5647671,
-        "lon": 110.8283736
+        "name": "Kimia Farma Banyu Agung",
+        "lat": -7.5423231,
+        "lon": 110.8148773
     },
     {
-        "name": "pegadaian widuran",
-        "lat": -7.56568,
-        "lon": 110.83097
+        "name": "Luwes Nusukan 1",
+        "lat": -7.5417742,
+        "lon": 110.8203499
     },
     {
-        "name": "kejaksaan",
-        "lat": -7.56591,
-        "lon": 110.83212
+        "name": "Luwes Nusukan 2",
+        "lat": -7.541743,
+        "lon": 110.8204736
     },
     {
-        "name": "pasar akik",
-        "lat": -7.57376999999999,
-        "lon": 110.82936
+        "name": "Pasar Nusukan",
+        "lat": -7.5465379,
+        "lon": 110.8206603
     },
     {
-        "name": "alun alun utara",
-        "lat": -7.5752054,
-        "lon": 110.8296154
+        "name": "Jembatan Terminal Tirtonadi",
+        "lat": -7.5508219,
+        "lon": 110.8217392
     },
     {
-        "name": "polsek pasar kliwon",
-        "lat": -7.57607,
-        "lon": 110.82909
+        "name": "Jembatan Tirtonadi Utara",
+        "lat": -7.5509667,
+        "lon": 110.8220146
     },
     {
-        "name": "pasar klewer",
-        "lat": -7.57505,
-        "lon": 110.82771
+        "name": "Pasar Papsa Gilingan",
+        "lat": -7.5530001,
+        "lon": 110.8226282
     },
     {
-        "name": "kedung lumbu a",
-        "lat": -7.57682999999999,
-        "lon": 110.83078
+        "name": "Pasar Besi Gilingan B",
+        "lat": -7.5539534,
+        "lon": 110.8234113
     },
     {
-        "name": "spbu pasar kliwon b",
-        "lat": -7.57874999999999,
-        "lon": 110.83151
+        "name": "Pasar Besi Gilingan A",
+        "lat": -7.5541337,
+        "lon": 110.8233464
     },
     {
-        "name": "SMP N 6 Surakarta",
-        "lat": -7.5817821,
-        "lon": 110.8314041
+        "name": "Proliman Balapan",
+        "lat": -7.5573185,
+        "lon": 110.8242054
     },
     {
-        "name": "perempatan katangan b",
-        "lat": -7.58285,
-        "lon": 110.82998
+        "name": "Triharsi",
+        "lat": -7.5572676,
+        "lon": 110.8243107
     },
     {
-        "name": "smkn 3 surakarta a",
-        "lat": -7.58495,
-        "lon": 110.82536
+        "name": "Arif Sport Pasar Legi",
+        "lat": -7.5593533,
+        "lon": 110.8246653
     },
     {
-        "name": "sma al islam 1 a",
-        "lat": -7.58923,
-        "lon": 110.82371
+        "name": "Luwes Kestalan",
+        "lat": -7.5609898,
+        "lon": 110.8240587
     },
     {
-        "name": "sawo kecik a",
-        "lat": -7.58866,
-        "lon": 110.8203
+        "name": "PDAM Stabelan",
+        "lat": -7.5628185,
+        "lon": 110.8285795
     },
     {
-        "name": "smpn 19 surakarta b",
-        "lat": -7.58496999999999,
-        "lon": 110.81601
+        "name": "Apotik Widuran",
+        "lat": -7.5647061,
+        "lon": 110.8282029
     },
     {
-        "name": "sd kanisius b",
-        "lat": -7.58168,
-        "lon": 110.81775
+        "name": "Pasar Legi Barat",
+        "lat": -7.5624331,
+        "lon": 110.8240194
     },
     {
-        "name": "kelurahan kratonan b",
-        "lat": -7.5794,
-        "lon": 110.81467
+        "name": "Pegadaian Widuran",
+        "lat": -7.5655643,
+        "lon": 110.830977
     },
     {
-        "name": "sma kristen 1",
-        "lat": -7.5778893,
-        "lon": 110.8152941
+        "name": "Kejaksaan",
+        "lat": -7.5659409,
+        "lon": 110.8321136
     },
     {
-        "name": "sma al islam",
-        "lat": -7.58921,
-        "lon": 110.82371
+        "name": "Kedung Lumbu B",
+        "lat": -7.5769146,
+        "lon": 110.830721
     },
     {
-        "name": "pasar kadipolo",
-        "lat": -7.57262729999999,
-        "lon": 110.8155196
+        "name": "Kedung Lumbu A",
+        "lat": -7.5768215,
+        "lon": 110.8307688
     },
     {
-        "name": "gor sritek",
-        "lat": -7.57101869999999,
-        "lon": 110.8149706
+        "name": "SPBU Pasar Kliwon B",
+        "lat": -7.5787548,
+        "lon": 110.8315118
     },
     {
-        "name": "kelurahan sriwedari",
-        "lat": -7.5698,
-        "lon": 110.81189
+        "name": "SPBU Pasar Kliwon A",
+        "lat": -7.5789654,
+        "lon": 110.8312386
     },
     {
-        "name": "zona steak",
-        "lat": -7.56934,
-        "lon": 110.8083
+        "name": "SMKN 3 Surakarta A",
+        "lat": -7.584994,
+        "lon": 110.8253679
     },
     {
-        "name": "sdn tegalsari a",
-        "lat": -7.56853,
-        "lon": 110.80295
+        "name": "SMKN 3 Surakarta B",
+        "lat": -7.5849421,
+        "lon": 110.825219
     },
     {
-        "name": "al muayyad a",
-        "lat": -7.56765,
-        "lon": 110.80092
+        "name": "SMA Al Islam B",
+        "lat": -7.5891707,
+        "lon": 110.823606
     },
     {
-        "name": "sinus",
-        "lat": -7.5672,
-        "lon": 110.79906
+        "name": "SMA Al Islam A",
+        "lat": -7.5892398,
+        "lon": 110.8237119
     },
     {
-        "name": "pusat oleholeh jongke a",
-        "lat": -7.56842999999999,
-        "lon": 110.79086
+        "name": "Sawo Kecik A",
+        "lat": -7.5886458,
+        "lon": 110.8203087
     },
     {
-        "name": "spbu pajang a",
-        "lat": -7.56813,
-        "lon": 110.78669
+        "name": "Sawo Kecik B",
+        "lat": -7.5886252,
+        "lon": 110.820388
     },
     {
-        "name": "pos A",
-        "lat": -7.57069999999999,
-        "lon": 110.7838272
+        "name": "SMPN 19 Surakarta A",
+        "lat": -7.5849766,
+        "lon": 110.8160728
     },
     {
-        "name": "bca pajang a",
-        "lat": -7.57117,
-        "lon": 110.7839
+        "name": "SMPN 19 Surakarta B",
+        "lat": -7.5849645,
+        "lon": 110.8160108
     },
     {
-        "name": "smpn 9 surakarta a",
-        "lat": -7.57328,
-        "lon": 110.78369
+        "name": "SD Kanisius A",
+        "lat": -7.5817409,
+        "lon": 110.817824
     },
     {
-        "name": "halal food a",
+        "name": "SD Kanisius B",
+        "lat": -7.5816643,
+        "lon": 110.8177671
+    },
+    {
+        "name": "Halte Kecamatan Serengan",
+        "lat": -7.5806586,
+        "lon": 110.8153826
+    },
+    {
+        "name": "Widya Wacana",
+        "lat": -7.5813389,
+        "lon": 110.8175854
+    },
+    {
+        "name": "Kelurahan Kratonan A",
+        "lat": -7.5793857,
+        "lon": 110.8147856
+    },
+    {
+        "name": "Kelurahan Kratonan B",
+        "lat": -7.579403,
+        "lon": 110.8146641
+    },
+    {
+        "name": "SMA Kristen 1",
+        "lat": -7.5777781,
+        "lon": 110.8151849
+    },
+    {
+        "name": "SMA Al Islam",
+        "lat": -7.5746218,
+        "lon": 110.8160777
+    },
+    {
+        "name": "GOR Sritek",
+        "lat": -7.5703162,
+        "lon": 110.8150436
+    },
+    {
+        "name": "Fakultas Kedokteran UMS",
+        "lat": -7.5690041,
+        "lon": 110.8063621
+    },
+    {
+        "name": "SMA Murni B",
+        "lat": -7.5688398,
+        "lon": 110.8053681
+    },
+    {
+        "name": "Simpang 4 Sutowijoyo",
+        "lat": -7.5690404,
+        "lon": 110.8066213
+    },
+    {
+        "name": "Zona Steak",
+        "lat": -7.5693373,
+        "lon": 110.8083138
+    },
+    {
+        "name": "Kelurahan Sri Wedari",
+        "lat": -7.5698343,
+        "lon": 110.8118664
+    },
+    {
+        "name": "SDN Tegalsari A",
+        "lat": -7.5685038,
+        "lon": 110.8029514
+    },
+    {
+        "name": "SDN Tegalsari B",
+        "lat": -7.5684204,
+        "lon": 110.8028755
+    },
+    {
+        "name": "Al Muayyad A",
+        "lat": -7.5676323,
+        "lon": 110.8008388
+    },
+    {
+        "name": "Al Muayyad B",
+        "lat": -7.5675366,
+        "lon": 110.8007168
+    },
+    {
+        "name": "SINUS",
+        "lat": -7.5670926,
+        "lon": 110.799039
+    },
+    {
+        "name": "SMK Al Islam",
+        "lat": -7.5664224,
+        "lon": 110.7971006
+    },
+    {
+        "name": "Universitas Duta Bangsa",
+        "lat": -7.5652992,
+        "lon": 110.7948736
+    },
+    {
+        "name": "Pusat Oleh - Oleh Jongke B",
+        "lat": -7.5682039,
+        "lon": 110.7911529
+    },
+    {
+        "name": "Pusat Oleh - Oleh Jongke A",
+        "lat": -7.5684445,
+        "lon": 110.7908404
+    },
+    {
+        "name": "RS Kustati B",
+        "lat": -7.5813249,
+        "lon": 110.8305134
+    },
+    {
+        "name": "RS Kustiati A",
+        "lat": -7.5811122,
+        "lon": 110.8304571
+    },
+    {
+        "name": "Perempatan Katangan A",
+        "lat": -7.5827452,
+        "lon": 110.8298592
+    },
+    {
+        "name": "Perempatan Katangan B",
+        "lat": -7.5828285,
+        "lon": 110.8299666
+    },
+    {
+        "name": "SPBU Pajang A",
+        "lat": -7.5681438,
+        "lon": 110.7867078
+    },
+    {
+        "name": "POS B",
+        "lat": -7.5683081,
+        "lon": 110.7837835
+    },
+    {
+        "name": "POS A",
+        "lat": -7.5684257,
+        "lon": 110.7836144
+    },
+    {
+        "name": "BCA Pajang A",
+        "lat": -7.57119,
+        "lon": 110.7839006
+    },
+    {
+        "name": "BCA Pajang B",
+        "lat": -7.5710216,
+        "lon": 110.783706
+    },
+    {
+        "name": "SMPN 9 Surakarta B",
+        "lat": -7.5732658,
+        "lon": 110.7835818
+    },
+    {
+        "name": "SMPN 9 Surakarta A",
+        "lat": -7.5732887,
+        "lon": 110.7837035
+    },
+    {
+        "name": "Halal Food A",
         "lat": -7.5760714,
-        "lon": 110.7823889
+        "lon": 110.7824427
     },
     {
-        "name": "luwes gentan a",
-        "lat": -7.57762,
-        "lon": 110.78282
+        "name": "Halal Food B",
+        "lat": -7.5760912,
+        "lon": 110.7823056
     },
     {
-        "name": "kelurahan gentan a",
-        "lat": -7.57922,
-        "lon": 110.78318
+        "name": "Luwes Gentan A",
+        "lat": -7.577589,
+        "lon": 110.7828159
     },
     {
-        "name": "bni",
-        "lat": -7.5842,
-        "lon": 110.7844
+        "name": "Luwes Gentan B",
+        "lat": -7.5776347,
+        "lon": 110.7826726
     },
     {
-        "name": "lapangan rcti gentan",
-        "lat": -7.58321,
-        "lon": 110.78354
+        "name": "Kelurahan Gentan A",
+        "lat": -7.5792398,
+        "lon": 110.7832303
     },
     {
-        "name": "pgs selatan",
-        "lat": -7.562999,
-        "lon": 110.84478
+        "name": "Kelurahan Gentan B",
+        "lat": -7.57931,
+        "lon": 110.7830781
     },
     {
-        "name": "btc selatan",
-        "lat": -7.57368749999999,
-        "lon": 110.8313159
+        "name": "BNI B",
+        "lat": -7.5819061,
+        "lon": 110.7837171
     },
     {
-        "name": "luwes sangkrah",
-        "lat": -7.5734005,
-        "lon": 110.8334058
+        "name": "BNI A",
+        "lat": -7.5819901,
+        "lon": 110.783848
     },
     {
-        "name": "pertigaan lodji wetan",
-        "lat": -7.57186,
-        "lon": 110.83301
-    },
-    {
-        "name": "telkom",
-        "lat": -7.57092,
-        "lon": 110.83065
-    },
-    {
-        "name": "apotik talenta",
-        "lat": -7.56678179999999,
-        "lon": 110.8347257
-    },
-    {
-        "name": "sd warga",
-        "lat": -7.56761789999999,
-        "lon": 110.8363499
-    },
-    {
-        "name": "dr loo",
-        "lat": -7.5666989,
-        "lon": 110.8387806
-    },
-    {
-        "name": "sma 3 smp 14",
-        "lat": -7.56534999999999,
-        "lon": 110.84096
-    },
-    {
-        "name": "pertigaan wonosaren",
-        "lat": -7.56549939999999,
-        "lon": 110.8432094
-    },
-    {
-        "name": "kelurahan jagalan",
-        "lat": -7.56575689999999,
-        "lon": 110.844802
-    },
-    {
-        "name": "smpn 20",
-        "lat": -7.56528019999999,
-        "lon": 110.8463767
-    },
-    {
-        "name": "Abon Sapi Jagalan",
-        "lat": -7.56739,
-        "lon": 110.84744
-    },
-    {
-        "name": "Tambal Ban Jonasan A",
-        "lat": -7.5697,
-        "lon": 110.84668
-    },
-    {
-        "name": "Alfamart Jonasan A",
-        "lat": -7.57028,
-        "lon": 110.8476
-    },
-    {
-        "name": "Perdana Oli A",
-        "lat": -7.56978999999999,
-        "lon": 110.84972
-    },
-    {
-        "name": "Kelurahan Pucang Sawit A",
-        "lat": -7.56912,
-        "lon": 110.85257
-    },
-    {
-        "name": "Boing Tenis Center A",
-        "lat": -7.5683186,
-        "lon": 110.8545831
-    },
-    {
-        "name": "Pasar Pucang Sawit A",
-        "lat": -7.56823,
-        "lon": 110.85824
-    },
-    {
-        "name": "Tugu Adipura Jurug A",
-        "lat": -7.56701,
-        "lon": 110.86017
+        "name": "Lapangan RCTI Gentan",
+        "lat": -7.5837055,
+        "lon": 110.7835406
     }
 ]
