@@ -1,0 +1,4115 @@
+{
+  "graph": {
+    "terminal palur": [
+      {
+        "to": "plaza palur",
+        "time": 2,
+        "corridor": "K1"
+      },
+      {
+        "to": "plaza palur",
+        "time": 2,
+        "corridor": "K2"
+      }
+    ],
+    "plaza palur": [
+      {
+        "to": "mitra palur",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "mitra palur",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "mitra palur": [
+      {
+        "to": "brigif",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "brigif",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "brigif": [
+      {
+        "to": "asmi",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "asmi selatan",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "asmi": [
+      {
+        "to": "jurug",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "adiyasa",
+        "time": 1,
+        "corridor": "K4"
+      },
+      {
+        "to": "adiyasa",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "jurug": [
+      {
+        "to": "tmp",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "tmp": [
+      {
+        "to": "uns",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "uns",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "uns": [
+      {
+        "to": "tbs",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "tbs selatan",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "tbs": [
+      {
+        "to": "sekarpace",
+        "time": 2,
+        "corridor": "K1"
+      }
+    ],
+    "sekarpace": [
+      {
+        "to": "cembengan",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "cembengan": [
+      {
+        "to": "thionghing",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "thiongting": [
+      {
+        "to": "stikes aisiyah",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "sma muhammadiyah 3": [
+      {
+        "to": "rs moewardi",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "rs moewardi",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "thionghing",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "thiongting",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "rs moewardi": [
+      {
+        "to": "hermina",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "hermina",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "sma muhammadiyah 3",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "hermina": [
+      {
+        "to": "panggung",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "panggung",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "rs moeward",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "rs moewardi",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "panggung": [
+      {
+        "to": "jebres",
+        "time": 2,
+        "corridor": "K1"
+      },
+      {
+        "to": "maria regina",
+        "time": 2,
+        "corridor": "K2"
+      },
+      {
+        "to": "hermina",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "hermina",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "jebres": [
+      {
+        "to": "mesen",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "panggung",
+        "time": 2,
+        "corridor": "K3"
+      }
+    ],
+    "mesen": [
+      {
+        "to": "timlo",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "jebres",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "timlo": [
+      {
+        "to": "warung pelem",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "mesen",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "warung pelem": [
+      {
+        "to": "pasar gede",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "timlo",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "pasar gede",
+        "time": 1,
+        "corridor": "K8"
+      },
+      {
+        "to": "apotik talenta",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "pasar gede": [
+      {
+        "to": "balaikota",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "warung pelem",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "balaikota",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "balaikota": [
+      {
+        "to": "vastenburg",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "pasar gede",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "vastenburg",
+        "time": 1,
+        "corridor": "K8"
+      },
+      {
+        "to": "pasar gedhe",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "vastenburg": [
+      {
+        "to": "gladag",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "balaikota",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "pasar akik",
+        "time": 1,
+        "corridor": "K8"
+      },
+      {
+        "to": "balaikota",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "gladag": [
+      {
+        "to": "nonongan",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "vastenburg",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "nonongan": [
+      {
+        "to": "pasar pon",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "gladag",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "pasar pon": [
+      {
+        "to": "wisma batari",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "batik keris",
+        "time": 3,
+        "corridor": "K5"
+      }
+    ],
+    "wisma batari": [
+      {
+        "to": "timuran",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "pasar pon",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "timuran": [
+      {
+        "to": "sriwedari 2",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "wisma batari",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "sriwedari 2": [
+      {
+        "to": "sriwedari 1",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "ngapeman",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "sriwedari 1": [
+      {
+        "to": "gendengan",
+        "time": 2,
+        "corridor": "K1"
+      },
+      {
+        "to": "sriwedari 2",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "gendengan": [
+      {
+        "to": "dkt",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "sriwedari 1",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "dkt": [
+      {
+        "to": "center point",
+        "time": 2,
+        "corridor": "K1"
+      },
+      {
+        "to": "kasih ibu",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "center point": [
+      {
+        "to": "subter kerten",
+        "time": 2,
+        "corridor": "K1"
+      }
+    ],
+    "sub terminal kerten": [],
+    "korem": [
+      {
+        "to": "faroka",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "faroka": [
+      {
+        "to": "smk 2 batik",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "smk 2 batik": [
+      {
+        "to": "relasi",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "relasi": [
+      {
+        "to": "rs uns",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "rs uns": [
+      {
+        "to": "rs yarsis",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "rs yarsis": [
+      {
+        "to": "ums",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "ums": [
+      {
+        "to": "transmart",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "transmart": [
+      {
+        "to": "smpn 2 kartasuro",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "smpn 2 kartasura": [],
+    "goro mall": [
+      {
+        "to": "gumpang",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "gumpang": [
+      {
+        "to": "suharti",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "suharti": [
+      {
+        "to": "gembongan",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "gembongan": [
+      {
+        "to": "spbu gembongan",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "spbu gembongan": [
+      {
+        "to": "sarwo motor",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "sarwo motor": [
+      {
+        "to": "smp muhammadiyah 1",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "smp muhammadiyah 1": [
+      {
+        "to": "bri kartasura",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "bri kartasura": [
+      {
+        "to": "singopuran",
+        "time": 2,
+        "corridor": "K1"
+      }
+    ],
+    "singopuran": [
+      {
+        "to": "smp n 1 kartasura",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "smp n 1 kartasura": [
+      {
+        "to": "bulog",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "bulog": [
+      {
+        "to": "rs karima",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "rs karima": [
+      {
+        "to": "terminal kartasura",
+        "time": 3,
+        "corridor": "K1"
+      },
+      {
+        "to": "luwes",
+        "time": 2,
+        "corridor": "K4"
+      },
+      {
+        "to": "luwes",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "terminal kartasura": [
+      {
+        "to": "luwes",
+        "time": 4,
+        "corridor": "K1"
+      },
+      {
+        "to": "tugu kartasura",
+        "time": 3,
+        "corridor": "K3"
+      },
+      {
+        "to": "rs karima",
+        "time": 4,
+        "corridor": "K4"
+      },
+      {
+        "to": "rs karima",
+        "time": 3,
+        "corridor": "K5"
+      }
+    ],
+    "luwes kartasura": [],
+    "klegen": [
+      {
+        "to": "gereja colomadu",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "gereja colomadu",
+        "time": 1,
+        "corridor": "K4"
+      },
+      {
+        "to": "gereja colomadu",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "gereja colomadu": [
+      {
+        "to": "pasar colomadu",
+        "time": 2,
+        "corridor": "K1"
+      },
+      {
+        "to": "kecamatan colomadu",
+        "time": 2,
+        "corridor": "K4"
+      },
+      {
+        "to": "pasar colomadu",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "pasar colomadu": [
+      {
+        "to": "auri",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "gbi malangjiwan",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "auri": [
+      {
+        "to": "tanjungsari",
+        "time": 2,
+        "corridor": "K1"
+      }
+    ],
+    "tanjungsari": [
+      {
+        "to": "smpn 1 ngemplak",
+        "time": 2,
+        "corridor": "K1"
+      }
+    ],
+    "smpn 1 ngemplak": [
+      {
+        "to": "bandara adi soemarmo",
+        "time": 5,
+        "corridor": "K1"
+      }
+    ],
+    "bandara adi soemarmo": [],
+    "maria regina": [
+      {
+        "to": "sekolah warga",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "sekolah warga",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "sekolah warga": [
+      {
+        "to": "smp kristen 3",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "smp kristen 3",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "smp kristen 3": [
+      {
+        "to": "margoyudan",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "patung mayor ahmadi a",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "margoyudan": [
+      {
+        "to": "sd cemara",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "sd cemara": [
+      {
+        "to": "spbu balapan",
+        "time": 2,
+        "corridor": "K2"
+      }
+    ],
+    "spbu balapan": [
+      {
+        "to": "stasiun solo balapan",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "stasiun solo balapan": [
+      {
+        "to": "punggawan",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "punggawan": [
+      {
+        "to": "wonder",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "wonder": [
+      {
+        "to": "sahid",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "sahid": [
+      {
+        "to": "rs pku surakarta",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "rs pku surakarta": [
+      {
+        "to": "sma muhammadiyah 2",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "sma muhammadiyah 2": [
+      {
+        "to": "yosodipuro",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "yosodipuro": [
+      {
+        "to": "paragon",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "paragon": [
+      {
+        "to": "kota barat",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "kota barat": [
+      {
+        "to": "smpn 24",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "smpn 24",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "smpn 24": [
+      {
+        "to": "dkt",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "gendengan",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "kasih ibu": [
+      {
+        "to": "aston",
+        "time": 2,
+        "corridor": "K2"
+      }
+    ],
+    "aston": [
+      {
+        "to": "batikan",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "batikan": [
+      {
+        "to": "pasar kabangan",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "pasar kabangan",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "pasar kabangan": [
+      {
+        "to": "omah laweyan",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "ria miranda",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "omah laweyan",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "omah laweyan": [
+      {
+        "to": "sd jamaatul ichwan",
+        "time": 1,
+        "corridor": "K2"
+      },
+      {
+        "to": "pusat oleholeh jongke a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "sd jamaatul ichwan": [
+      {
+        "to": "uniba",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "uniba": [
+      {
+        "to": "stasiun purwosari",
+        "time": 2,
+        "corridor": "K2"
+      }
+    ],
+    "stasiun purwosari": [],
+    "tugu kartasura": [
+      {
+        "to": "pku kartasura",
+        "time": 2,
+        "corridor": "K3"
+      }
+    ],
+    "pku kartasura": [
+      {
+        "to": "pasar kartasura",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "pasar kartasura": [
+      {
+        "to": "tugu keraton kartasura",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "tugu keraton kartasura": [
+      {
+        "to": "sidoramo",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "sidoramo": [
+      {
+        "to": "superindo",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "superindo": [
+      {
+        "to": "ngadirejo",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "ngadirejo": [
+      {
+        "to": "pasar gompang",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "pasar gompang": [
+      {
+        "to": "tyfountex pintu utama",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "tyfountex pintu utama": [
+      {
+        "to": "tyfountex pintu timur",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "tyfountex pintu timur": [
+      {
+        "to": "proyek bengawan",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "proyek bengawan": [
+      {
+        "to": "masjid windan",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "masjid windan": [
+      {
+        "to": "pracimaloyo",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "pracimaloyo": [
+      {
+        "to": "makam haji",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "makam haji": [
+      {
+        "to": "tugu lilin",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "tugu lilin": [
+      {
+        "to": "wangkung",
+        "time": 2,
+        "corridor": "K3"
+      }
+    ],
+    "wangkung": [
+      {
+        "to": "jongke",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "spbu pajang a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "jongke": [
+      {
+        "to": "pasar kabangan",
+        "time": 2,
+        "corridor": "K3"
+      },
+      {
+        "to": "wangkung",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "ria miranda": [
+      {
+        "to": "sabar motor",
+        "time": 2,
+        "corridor": "K3"
+      }
+    ],
+    "sabar motor": [
+      {
+        "to": "baron barat",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "baron barat": [
+      {
+        "to": "baron timur",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "baron timur": [
+      {
+        "to": "laweyan",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "laweyan": [
+      {
+        "to": "blk",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "blk": [
+      {
+        "to": "sma n 7",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "sma n 7": [
+      {
+        "to": "lotte mart",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "lotte mart": [
+      {
+        "to": "taspen",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "taspen": [
+      {
+        "to": "serengan",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "serengan": [
+      {
+        "to": "widya wacana",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "kelurahan kratonan b",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "widya wacana": [
+      {
+        "to": "gemblengan sampurna",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "serengan",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "gemblengan sampurna": [
+      {
+        "to": "notosuman",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "notosuman": [
+      {
+        "to": "kalilarangan",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "gemblengan timur",
+        "time": 2,
+        "corridor": "K5"
+      },
+      {
+        "to": "gemblengan a",
+        "time": 2,
+        "corridor": "K6"
+      }
+    ],
+    "kalilarangan": [
+      {
+        "to": "batik keris",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "notosuman",
+        "time": 3,
+        "corridor": "K5"
+      }
+    ],
+    "batik keris": [
+      {
+        "to": "nonongan",
+        "time": 2,
+        "corridor": "K3"
+      },
+      {
+        "to": "kalilarangan",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "stikes aisiyah": [
+      {
+        "to": "solo techno park",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "solo technopark",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "solo techno park": [
+      {
+        "to": "kantor kecamatan jebres",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "kantor kecamatan jebres": [
+      {
+        "to": "pintu belakang uns",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "pintu belakang uns": [
+      {
+        "to": "rs jiwa/taman lansia",
+        "time": 1,
+        "corridor": "K3"
+      },
+      {
+        "to": "taman lansia",
+        "time": 2,
+        "corridor": "K4"
+      }
+    ],
+    "rs jiwa/taman lansia": [],
+    "kecamatan colomadu": [
+      {
+        "to": "pom bensin utara",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "pom bensin utara": [
+      {
+        "to": "koramil",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "koramil": [
+      {
+        "to": "ypac utara",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "ypac utara": [
+      {
+        "to": "jonggrang utara",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "jonggrang utara": [
+      {
+        "to": "ihs utara",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "ihs utara": [
+      {
+        "to": "atmi",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "atmi": [
+      {
+        "to": "lor inn utara",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "lor inn utara": [
+      {
+        "to": "lapangan bulukan utara",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "lapangan bulukan utara": [
+      {
+        "to": "alana",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "alana": [
+      {
+        "to": "solo pos utara",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "solo pos utara": [
+      {
+        "to": "dprd utara",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "dprd utara": [
+      {
+        "to": "adi sucipto barat 1",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "adi sucipto barat 1": [
+      {
+        "to": "adisucipto timur",
+        "time": 2,
+        "corridor": "K4"
+      }
+    ],
+    "adisucipto timur": [
+      {
+        "to": "jajar",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "jajar": [
+      {
+        "to": "ursulin",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "ursulin": [
+      {
+        "to": "smkn 4 surakarta",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "smkn 4 surakarta": [
+      {
+        "to": "rs bhayangkara",
+        "time": 2,
+        "corridor": "K4"
+      }
+    ],
+    "rs bhayangkara": [
+      {
+        "to": "stadion manahan",
+        "time": 2,
+        "corridor": "K4"
+      },
+      {
+        "to": "stadion manahan",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "stadion manahan": [
+      {
+        "to": "gedung wanita",
+        "time": 2,
+        "corridor": "K4"
+      },
+      {
+        "to": "kota barat",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "gedung wanita": [
+      {
+        "to": "pom bensin manahan",
+        "time": 2,
+        "corridor": "K4"
+      }
+    ],
+    "pom bensin manahan": [
+      {
+        "to": "rs brayat",
+        "time": 2,
+        "corridor": "K4"
+      }
+    ],
+    "rs brayat": [
+      {
+        "to": "dewa dewi",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "dewa dewi": [
+      {
+        "to": "tirtonadi barat",
+        "time": 4,
+        "corridor": "K4"
+      }
+    ],
+    "terminal tirtonadi": [
+      {
+        "to": "pertigaan gilingan",
+        "time": 2,
+        "corridor": "K4"
+      },
+      {
+        "to": "pasar papsa gilingan",
+        "time": 2,
+        "corridor": "K8"
+      }
+    ],
+    "pertigaan gilingan": [
+      {
+        "to": "viaduk gilingan",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "viaduk gilingan": [
+      {
+        "to": "pasar ngemplak",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "pasar ngemplak": [
+      {
+        "to": "perempatan aub",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "perempatan aub": [
+      {
+        "to": "kandang sapi timur",
+        "time": 2,
+        "corridor": "K4"
+      }
+    ],
+    "kandang sapi timur": [
+      {
+        "to": "panggung",
+        "time": 2,
+        "corridor": "K4"
+      },
+      {
+        "to": "panggung a",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "solo technopark": [
+      {
+        "to": "kecamatan jebres timur",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "kecamatan jebres": [],
+    "taman lansia": [
+      {
+        "to": "rusun jurug timur",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "rusun jurug timur": [
+      {
+        "to": "pasar buah jurug timur",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "pasar buah jurug timur": [
+      {
+        "to": "jurug 1",
+        "time": 2,
+        "corridor": "K4"
+      }
+    ],
+    "jurug 1": [
+      {
+        "to": "asmi",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "adiyasa": [
+      {
+        "to": "terminal palur",
+        "time": 2,
+        "corridor": "K4"
+      },
+      {
+        "to": "terminal palur",
+        "time": 2,
+        "corridor": "K10"
+      }
+    ],
+    "gbi malangjiwan": [
+      {
+        "to": "apotek kirana",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "apotek kirana": [
+      {
+        "to": "smp 1 gawanan",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "smp 1 gawanan": [
+      {
+        "to": "smk adi soemarmo",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "smk adi soemarmo": [
+      {
+        "to": "yakkum",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "yakkum": [
+      {
+        "to": "garasi bst",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "garasi bst": [
+      {
+        "to": "afkis",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "afkis": [
+      {
+        "to": "soto sawah",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "soto sawah": [
+      {
+        "to": "puskesmas colomadu",
+        "time": 3,
+        "corridor": "K5"
+      }
+    ],
+    "puskesmas colomadu": [
+      {
+        "to": "klodran",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "klodran": [
+      {
+        "to": "smkn 9",
+        "time": 4,
+        "corridor": "K5"
+      }
+    ],
+    "smkn 9": [
+      {
+        "to": "smpn 23",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "smpn 23": [
+      {
+        "to": "graha saba buana",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "graha saba buana": [
+      {
+        "to": "lapangan sumber",
+        "time": 3,
+        "corridor": "K5"
+      }
+    ],
+    "lapangan sumber": [
+      {
+        "to": "smpn 12",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "smpn 12": [
+      {
+        "to": "rs bhayangkara",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "ngapeman": [
+      {
+        "to": "timuran",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "gemblegan": [],
+    "luwes gading": [
+      {
+        "to": "pasar gading",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "pasar gading": [
+      {
+        "to": "baturono",
+        "time": 2,
+        "corridor": "K5"
+      },
+      {
+        "to": "perempatan baturono a",
+        "time": 1,
+        "corridor": "K6"
+      },
+      {
+        "to": "smkn 3 surakarta a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "baturono": [
+      {
+        "to": "spbu semanggi",
+        "time": 2,
+        "corridor": "K5"
+      },
+      {
+        "to": "pasar gading",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "spbu semanggi": [
+      {
+        "to": "sma mta surakarta",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "sma mta surakarta": [
+      {
+        "to": "sub terminal semanggi",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "sub terminal semanggi": [
+      {
+        "to": "jembatan mojo",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "jembatan mojo": [
+      {
+        "to": "ngebrak",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "ngebrak": [
+      {
+        "to": "laban",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "laban": [
+      {
+        "to": "graha safira",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "graha safira": [
+      {
+        "to": "pasar plumbon",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "pasar plumbon": [
+      {
+        "to": "gamelan",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "gamelan": [
+      {
+        "to": "gtp",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "gtp": [
+      {
+        "to": "wirun",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "wirun": [
+      {
+        "to": "polsek mojolaban",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "polsek mojolaban": [
+      {
+        "to": "sman 1 mojolaban",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "sman 1 mojolaban": [
+      {
+        "to": "tugu bendo",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "tugu bendo": [
+      {
+        "to": "pasar bekonang",
+        "time": 3,
+        "corridor": "K5"
+      }
+    ],
+    "pasar bekonang": [
+      {
+        "to": "lapangan cangkol",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "lapangan cangkol": [
+      {
+        "to": "smp mojolaban",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "smp mojolaban": [
+      {
+        "to": "spbu sidan",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "spbu sidan": [
+      {
+        "to": "simpang sidan",
+        "time": 1,
+        "corridor": "K5"
+      }
+    ],
+    "simpang sidan": [],
+    "subter taman pelangi": [
+      {
+        "to": "pasar sibela a",
+        "time": 2,
+        "corridor": "K6"
+      },
+      {
+        "to": "bakso putra makmur",
+        "time": 2,
+        "corridor": "K7"
+      }
+    ],
+    "pasar sibela a": [
+      {
+        "to": "taman jayawijaya a",
+        "time": 2,
+        "corridor": "K6"
+      }
+    ],
+    "taman jayawijaya a": [
+      {
+        "to": "indomaret jayawijaya b",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "indomaret jayawijaya b": [
+      {
+        "to": "toko anugrah a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "toko anugrah a": [
+      {
+        "to": "perempatan busukan a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "perempatan busukan a": [
+      {
+        "to": "dempo a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "dempo a": [
+      {
+        "to": "ngaglik a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "ngaglik a": [
+      {
+        "to": "usb poltekes a",
+        "time": 2,
+        "corridor": "K6"
+      }
+    ],
+    "usb poltekes a": [
+      {
+        "to": "pertigaam patung banteng bibis a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "pertigaam patung banteng bibis a": [
+      {
+        "to": "sma 5 sma 6 a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "sma 5 sma 6a": [],
+    "masjid al hakam a": [
+      {
+        "to": "perempatan pasar ngemplak a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "perempatan pasar ngemplak a": [
+      {
+        "to": "patung mayor ahmadi a",
+        "time": 2,
+        "corridor": "K6"
+      }
+    ],
+    "patung mayor ahmadi a": [
+      {
+        "to": "smpn 4 a",
+        "time": 1,
+        "corridor": "K6"
+      },
+      {
+        "to": "smpn 4 surakarta a",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "smpn 4 a": [
+      {
+        "to": "smk kristen 2 a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "smk kristen 2 a": [
+      {
+        "to": "kelurahan stabelan 1",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "kelurahan stabelan 1": [
+      {
+        "to": "pasar beras a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "pasar beras a": [
+      {
+        "to": "perempatan pasar legi",
+        "time": 1,
+        "corridor": "K6"
+      },
+      {
+        "to": "perempatan pasar legi",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "perempatan pasar legi": [
+      {
+        "to": "sma muhammadiyah 1",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "sma muhammadiyah 1": [
+      {
+        "to": "dealer viar",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "dealer viar": [
+      {
+        "to": "kelurahan ketelan a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "kelurahan ketelan a": [
+      {
+        "to": "monumen pers a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "monumen pers a": [
+      {
+        "to": "kelurahan timuran",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "kelurahan timuran": [
+      {
+        "to": "sami luwes",
+        "time": 2,
+        "corridor": "K6"
+      }
+    ],
+    "sami luwes": [
+      {
+        "to": "pasarkembang",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "pasarkembang": [
+      {
+        "to": "perempatan trisakti",
+        "time": 2,
+        "corridor": "K6"
+      }
+    ],
+    "perempatan trisakti": [
+      {
+        "to": "perempatan kalilarangan",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "perempatan kalilarangan": [
+      {
+        "to": "notosuman",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "perempatan grobakan a": [
+      {
+        "to": "luwes gading a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "luwes gading a": [
+      {
+        "to": "pasar gading",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "perempatan baturono a": [
+      {
+        "to": "spbu semanggi a",
+        "time": 3,
+        "corridor": "K6"
+      }
+    ],
+    "spbu semanggi a": [
+      {
+        "to": "subter semanggi",
+        "time": 2,
+        "corridor": "K6"
+      }
+    ],
+    "subter semanggi": [],
+    "bakso putra makmur": [
+      {
+        "to": "kelurahan mojosongo",
+        "time": 3,
+        "corridor": "K7"
+      }
+    ],
+    "kelurahan mojosongo": [
+      {
+        "to": "goa maria",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "goa maria": [
+      {
+        "to": "untoroloyo",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "untoroloyo": [
+      {
+        "to": "pabrik jerapah a",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "pabrik jerapah a": [
+      {
+        "to": "pasar mojosongo a",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "pasar mojosongo a": [
+      {
+        "to": "kandang sapi timur",
+        "time": 2,
+        "corridor": "K7"
+      }
+    ],
+    "panggung a": [
+      {
+        "to": "maria regina",
+        "time": 2,
+        "corridor": "K7"
+      }
+    ],
+    "smpn 4 surakarta a": [
+      {
+        "to": "smk kristen 2",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "smk kristen 2": [
+      {
+        "to": "kelurahan stabelan a",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "kelurahan stabelan a": [
+      {
+        "to": "pasar beras a",
+        "time": 1,
+        "corridor": "K7"
+      }
+    ],
+    "rsud ngipang": [
+      {
+        "to": "gkj ngipang",
+        "time": 2,
+        "corridor": "K8"
+      }
+    ],
+    "gkj ngipang": [
+      {
+        "to": "ldii bayan krajan",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "ldii bayan krajan": [
+      {
+        "to": "puskesmas kembyongan",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "puskesmas kembyongan": [
+      {
+        "to": "naraya babyshop",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "naraya babyshop": [
+      {
+        "to": "sumpingan",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "sumpingan": [
+      {
+        "to": "sd kristen 2 stablean a",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "sd kristen 2 stablean a": [
+      {
+        "to": "sdn 3 banyuagung",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "sdn 3 banyuagung": [
+      {
+        "to": "kimia farma banyuagung",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "kimia farma banyuagung": [
+      {
+        "to": "pasar nusukan",
+        "time": 3,
+        "corridor": "K8"
+      }
+    ],
+    "pasar nusukan": [
+      {
+        "to": "jembatan tirtonadi utara",
+        "time": 2,
+        "corridor": "K8"
+      }
+    ],
+    "jembatan tirtonadi utara": [
+      {
+        "to": "terminal tirtonadi",
+        "time": 2,
+        "corridor": "K8"
+      }
+    ],
+    "pasar papsa gilingan": [
+      {
+        "to": "pasar besi",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "pasar besi": [
+      {
+        "to": "triharsi",
+        "time": 2,
+        "corridor": "K8"
+      }
+    ],
+    "triharsi": [
+      {
+        "to": "arif sport pasar legi",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "arif sport pasar legi": [
+      {
+        "to": "pasar legi",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "pasar legi": [
+      {
+        "to": "smp widya wacana",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "smp widya wacana": [
+      {
+        "to": "pdam stabelan",
+        "time": 2,
+        "corridor": "K8"
+      }
+    ],
+    "pdam stabelan": [
+      {
+        "to": "apotik widuran",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "apotik widuran": [
+      {
+        "to": "pegadaian widuran",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "pegadaian widuran": [
+      {
+        "to": "kejaksaan",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "kejaksaan": [
+      {
+        "to": "warung pelem",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "pasar akik": [
+      {
+        "to": "alun-alun utara",
+        "time": 1,
+        "corridor": "K8"
+      },
+      {
+        "to": "alun alun utara",
+        "time": 1,
+        "corridor": "K9"
+      },
+      {
+        "to": "pgs selatan",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "alun alun utara": [
+      {
+        "to": "polsek pasar kliwon",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "polsek pasar kliwon": [
+      {
+        "to": "pasar klewer",
+        "time": 1,
+        "corridor": "K8"
+      },
+      {
+        "to": "kedung lumbu a",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "pasar klewer": [
+      {
+        "to": "pasar akik",
+        "time": 1,
+        "corridor": "K9"
+      },
+      {
+        "to": "pasar akik",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "kedung lumbu a": [
+      {
+        "to": "spbu pasar kliwon b",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "spbu pasar kliwon b": [
+      {
+        "to": "smp n 6 surakarta",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "smp n 6 surakarta": [
+      {
+        "to": "perempatan katangan b",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "perempatan katangan b": [
+      {
+        "to": "baturono",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "smkn 3 surakarta a": [
+      {
+        "to": "sma al islam 1 a",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "sma al islam 1 a": [
+      {
+        "to": "sawo kecik a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "sawo kecik a": [
+      {
+        "to": "smpn 19 surakarta b",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "smpn 19 surakarta b": [
+      {
+        "to": "sd kanisius b",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "sd kanisius b": [
+      {
+        "to": "widya wacana",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "kelurahan kratonan b": [
+      {
+        "to": "sma kristen 1",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "sma kristen 1": [
+      {
+        "to": "sma al islam",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "sma al islam": [
+      {
+        "to": "pasar kadipolo",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "pasar kadipolo": [
+      {
+        "to": "gor sritek",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "gor sritek": [
+      {
+        "to": "kelurahan sriwedari",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "kelurahan sriwedari": [
+      {
+        "to": "zona steak",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "zona steak": [
+      {
+        "to": "sdn tegalsari a",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "sdn tegalsari a": [
+      {
+        "to": "al muayyad a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "al muayyad a": [
+      {
+        "to": "sinus",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "sinus": [
+      {
+        "to": "batikan",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "pusat oleholeh jongke a": [
+      {
+        "to": "jongke",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "spbu pajang a": [
+      {
+        "to": "pos a bkn pos b",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "pos a": [
+      {
+        "to": "bca pajang a",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "bca pajang a": [
+      {
+        "to": "smpn 9 surakarta a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "smpn 9 surakarta a": [
+      {
+        "to": "halal food a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "halal food a": [
+      {
+        "to": "luwes gentan a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "luwes gentan a": [
+      {
+        "to": "kelurahan gentan a",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "kelurahan gentan a": [
+      {
+        "to": "bni",
+        "time": 1,
+        "corridor": "K9"
+      }
+    ],
+    "bni": [
+      {
+        "to": "lapangan rcti gentan",
+        "time": 2,
+        "corridor": "K9"
+      }
+    ],
+    "lapangan rcti gentan": [],
+    "pgs selatan": [
+      {
+        "to": "btc selatan",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "btc selatan": [
+      {
+        "to": "luwes sangkrah",
+        "time": 2,
+        "corridor": "K10"
+      }
+    ],
+    "luwes sangkrah": [
+      {
+        "to": "pertigaan lodji wetan",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "pertigaan lodji wetan": [
+      {
+        "to": "telkom",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "telkom": [
+      {
+        "to": "vastenburg",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "apotik talenta": [
+      {
+        "to": "sd warga",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "sd warga": [
+      {
+        "to": "dr loo",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "dr loo": [
+      {
+        "to": "sma 3 smp 14",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "sma 3 smp 14": [
+      {
+        "to": "pertigaan wonosaren",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "pertigaan wonosaren": [
+      {
+        "to": "kelurahan jagalan",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "kelurahan jagalan": [
+      {
+        "to": "smpn 20",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "smpn 20": [
+      {
+        "to": "abon sapi jagalan",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "abon sapi jagalan": [
+      {
+        "to": "tambal ban jonasan a",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "tambal ban jonasan a": [
+      {
+        "to": "alfamart jonasan a",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "alfamart jonasan a": [
+      {
+        "to": "perdana oli a",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "perdana oli a": [
+      {
+        "to": "kelurahan pucang sawit a",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "kelurahan pucang sawit a": [
+      {
+        "to": "boing tenis center a",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "boing tenis center a": [
+      {
+        "to": "pasar pucang sawit a",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "pasar pucang sawit a": [
+      {
+        "to": "tugu adipura jurug a",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "tugu adipura jurug a": [
+      {
+        "to": "asmi",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ],
+    "thionghing": [
+      {
+        "to": "sma muhammadiyah 3",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "stikes aisiyah",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "subter kerten": [],
+    "sub terminak kerten": [
+      {
+        "to": "korem",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "smpn 2 kartasuro": [
+      {
+        "to": "goro mall",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
+    "luwes": [
+      {
+        "to": "klegen",
+        "time": 1,
+        "corridor": "K1"
+      },
+      {
+        "to": "klegen",
+        "time": 1,
+        "corridor": "K4"
+      },
+      {
+        "to": "klegen",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "asmi selatan": [
+      {
+        "to": "jurug 2",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "jurug 2": [
+      {
+        "to": "tmp",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "tbs selatan": [
+      {
+        "to": "sekarpace barat",
+        "time": 2,
+        "corridor": "K2"
+      }
+    ],
+    "sekarpace barat": [
+      {
+        "to": "cembengan barat",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "cembengan barat": [
+      {
+        "to": "tionghing 1",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "tionghing 1": [
+      {
+        "to": "sma muhammadiyah 3",
+        "time": 1,
+        "corridor": "K2"
+      }
+    ],
+    "rs moeward": [
+      {
+        "to": "sma muhammadiyah 3",
+        "time": 1,
+        "corridor": "K3"
+      }
+    ],
+    "tirtonadi barat": [
+      {
+        "to": "terminal tirtonadi",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "kecamatan jebres timur": [
+      {
+        "to": "pintu belakang uns",
+        "time": 1,
+        "corridor": "K4"
+      }
+    ],
+    "gemblengan timur": [
+      {
+        "to": "luwes gading",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
+    "sma 5 sma 6 a": [
+      {
+        "to": "masjid al hakam a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "gemblengan a": [
+      {
+        "to": "perempatan grobakan a",
+        "time": 1,
+        "corridor": "K6"
+      }
+    ],
+    "alun-alun utara": [
+      {
+        "to": "polsek pasar kliwon",
+        "time": 1,
+        "corridor": "K8"
+      }
+    ],
+    "pos a bkn pos b": [],
+    "pasar gedhe": [
+      {
+        "to": "warung pelem",
+        "time": 1,
+        "corridor": "K10"
+      }
+    ]
+  },
+  "coords": {
+    "terminal palur": {
+      "lat": -7.56607199999999,
+      "lon": 110.87161
+    },
+    "plaza palur": {
+      "lat": -7.5678014,
+      "lon": 110.8737268
+    },
+    "mitra palur": {
+      "lat": -7.56826,
+      "lon": 110.87167
+    },
+    "brigif": {
+      "lat": -7.56649,
+      "lon": 110.86883
+    },
+    "asmi": {
+      "lat": -7.56545,
+      "lon": 110.86489
+    },
+    "jurug": {
+      "lat": -7.56387999999999,
+      "lon": 110.6196629
+    },
+    "tmp": {
+      "lat": -7.56495,
+      "lon": 110.85681
+    },
+    "uns": {
+      "lat": -7.5594886,
+      "lon": 110.8563295
+    },
+    "tbs": {
+      "lat": -7.56365,
+      "lon": 110.85256
+    },
+    "sekarpace": {
+      "lat": -7.5614,
+      "lon": 110.84922
+    },
+    "cembengan": {
+      "lat": -7.55856,
+      "lon": 110.84812
+    },
+    "thiongting": {
+      "lat": -7.558082,
+      "lon": 110.8464
+    },
+    "sma muhammadiyah 3": {
+      "lat": -7.559202,
+      "lon": 110.84381
+    },
+    "rs moewardi": {
+      "lat": -7.55870479999999,
+      "lon": 110.8418721
+    },
+    "hermina": {
+      "lat": -7.5602845,
+      "lon": 110.8402108
+    },
+    "panggung": {
+      "lat": -7.55971,
+      "lon": 110.83843
+    },
+    "jebres": {
+      "lat": -7.55770229999999,
+      "lon": 110.8476391
+    },
+    "mesen": {
+      "lat": -7.56303,
+      "lon": 110.83534
+    },
+    "timlo": {
+      "lat": -7.5645116,
+      "lon": 110.834624
+    },
+    "warung pelem": {
+      "lat": -7.56717999999999,
+      "lon": 110.83263
+    },
+    "pasar gede": {
+      "lat": -7.569377,
+      "lon": 110.8315563
+    },
+    "balaikota": {
+      "lat": -7.5694476,
+      "lon": 110.829594
+    },
+    "vastenburg": {
+      "lat": -7.57218389999999,
+      "lon": 110.8313275
+    },
+    "gladag": {
+      "lat": -7.5720324,
+      "lon": 110.8280273
+    },
+    "nonongan": {
+      "lat": -7.57101,
+      "lon": 110.82487
+    },
+    "pasar pon": {
+      "lat": -7.6625011,
+      "lon": 111.9618081
+    },
+    "wisma batari": {
+      "lat": -7.569951,
+      "lon": 110.8200437
+    },
+    "timuran": {
+      "lat": -7.56637449999999,
+      "lon": 110.8187841
+    },
+    "sriwedari 2": {
+      "lat": -7.56799,
+      "lon": 110.81432
+    },
+    "sriwedari 1": {
+      "lat": -7.56706,
+      "lon": 110.8119
+    },
+    "gendengan": {
+      "lat": -7.5653557,
+      "lon": 110.8059815
+    },
+    "dkt": {
+      "lat": -7.56527,
+      "lon": 110.80539
+    },
+    "center point": {
+      "lat": -7.5632798,
+      "lon": 110.7987311
+    },
+    "sub terminal kerten": {
+      "lat": -7.5605099,
+      "lon": 110.7896978
+    },
+    "korem": {
+      "lat": -7.55973,
+      "lon": 110.78786
+    },
+    "faroka": {
+      "lat": -7.55853589999999,
+      "lon": 110.7842387
+    },
+    "smk 2 batik": {
+      "lat": -7.557598,
+      "lon": 110.778868
+    },
+    "relasi": {
+      "lat": -7.55768,
+      "lon": 110.7761661
+    },
+    "rs uns": {
+      "lat": -7.559315,
+      "lon": 110.7733186
+    },
+    "rs yarsis": {
+      "lat": -7.55909999999999,
+      "lon": 110.77134
+    },
+    "ums": {
+      "lat": -7.5650102,
+      "lon": 110.8068005
+    },
+    "transmart": {
+      "lat": -7.562292,
+      "lon": 110.8098311
+    },
+    "smpn 2 kartasura": {
+      "lat": -7.5609797,
+      "lon": 110.7654018
+    },
+    "goro mall": {
+      "lat": -7.56075,
+      "lon": 110.762541
+    },
+    "gumpang": {
+      "lat": -7.5673189,
+      "lon": 110.7562271
+    },
+    "suharti": {
+      "lat": -7.559467,
+      "lon": 110.75629
+    },
+    "gembongan": {
+      "lat": -7.558006,
+      "lon": 110.75366
+    },
+    "spbu gembongan": {
+      "lat": -7.5564703,
+      "lon": 110.7508007
+    },
+    "sarwo motor": {
+      "lat": -7.555268,
+      "lon": 110.747853
+    },
+    "smp muhammadiyah 1": {
+      "lat": -7.5715139,
+      "lon": 110.8288192
+    },
+    "bri kartasura": {
+      "lat": -7.553264,
+      "lon": 110.7439
+    },
+    "singopuran": {
+      "lat": -7.54998209999999,
+      "lon": 110.7494964
+    },
+    "smp n 1 kartasura": {
+      "lat": -7.548608,
+      "lon": 110.743229
+    },
+    "bulog": {
+      "lat": -7.6328274,
+      "lon": 110.8274962
+    },
+    "rs karima": {
+      "lat": -7.546158,
+      "lon": 110.742928
+    },
+    "terminal kartasura": {
+      "lat": -7.543914,
+      "lon": 110.73507
+    },
+    "luwes kartasura": {
+      "lat": -7.5775936,
+      "lon": 110.7833098
+    },
+    "klegen": {
+      "lat": -7.53789,
+      "lon": 110.74588
+    },
+    "gereja colomadu": {
+      "lat": -7.534611,
+      "lon": 110.746722
+    },
+    "pasar colomadu": {
+      "lat": -7.530962,
+      "lon": 110.747637
+    },
+    "auri": {
+      "lat": -7.527551,
+      "lon": 110.74815
+    },
+    "tanjungsari": {
+      "lat": -7.55208,
+      "lon": 110.74633
+    },
+    "smpn 1 ngemplak": {
+      "lat": -7.512383,
+      "lon": 110.74553
+    },
+    "bandara adi soemarmo": {
+      "lat": -7.5054722,
+      "lon": 110.7477598
+    },
+    "maria regina": {
+      "lat": -7.55857,
+      "lon": 110.83563
+    },
+    "sekolah warga": {
+      "lat": -7.55907,
+      "lon": 110.83246
+    },
+    "smp kristen 3": {
+      "lat": -7.5588525,
+      "lon": 110.8302689
+    },
+    "margoyudan": {
+      "lat": -7.5588255,
+      "lon": 110.8296634
+    },
+    "sd cemara": {
+      "lat": -7.55833,
+      "lon": 110.82699
+    },
+    "spbu balapan": {
+      "lat": -7.55744219999999,
+      "lon": 110.8234039
+    },
+    "stasiun solo balapan": {
+      "lat": -7.5570131,
+      "lon": 110.8213794
+    },
+    "punggawan": {
+      "lat": -7.5593789,
+      "lon": 110.8180391
+    },
+    "wonder": {
+      "lat": -7.56115089999999,
+      "lon": 110.8196281
+    },
+    "sahid": {
+      "lat": -7.5638586,
+      "lon": 110.8192154
+    },
+    "rs pku surakarta": {
+      "lat": -7.56559949999999,
+      "lon": 110.8165735
+    },
+    "sma muhammadiyah 2": {
+      "lat": -7.5634522,
+      "lon": 110.8144971
+    },
+    "yosodipuro": {
+      "lat": -7.56194,
+      "lon": 110.81174
+    },
+    "paragon": {
+      "lat": -7.5624118,
+      "lon": 110.8100122
+    },
+    "kota barat": {
+      "lat": -7.5621785,
+      "lon": 110.8074437
+    },
+    "smpn 24": {
+      "lat": -7.56372999999999,
+      "lon": 110.80648
+    },
+    "kasih ibu": {
+      "lat": -7.56310469999999,
+      "lon": 110.8016497
+    },
+    "aston": {
+      "lat": -7.56388199999999,
+      "lon": 110.7991087
+    },
+    "batikan": {
+      "lat": -7.5695177,
+      "lon": 110.8250266
+    },
+    "pasar kabangan": {
+      "lat": -7.5695802,
+      "lon": 110.7971372
+    },
+    "omah laweyan": {
+      "lat": -7.5690719,
+      "lon": 110.7945611
+    },
+    "sd jamaatul ichwan": {
+      "lat": -7.56729,
+      "lon": 110.79235
+    },
+    "uniba": {
+      "lat": -7.56296,
+      "lon": 110.79462
+    },
+    "stasiun purwosari": {
+      "lat": -7.5616918,
+      "lon": 110.7965074
+    },
+    "tugu kartasura": {
+      "lat": -7.55037169999999,
+      "lon": 110.7367071
+    },
+    "pku kartasura": {
+      "lat": -7.55169,
+      "lon": 110.73637
+    },
+    "pasar kartasura": {
+      "lat": -7.551957,
+      "lon": 110.7404109
+    },
+    "tugu keraton kartasura": {
+      "lat": -7.55491,
+      "lon": 110.74142
+    },
+    "sidoramo": {
+      "lat": -7.55676,
+      "lon": 110.74478
+    },
+    "superindo": {
+      "lat": -7.55885,
+      "lon": 110.74826
+    },
+    "ngadirejo": {
+      "lat": -7.56105,
+      "lon": 110.75486
+    },
+    "pasar gompang": {
+      "lat": -7.56208,
+      "lon": 110.75799
+    },
+    "tyfountex pintu utama": {
+      "lat": -7.56331,
+      "lon": 110.76157
+    },
+    "tyfountex pintu timur": {
+      "lat": -7.56409,
+      "lon": 110.76441
+    },
+    "proyek bengawan": {
+      "lat": -7.56503999999999,
+      "lon": 110.76733
+    },
+    "masjid windan": {
+      "lat": -7.56593999999999,
+      "lon": 110.7718
+    },
+    "pracimaloyo": {
+      "lat": -7.5649801,
+      "lon": 110.7735773
+    },
+    "makam haji": {
+      "lat": -7.56279839999999,
+      "lon": 110.774827
+    },
+    "tugu lilin": {
+      "lat": -7.5676663,
+      "lon": 110.7838034
+    },
+    "wangkung": {
+      "lat": -7.5683537,
+      "lon": 110.7880699
+    },
+    "jongke": {
+      "lat": -7.5686656,
+      "lon": 110.7899912
+    },
+    "ria miranda": {
+      "lat": -7.5707084,
+      "lon": 110.8001691
+    },
+    "sabar motor": {
+      "lat": -7.5712661,
+      "lon": 110.8035283
+    },
+    "baron barat": {
+      "lat": -7.5713106,
+      "lon": 110.8050432
+    },
+    "baron timur": {
+      "lat": -7.6385145,
+      "lon": 111.3590118
+    },
+    "laweyan": {
+      "lat": -7.5699639,
+      "lon": 110.7968624
+    },
+    "blk": {
+      "lat": -7.573509,
+      "lon": 110.8095022
+    },
+    "sma n 7": {
+      "lat": -7.57514349999999,
+      "lon": 110.8097735
+    },
+    "lotte mart": {
+      "lat": -7.5778589,
+      "lon": 110.808262
+    },
+    "taspen": {
+      "lat": -7.5715106,
+      "lon": 110.8282691
+    },
+    "serengan": {
+      "lat": -7.5804,
+      "lon": 110.81513
+    },
+    "widya wacana": {
+      "lat": -7.58111,
+      "lon": 110.81723
+    },
+    "gemblengan sampurna": {
+      "lat": -7.5817,
+      "lon": 110.81975
+    },
+    "notosuman": {
+      "lat": -7.5525998,
+      "lon": 110.8218411
+    },
+    "kalilarangan": {
+      "lat": -7.57392,
+      "lon": 110.88229
+    },
+    "batik keris": {
+      "lat": -7.57291,
+      "lon": 110.82354
+    },
+    "stikes aisiyah": {
+      "lat": -7.5568,
+      "lon": 110.84942
+    },
+    "solo techno park": {
+      "lat": -7.5560692,
+      "lon": 110.8538665
+    },
+    "kantor kecamatan jebres": {
+      "lat": -7.5550907,
+      "lon": 110.8551854
+    },
+    "pintu belakang uns": {
+      "lat": -7.55431,
+      "lon": 110.85663
+    },
+    "rs jiwa/taman lansia": {
+      "lat": -7.55686219999999,
+      "lon": 110.860724
+    },
+    "kecamatan colomadu": {
+      "lat": -7.53224349999999,
+      "lon": 110.7473305
+    },
+    "pom bensin utara": {
+      "lat": -7.5332856,
+      "lon": 110.7521496
+    },
+    "koramil": {
+      "lat": -7.53517419999999,
+      "lon": 110.7549059
+    },
+    "ypac utara": {
+      "lat": -7.5373049,
+      "lon": 110.7578896
+    },
+    "jonggrang utara": {
+      "lat": -7.5379275,
+      "lon": 110.7599966
+    },
+    "ihs utara": {
+      "lat": -7.53961,
+      "lon": 110.76249
+    },
+    "atmi": {
+      "lat": -7.54152599999999,
+      "lon": 110.766359
+    },
+    "lor inn utara": {
+      "lat": -7.5429682,
+      "lon": 110.76914
+    },
+    "lapangan bulukan utara": {
+      "lat": -7.54389,
+      "lon": 110.7715
+    },
+    "alana": {
+      "lat": -7.5449034,
+      "lon": 110.7746072
+    },
+    "solo pos utara": {
+      "lat": -7.54709,
+      "lon": 110.7795
+    },
+    "dprd utara": {
+      "lat": -7.54844,
+      "lon": 110.78341
+    },
+    "adi sucipto barat 1": {
+      "lat": -7.54933,
+      "lon": 110.78602
+    },
+    "adisucipto timur": {
+      "lat": -7.55074,
+      "lon": 110.7903
+    },
+    "jajar": {
+      "lat": -7.5517,
+      "lon": 110.79324
+    },
+    "ursulin": {
+      "lat": -7.55339759999999,
+      "lon": 110.7957826
+    },
+    "smkn 4 surakarta": {
+      "lat": -7.55325569999999,
+      "lon": 110.7983771
+    },
+    "rs bhayangkara": {
+      "lat": -7.55548,
+      "lon": 110.4714619
+    },
+    "stadion manahan": {
+      "lat": -7.5555789,
+      "lon": 110.8065334
+    },
+    "gedung wanita": {
+      "lat": -7.7832971,
+      "lon": 110.3935667
+    },
+    "pom bensin manahan": {
+      "lat": -7.5562077,
+      "lon": 110.8046283
+    },
+    "rs brayat": {
+      "lat": -7.5526844,
+      "lon": 110.8142742
+    },
+    "dewa dewi": {
+      "lat": -7.5417649,
+      "lon": 110.8206344
+    },
+    "terminal tirtonadi": {
+      "lat": -7.55188679999999,
+      "lon": 110.8195409
+    },
+    "pertigaan gilingan": {
+      "lat": -7.55329,
+      "lon": 110.82348
+    },
+    "viaduk gilingan": {
+      "lat": -7.55413999999999,
+      "lon": 110.82749
+    },
+    "pasar ngemplak": {
+      "lat": -7.70115469999999,
+      "lon": 110.4472796
+    },
+    "perempatan aub": {
+      "lat": -7.55463,
+      "lon": 110.83393
+    },
+    "kandang sapi timur": {
+      "lat": -7.5561722,
+      "lon": 110.8385638
+    },
+    "solo technopark": {
+      "lat": -7.5560692,
+      "lon": 110.8538665
+    },
+    "kecamatan jebres": {
+      "lat": -7.5550907,
+      "lon": 110.8551854
+    },
+    "taman lansia": {
+      "lat": -7.55686219999999,
+      "lon": 110.860724
+    },
+    "rusun jurug timur": {
+      "lat": -7.56008,
+      "lon": 110.86052
+    },
+    "pasar buah jurug timur": {
+      "lat": -7.5623,
+      "lon": 110.85907
+    },
+    "jurug 1": {
+      "lat": -7.56521899999999,
+      "lon": 110.858743
+    },
+    "adiyasa": {
+      "lat": -7.56562,
+      "lon": 110.86892
+    },
+    "gbi malangjiwan": {
+      "lat": -7.52989,
+      "lon": 110.75125
+    },
+    "apotek kirana": {
+      "lat": -7.53033,
+      "lon": 119.75564
+    },
+    "smp 1 gawanan": {
+      "lat": -7.53108999999999,
+      "lon": 110.75853
+    },
+    "smk adi soemarmo": {
+      "lat": -7.53007659999999,
+      "lon": 110.7618114
+    },
+    "yakkum": {
+      "lat": -7.53252,
+      "lon": 110.76544
+    },
+    "garasi bst": {
+      "lat": -7.53270999999999,
+      "lon": 110.76873
+    },
+    "afkis": {
+      "lat": -7.53353,
+      "lon": 110.7718
+    },
+    "soto sawah": {
+      "lat": -7.5340888,
+      "lon": 110.7760432
+    },
+    "puskesmas colomadu": {
+      "lat": -7.533719,
+      "lon": 110.7180361
+    },
+    "klodran": {
+      "lat": -7.53498999999999,
+      "lon": 110.7941977
+    },
+    "smkn 9": {
+      "lat": -7.53735,
+      "lon": 110.80302
+    },
+    "smpn 23": {
+      "lat": -7.54045999999999,
+      "lon": 110.80699
+    },
+    "graha saba buana": {
+      "lat": -7.5446869,
+      "lon": 110.806696
+    },
+    "lapangan sumber": {
+      "lat": -7.55017999999999,
+      "lon": 110.80301
+    },
+    "smpn 12": {
+      "lat": -7.5533,
+      "lon": 110.80032
+    },
+    "ngapeman": {
+      "lat": -7.5686609,
+      "lon": 110.8166249
+    },
+    "gemblegan": {
+      "lat": -7.58217,
+      "lon": 110.82094
+    },
+    "luwes gading": {
+      "lat": -7.583363,
+      "lon": 110.82487
+    },
+    "pasar gading": {
+      "lat": -7.58356249999999,
+      "lon": 110.8263556
+    },
+    "baturono": {
+      "lat": -7.58481,
+      "lon": 110.83011
+    },
+    "spbu semanggi": {
+      "lat": -7.5862,
+      "lon": 110.83378
+    },
+    "sma mta surakarta": {
+      "lat": -7.5873449,
+      "lon": 110.8363838
+    },
+    "sub terminal semanggi": {
+      "lat": -7.58941,
+      "lon": 110.83498
+    },
+    "jembatan mojo": {
+      "lat": -7.5895363,
+      "lon": 110.8406702
+    },
+    "ngebrak": {
+      "lat": -7.59259,
+      "lon": 110.84584
+    },
+    "laban": {
+      "lat": -7.59415,
+      "lon": 110.84859
+    },
+    "graha safira": {
+      "lat": -7.5962519,
+      "lon": 110.8506027
+    },
+    "pasar plumbon": {
+      "lat": -7.597319,
+      "lon": 110.8539404
+    },
+    "gamelan": {
+      "lat": -7.5986,
+      "lon": 110.85674
+    },
+    "gtp": {
+      "lat": -7.6004883,
+      "lon": 110.86003
+    },
+    "wirun": {
+      "lat": -7.6046944,
+      "lon": 110.8582722
+    },
+    "polsek mojolaban": {
+      "lat": -7.60320379999999,
+      "lon": 110.8647059
+    },
+    "sman 1 mojolaban": {
+      "lat": -7.6029344,
+      "lon": 110.8690774
+    },
+    "tugu bendo": {
+      "lat": -7.60688609999999,
+      "lon": 110.8703243
+    },
+    "pasar bekonang": {
+      "lat": -7.60962,
+      "lon": 110.87394
+    },
+    "lapangan cangkol": {
+      "lat": -7.6232169,
+      "lon": 110.8792447
+    },
+    "smp mojolaban": {
+      "lat": -7.61143999999999,
+      "lon": 110.88542
+    },
+    "spbu sidan": {
+      "lat": -7.6128501,
+      "lon": 110.8891529
+    },
+    "simpang sidan": {
+      "lat": -7.61365999999999,
+      "lon": 110.89172
+    },
+    "subter taman pelangi": {
+      "lat": -7.53426999999999,
+      "lon": 110.84764
+    },
+    "pasar sibela a": {
+      "lat": -7.5359891,
+      "lon": 110.8454378
+    },
+    "taman jayawijaya a": {
+      "lat": -7.53729,
+      "lon": 110.84281
+    },
+    "indomaret jayawijaya b": {
+      "lat": -7.53681999999999,
+      "lon": 110.84076
+    },
+    "toko anugrah a": {
+      "lat": -7.53622999999999,
+      "lon": 110.8391
+    },
+    "perempatan busukan a": {
+      "lat": -7.53564999999999,
+      "lon": 110.83737
+    },
+    "dempo a": {
+      "lat": -7.5369588,
+      "lon": 110.8370794
+    },
+    "ngaglik a": {
+      "lat": -7.5398062,
+      "lon": 110.8364925
+    },
+    "usb poltekes a": {
+      "lat": -7.5268371,
+      "lon": 110.8238804
+    },
+    "pertigaam patung banteng bibis a": {
+      "lat": -7.54788999999999,
+      "lon": 110.83053
+    },
+    "sma 5 sma 6a": {
+      "lat": -7.5502049,
+      "lon": 110.8301422
+    },
+    "masjid al hakam a": {
+      "lat": -7.55248119999999,
+      "lon": 110.8294831
+    },
+    "perempatan pasar ngemplak a": {
+      "lat": -7.5549,
+      "lon": 110.8293
+    },
+    "patung mayor ahmadi a": {
+      "lat": -7.55898,
+      "lon": 110.82847
+    },
+    "smpn 4 a": {
+      "lat": -7.56050599999999,
+      "lon": 110.828336
+    },
+    "smk kristen 2 a": {
+      "lat": -7.56089,
+      "lon": 110.82831
+    },
+    "kelurahan stabelan 1": {
+      "lat": -7.56149259999999,
+      "lon": 110.8269797
+    },
+    "pasar beras a": {
+      "lat": -7.56399999999999,
+      "lon": 110.82569
+    },
+    "perempatan pasar legi": {
+      "lat": -7.56363999999999,
+      "lon": 110.82383
+    },
+    "sma muhammadiyah 1": {
+      "lat": -7.5646311,
+      "lon": 110.8219116
+    },
+    "dealer viar": {
+      "lat": -7.5631,
+      "lon": 110.8206885
+    },
+    "kelurahan ketelan a": {
+      "lat": -7.5625,
+      "lon": 110.81992
+    },
+    "monumen pers a": {
+      "lat": -7.56506269999999,
+      "lon": 110.8180808
+    },
+    "kelurahan timuran": {
+      "lat": -7.56637449999999,
+      "lon": 110.8187841
+    },
+    "sami luwes": {
+      "lat": -7.5690328,
+      "lon": 110.8170926
+    },
+    "pasarkembang": {
+      "lat": -7.5724513,
+      "lon": 110.8163161
+    },
+    "perempatan trisakti": {
+      "lat": -7.57448999999999,
+      "lon": 110.82047
+    },
+    "perempatan kalilarangan": {
+      "lat": -7.57519,
+      "lon": 110.82239
+    },
+    "perempatan grobakan a": {
+      "lat": -7.58294,
+      "lon": 110.82355
+    },
+    "luwes gading a": {
+      "lat": -7.583363,
+      "lon": 110.82487
+    },
+    "perempatan baturono a": {
+      "lat": -7.5849525,
+      "lon": 110.8290043
+    },
+    "spbu semanggi a": {
+      "lat": -7.58623,
+      "lon": 110.83403
+    },
+    "subter semanggi": {
+      "lat": -7.58938,
+      "lon": 110.8350067
+    },
+    "bakso putra makmur": {
+      "lat": -7.53763249999999,
+      "lon": 110.8473043
+    },
+    "kelurahan mojosongo": {
+      "lat": -7.5439,
+      "lon": 110.84203
+    },
+    "goa maria": {
+      "lat": -7.54627,
+      "lon": 110.84139
+    },
+    "untoroloyo": {
+      "lat": -7.55075999999999,
+      "lon": 110.84052
+    },
+    "pabrik jerapah a": {
+      "lat": -7.55221,
+      "lon": 110.84021
+    },
+    "pasar mojosongo a": {
+      "lat": -7.5537,
+      "lon": 110.83924
+    },
+    "panggung a": {
+      "lat": -7.55991199999999,
+      "lon": 110.838502
+    },
+    "smpn 4 surakarta a": {
+      "lat": -7.56025859999999,
+      "lon": 110.8285074
+    },
+    "smk kristen 2": {
+      "lat": -7.56089,
+      "lon": 110.82831
+    },
+    "kelurahan stabelan a": {
+      "lat": -7.56246,
+      "lon": 110.82638
+    },
+    "rsud ngipang": {
+      "lat": -7.52598,
+      "lon": 110.81193
+    },
+    "gkj ngipang": {
+      "lat": -7.5284005,
+      "lon": 110.8130387
+    },
+    "ldii bayan krajan": {
+      "lat": -7.5296961,
+      "lon": 110.8170136
+    },
+    "puskesmas kembyongan": {
+      "lat": -7.5327352,
+      "lon": 110.8128067
+    },
+    "naraya babyshop": {
+      "lat": -7.53464,
+      "lon": 110.81287
+    },
+    "sumpingan": {
+      "lat": -7.53893,
+      "lon": 110.81225
+    },
+    "sd kristen 2 stablean a": {
+      "lat": -7.5408,
+      "lon": 110.81279
+    },
+    "sdn 3 banyuagung": {
+      "lat": -7.54238,
+      "lon": 110.8127
+    },
+    "kimia farma banyuagung": {
+      "lat": -7.54238,
+      "lon": 110.81505
+    },
+    "pasar nusukan": {
+      "lat": -7.5470739,
+      "lon": 110.821048
+    },
+    "jembatan tirtonadi utara": {
+      "lat": -7.551,
+      "lon": 110.82199
+    },
+    "pasar papsa gilingan": {
+      "lat": -7.55298999999999,
+      "lon": 110.82264
+    },
+    "pasar besi": {
+      "lat": -7.5917899,
+      "lon": 110.8337084
+    },
+    "triharsi": {
+      "lat": -7.55783859999999,
+      "lon": 110.8249888
+    },
+    "arif sport pasar legi": {
+      "lat": -7.55927,
+      "lon": 110.82464
+    },
+    "pasar legi": {
+      "lat": -7.5626552,
+      "lon": 110.8247223
+    },
+    "smp widya wacana": {
+      "lat": -7.56203319999999,
+      "lon": 110.8260413
+    },
+    "pdam stabelan": {
+      "lat": -7.56284,
+      "lon": 110.82859
+    },
+    "apotik widuran": {
+      "lat": -7.5647671,
+      "lon": 110.8283736
+    },
+    "pegadaian widuran": {
+      "lat": -7.56568,
+      "lon": 110.83097
+    },
+    "kejaksaan": {
+      "lat": -7.56591,
+      "lon": 110.83212
+    },
+    "pasar akik": {
+      "lat": -7.57376999999999,
+      "lon": 110.82936
+    },
+    "alun alun utara": {
+      "lat": -7.5752054,
+      "lon": 110.8296154
+    },
+    "polsek pasar kliwon": {
+      "lat": -7.57607,
+      "lon": 110.82909
+    },
+    "pasar klewer": {
+      "lat": -7.57505,
+      "lon": 110.82771
+    },
+    "kedung lumbu a": {
+      "lat": -7.57682999999999,
+      "lon": 110.83078
+    },
+    "spbu pasar kliwon b": {
+      "lat": -7.57874999999999,
+      "lon": 110.83151
+    },
+    "smp n 6 surakarta": {
+      "lat": -7.5817821,
+      "lon": 110.8314041
+    },
+    "perempatan katangan b": {
+      "lat": -7.58285,
+      "lon": 110.82998
+    },
+    "smkn 3 surakarta a": {
+      "lat": -7.58495,
+      "lon": 110.82536
+    },
+    "sma al islam 1 a": {
+      "lat": -7.58923,
+      "lon": 110.82371
+    },
+    "sawo kecik a": {
+      "lat": -7.58866,
+      "lon": 110.8203
+    },
+    "smpn 19 surakarta b": {
+      "lat": -7.58496999999999,
+      "lon": 110.81601
+    },
+    "sd kanisius b": {
+      "lat": -7.58168,
+      "lon": 110.81775
+    },
+    "kelurahan kratonan b": {
+      "lat": -7.5794,
+      "lon": 110.81467
+    },
+    "sma kristen 1": {
+      "lat": -7.5778893,
+      "lon": 110.8152941
+    },
+    "sma al islam": {
+      "lat": -7.58921,
+      "lon": 110.82371
+    },
+    "pasar kadipolo": {
+      "lat": -7.57262729999999,
+      "lon": 110.8155196
+    },
+    "gor sritek": {
+      "lat": -7.57101869999999,
+      "lon": 110.8149706
+    },
+    "kelurahan sriwedari": {
+      "lat": -7.5698,
+      "lon": 110.81189
+    },
+    "zona steak": {
+      "lat": -7.56934,
+      "lon": 110.8083
+    },
+    "sdn tegalsari a": {
+      "lat": -7.56853,
+      "lon": 110.80295
+    },
+    "al muayyad a": {
+      "lat": -7.56765,
+      "lon": 110.80092
+    },
+    "sinus": {
+      "lat": -7.5672,
+      "lon": 110.79906
+    },
+    "pusat oleholeh jongke a": {
+      "lat": -7.56842999999999,
+      "lon": 110.79086
+    },
+    "spbu pajang a": {
+      "lat": -7.56813,
+      "lon": 110.78669
+    },
+    "pos a": {
+      "lat": -7.57069999999999,
+      "lon": 110.7838272
+    },
+    "bca pajang a": {
+      "lat": -7.57117,
+      "lon": 110.7839
+    },
+    "smpn 9 surakarta a": {
+      "lat": -7.57328,
+      "lon": 110.78369
+    },
+    "halal food a": {
+      "lat": -7.5760714,
+      "lon": 110.7823889
+    },
+    "luwes gentan a": {
+      "lat": -7.57762,
+      "lon": 110.78282
+    },
+    "kelurahan gentan a": {
+      "lat": -7.57922,
+      "lon": 110.78318
+    },
+    "bni": {
+      "lat": -7.5842,
+      "lon": 110.7844
+    },
+    "lapangan rcti gentan": {
+      "lat": -7.58321,
+      "lon": 110.78354
+    },
+    "pgs selatan": {
+      "lat": -7.562999,
+      "lon": 110.84478
+    },
+    "btc selatan": {
+      "lat": -7.57368749999999,
+      "lon": 110.8313159
+    },
+    "luwes sangkrah": {
+      "lat": -7.5734005,
+      "lon": 110.8334058
+    },
+    "pertigaan lodji wetan": {
+      "lat": -7.57186,
+      "lon": 110.83301
+    },
+    "telkom": {
+      "lat": -7.57092,
+      "lon": 110.83065
+    },
+    "apotik talenta": {
+      "lat": -7.56678179999999,
+      "lon": 110.8347257
+    },
+    "sd warga": {
+      "lat": -7.56761789999999,
+      "lon": 110.8363499
+    },
+    "dr loo": {
+      "lat": -7.5666989,
+      "lon": 110.8387806
+    },
+    "sma 3 smp 14": {
+      "lat": -7.56534999999999,
+      "lon": 110.84096
+    },
+    "pertigaan wonosaren": {
+      "lat": -7.56549939999999,
+      "lon": 110.8432094
+    },
+    "kelurahan jagalan": {
+      "lat": -7.56575689999999,
+      "lon": 110.844802
+    },
+    "smpn 20": {
+      "lat": -7.56528019999999,
+      "lon": 110.8463767
+    },
+    "abon sapi jagalan": {
+      "lat": -7.56739,
+      "lon": 110.84744
+    },
+    "tambal ban jonasan a": {
+      "lat": -7.5697,
+      "lon": 110.84668
+    },
+    "alfamart jonasan a": {
+      "lat": -7.57028,
+      "lon": 110.8476
+    },
+    "perdana oli a": {
+      "lat": -7.56978999999999,
+      "lon": 110.84972
+    },
+    "kelurahan pucang sawit a": {
+      "lat": -7.56912,
+      "lon": 110.85257
+    },
+    "boing tenis center a": {
+      "lat": -7.5683186,
+      "lon": 110.8545831
+    },
+    "pasar pucang sawit a": {
+      "lat": -7.56823,
+      "lon": 110.85824
+    },
+    "tugu adipura jurug a": {
+      "lat": -7.56701,
+      "lon": 110.86017
+    }
+  },
+  "transit_map": {
+    "terminal palur": [
+      "K1",
+      "K10",
+      "K2",
+      "K4"
+    ],
+    "plaza palur": [
+      "K1",
+      "K2"
+    ],
+    "mitra palur": [
+      "K1",
+      "K2"
+    ],
+    "brigif": [
+      "K1",
+      "K2"
+    ],
+    "asmi": [
+      "K1",
+      "K10",
+      "K2",
+      "K4"
+    ],
+    "jurug": [
+      "K1",
+      "K2",
+      "K4"
+    ],
+    "tmp": [
+      "K1",
+      "K2"
+    ],
+    "uns": [
+      "K1",
+      "K2"
+    ],
+    "tbs": [
+      "K1",
+      "K2"
+    ],
+    "sekarpace": [
+      "K1",
+      "K2"
+    ],
+    "cembengan": [
+      "K1",
+      "K2"
+    ],
+    "rs moewardi": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ],
+    "hermina": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ],
+    "panggung": [
+      "K1",
+      "K2",
+      "K3",
+      "K4"
+    ],
+    "jebres": [
+      "K1",
+      "K3"
+    ],
+    "mesen": [
+      "K1",
+      "K3"
+    ],
+    "timlo": [
+      "K1",
+      "K3"
+    ],
+    "warung pelem": [
+      "K1",
+      "K10",
+      "K3",
+      "K8"
+    ],
+    "pasar gede": [
+      "K1",
+      "K10",
+      "K3",
+      "K8"
+    ],
+    "balaikota": [
+      "K1",
+      "K10",
+      "K3",
+      "K8"
+    ],
+    "vastenburg": [
+      "K1",
+      "K10",
+      "K3",
+      "K8"
+    ],
+    "gladag": [
+      "K1",
+      "K3"
+    ],
+    "nonongan": [
+      "K1",
+      "K3"
+    ],
+    "pasar pon": [
+      "K1",
+      "K5"
+    ],
+    "wisma batari": [
+      "K1",
+      "K5"
+    ]
+  }
+}

@@ -19,95 +19,45 @@ function getCorridors(name) {
 // ─────────────────────────────────────────────────────────
 // A* PATHFINDING
 // ─────────────────────────────────────────────────────────
-function buildGraph(edges) {
-    const g = {};
-    edges.forEach(e => {
-        const f = e.from.toLowerCase(), t = e.to.toLowerCase();
-        if (!g[f]) g[f] = [];
-        g[f].push({ to: t, time: e.time, corridor: e.corridor });
-    });
-    return g;
-}
-
-function haversine(lat1, lon1, lat2, lon2) {
-    const R = 6371, rad = Math.PI / 180;
-    const dLat = (lat2 - lat1) * rad, dLon = (lon2 - lon1) * rad;
-    const a = Math.sin(dLat/2)**2 + Math.cos(lat1*rad)*Math.cos(lat2*rad)*Math.sin(dLon/2)**2;
-    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)) * 6; // ~6 min/km walking estimate
-}
-
-function aStar(graph, originName, destName) {
-    const origin = originName.toLowerCase(), dest = destName.toLowerCase();
-    const destHalt = getHalt(destName);
-
-    function h(nodeName) {
-        const node = getHalt(nodeName);
-        if (!node || !destHalt) return 0;
-        return haversine(node.lat, node.lon, destHalt.lat, destHalt.lon);
-    }
-
-    const TRANSIT_PENALTY = 5; // minutes per corridor change
-    const open = [{ node: origin, corridor: null, cost: 0, f: h(origin), path: [{ name: originName, corridor: null }], corridors: [] }];
-    const visited = new Map();
-
-    while (open.length) {
-        open.sort((a, b) => a.f - b.f);
-        const cur = open.shift();
-
-        const stateKey = `${cur.node}|${cur.corridor}`;
-        if (visited.has(stateKey) && visited.get(stateKey) <= cur.cost) continue;
-        visited.set(stateKey, cur.cost);
-
-        if (cur.node === dest) {
-            return { path: cur.path, totalTime: cur.cost, corridors: [...new Set(cur.corridors)] };
-        }
-
-        const neighbors = graph[cur.node] || [];
-        for (const edge of neighbors) {
-            const transitCost = (cur.corridor && cur.corridor !== edge.corridor) ? TRANSIT_PENALTY : 0;
-            const newCost = cur.cost + edge.time + transitCost;
-            const newKey = `${edge.to}|${edge.corridor}`;
-            if (visited.has(newKey) && visited.get(newKey) <= newCost) continue;
-
-            const edgeName = HALTS_DATA.find(h => h.name.toLowerCase() === edge.to)?.name || edge.to;
-            open.push({
-                node: edge.to,
-                corridor: edge.corridor,
-                cost: newCost,
-                f: newCost + h(edge.to),
-                path: [...cur.path, { name: edgeName, corridor: edge.corridor }],
-                corridors: [...cur.corridors, edge.corridor]
-            });
-        }
-    }
-    return null;
-}
-
 // ─────────────────────────────────────────────────────────
-// PUBLIC API findOptimalRoute()
+// PUBLIC API findOptimalRoute() (INTEGRASI BACKEND)
 // ─────────────────────────────────────────────────────────
 async function findOptimalRoute(originName, destName) {
-    // INTEGRATION POINT: Silahkan ganti EDGES_DATA_EMBED dengan hasil fetch('edges.json') jika pakai server lokal
-    const edges = EDGES_DATA_EMBED;
-    const graph = buildGraph(edges);
+    try {
+        const response = await fetch(`http://localhost:5000/route?start=${encodeURIComponent(originName)}&goal=${encodeURIComponent(destName)}`);
+        if (!response.ok) {
+            console.error('Gagal mengambil rute dari server');
+            return null;
+        }
+        const data = await response.json();
+        
+        const annotatedPath = [];
+        for (let i = 0; i < data.path.length; i++) {
+            const rawName = data.path[i];
+            const haltObj = getHalt(rawName);
+            const stopName = haltObj ? haltObj.name : rawName;
+            let corridor = null;
+            if (i > 0) {
+                corridor = data.path_edges[i - 1].corridor;
+            }
+            annotatedPath.push({ name: stopName, corridor: corridor });
+        }
+        
+        const annotated = annotatedPath.map((stop, i) => {
+            const prev = annotatedPath[i-1];
+            const isTransit = prev && prev.corridor && stop.corridor && prev.corridor !== stop.corridor;
+            return { ...stop, isTransit };
+        });
 
-    // Efek loading simulasi network delay
-    await new Promise(r => setTimeout(r, 600));
-
-    const result = aStar(graph, originName, destName);
-    if (!result) return null;
-
-    const annotated = result.path.map((stop, i) => {
-        const prev = result.path[i-1];
-        const isTransit = prev && prev.corridor && stop.corridor && prev.corridor !== stop.corridor;
-        return { ...stop, isTransit };
-    });
-
-    return {
-        path: annotated,
-        totalTime: result.totalTime,
-        corridors: result.corridors
-    };
+        return {
+            path: annotated,
+            totalTime: data.total_time,
+            corridors: data.corridors
+        };
+    } catch (e) {
+        console.error("Backend fetch error:", e);
+        return null;
+    }
 }
 
 // ─────────────────────────────────────────────────────────
@@ -158,6 +108,38 @@ function addMarker(lat, lon, type, label) {
         .addTo(map);
     currentMarkers.push(marker);
     return marker;
+}
+
+async function fetchRouteGeometry(coords) {
+    if (coords.length < 2) return coords;
+    
+    const CHUNK_SIZE = 25;
+    let fullGeometry = [];
+    
+    for (let i = 0; i < coords.length - 1; i += (CHUNK_SIZE - 1)) {
+        const chunk = coords.slice(i, i + CHUNK_SIZE);
+        const coordString = chunk.map(c => `${c[0]},${c[1]}`).join(';');
+        const url = `https://router.project-osrm.org/route/v1/driving/${coordString}?overview=full&geometries=geojson`;
+        
+        try {
+            const res = await fetch(url);
+            const data = await res.json();
+            if (data.code === 'Ok' && data.routes.length > 0) {
+                const geom = data.routes[0].geometry.coordinates;
+                if (fullGeometry.length > 0 && geom.length > 0) {
+                    fullGeometry = fullGeometry.concat(geom.slice(1));
+                } else {
+                    fullGeometry = fullGeometry.concat(geom);
+                }
+            } else {
+                return coords;
+            }
+        } catch (e) {
+            console.error("OSRM error:", e);
+            return coords;
+        }
+    }
+    return fullGeometry;
 }
 
 function drawRoute(coords) {
@@ -299,7 +281,7 @@ function renderTimeline(result) {
     });
 }
 
-function renderMap(result) {
+async function renderMap(result) {
     clearMapLayers();
     const coords = [];
     result.path.forEach((stop, i) => {
@@ -316,12 +298,12 @@ function renderMap(result) {
     });
 
     if (coords.length > 1) {
-        map.once('idle', () => drawRoute(coords));
-        setTimeout(() => drawRoute(coords), 200);
-        
         const lngs = coords.map(c => c[0]), lats = coords.map(c => c[1]);
         const bounds = [[Math.min(...lngs)-0.005, Math.min(...lats)-0.005], [Math.max(...lngs)+0.005, Math.max(...lats)+0.005]];
         map.fitBounds(bounds, { padding: 60, duration: 1000 });
+
+        const routeGeometry = await fetchRouteGeometry(coords);
+        drawRoute(routeGeometry);
     }
 }
 
@@ -336,6 +318,11 @@ document.getElementById('btn-search').addEventListener('click', async () => {
 
     if (!originVal || !destVal) {
         alert('Pilih halte asal dan tujuan terlebih dahulu.');
+        return;
+    }
+
+    if (!getHalt(originVal) || !getHalt(destVal)) {
+        alert('Nama halte yang Anda ketik tidak ada di sistem. Mohon pilih halte yang tersedia dari daftar yang muncul.');
         return;
     }
 
@@ -388,7 +375,7 @@ async function initData() {
         
         HALTS_DATA = await haltsRes.json();
         TRANSIT_DATA = await transitRes.json();
-        EDGES_DATA_EMBED = await edgesRes.json();
+        const edgesData = await edgesRes.json();
 
         HALTS_DATA.forEach(h => { haltMap[h.name.toLowerCase()] = h; });
         TRANSIT_DATA.forEach(({ halte, koridor }) => {
@@ -398,16 +385,25 @@ async function initData() {
         });
 
         const haltNamesInEdges = new Set();
-        EDGES_DATA_EMBED.forEach(e => { haltNamesInEdges.add(e.from); haltNamesInEdges.add(e.to); });
-        const uniqueHaltNames = [...haltNamesInEdges].sort((a, b) => a.localeCompare(b, 'id'));
+        edgesData.forEach(e => {
+            haltNamesInEdges.add(e.from.toLowerCase());
+            haltNamesInEdges.add(e.to.toLowerCase());
+        });
 
+        const uniqueHaltNamesMap = new Map();
+        HALTS_DATA.forEach(h => { 
+            const k = h.name.toLowerCase();
+            if (haltNamesInEdges.has(k) && !uniqueHaltNamesMap.has(k)) {
+                uniqueHaltNamesMap.set(k, h.name);
+            }
+        });
+        const uniqueHaltNames = Array.from(uniqueHaltNamesMap.values()).sort((a, b) => a.localeCompare(b, 'id'));
+
+        const datalist = document.getElementById('halts-list');
         uniqueHaltNames.forEach(name => {
-            [selOrigin, selDest].forEach(sel => {
-                const opt = document.createElement('option');
-                opt.value = name;
-                opt.textContent = name.charAt(0).toUpperCase() + name.slice(1);
-                sel.appendChild(opt);
-            });
+            const opt = document.createElement('option');
+            opt.value = name;
+            datalist.appendChild(opt);
         });
     } catch (e) {
         console.error("Gagal memuat data JSON dari backend:", e);

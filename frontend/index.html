@@ -19,6 +19,7 @@
 <body>
 
 <div id="app">
+<datalist id="halts-list"></datalist>
 
   <!-- ══════════════ SIDEBAR ══════════════ -->
   <aside id="sidebar">
@@ -43,7 +44,7 @@
           <span class="field-label">Halte Asal</span>
           <div class="select-wrap">
             <i class="fa-solid fa-location-crosshairs field-icon"></i>
-            <select id="sel-origin"><option value="">Pilih halte asal…</option></select>
+            <input type="text" id="sel-origin" list="halts-list" autocomplete="off" placeholder="Pilih halte asal…">
             <i class="fa-solid fa-chevron-down chevron-icon"></i>
           </div>
         </div>
@@ -58,7 +59,7 @@
           <span class="field-label">Halte Tujuan</span>
           <div class="select-wrap">
             <i class="fa-solid fa-location-dot field-icon red"></i>
-            <select id="sel-dest"><option value="">Pilih halte tujuan…</option></select>
+            <input type="text" id="sel-dest" list="halts-list" autocomplete="off" placeholder="Pilih halte tujuan…">
             <i class="fa-solid fa-chevron-down chevron-icon"></i>
           </div>
         </div>

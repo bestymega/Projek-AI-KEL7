@@ -4,10 +4,12 @@ Flask API untuk pencarian rute Batik Solo Trans (BST) menggunakan A*.
 """
 
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from astar import astar, load_graph_from_file
 from graph_builder import normalize
 
 app = Flask(__name__)
+CORS(app)
 
 # ---------------------------------------------------------------------------
 # Load graph sekali saat startup
@@ -121,6 +123,7 @@ def get_route():
             "start"         : start_key,
             "goal"          : goal_key,
             "path"          : [start_key],
+            "path_edges"    : [],
             "corridors"     : [],
             "transit_points": [],
             "total_transits": 0,
@@ -138,6 +141,7 @@ def get_route():
             "start"         : start_key,
             "goal"          : goal_key,
             "path"          : result["path"],
+            "path_edges"    : result["path_edges"],
             "corridors"     : route_info["corridors"],
             "transit_points": route_info["transit_points"],
             "total_transits": route_info["total_transits"],

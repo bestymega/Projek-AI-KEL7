@@ -160,7 +160,7 @@ html, body {
   pointer-events: none;
 }
 
-select {
+select, input[type="text"] {
   width: 100%;
   padding: 11px 38px;
   border: 1.5px solid var(--gray-200);
@@ -170,12 +170,12 @@ select {
   color: var(--gray-900);
   background: var(--gray-50);
   appearance: none;
-  cursor: pointer;
+  cursor: text;
   outline: none;
   transition: border-color .2s, box-shadow .2s;
 }
 
-select:focus {
+select:focus, input[type="text"]:focus {
   border-color: var(--blue-light);
   box-shadow: 0 0 0 3px rgba(59,130,246,.15);
   background: #fff;
