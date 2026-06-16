@@ -5031,7 +5031,13 @@
       }
     ],
     "halte smp n 1 ngemplak": [],
-    "halte smp n 1 ngemplak timur": [],
+    "halte smp n 1 ngemplak timur": [
+      {
+        "to": "halte tanjung sari",
+        "time": 3,
+        "corridor": "K1"
+      }
+    ],
     "smp n 3 colomadu": [
       {
         "to": "halte lanud",
@@ -5111,13 +5117,6 @@
       {
         "to": "halte bandara adi soemarmo",
         "time": 5,
-        "corridor": "K1"
-      }
-    ],
-    "smp n 1 ngemplak timur": [
-      {
-        "to": "halte tanjung sari",
-        "time": 3,
         "corridor": "K1"
       }
     ],
