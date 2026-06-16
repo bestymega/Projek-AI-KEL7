@@ -1,2474 +1,4874 @@
 [
     {
-        "from": "Terminal palur",
-        "to": "plaza palur",
-        "time": 2,
-        "corridor": "K1"
+        "from": "Terminal Palur",
+        "to": "Halte Palur Plaza",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "plaza palur",
-        "to": "mitra palur",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Palur Plaza",
+        "to": "Halte Mitra Palur",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "mitra palur",
-        "to": "brigif",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Mitra Palur",
+        "to": "Halte Brigif",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "brigif",
-        "to": "ASMI",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Brigif",
+        "to": "Halte Asmi",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "ASMI",
-        "to": "jurug",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Asmi",
+        "to": "Halte Jurug 2",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "jurug",
-        "to": "TMP",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Jurug 2",
+        "to": "Halte TMP",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "TMP",
-        "to": "UNS",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte TMP",
+        "to": "Halte UNS Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "UNS",
-        "to": "TBS",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte UNS Selatan",
+        "to": "Halte TBS Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "TBS",
-        "to": "Sekarpace",
-        "time": 2,
-        "corridor": "K1"
+        "from": "Halte TBS Selatan",
+        "to": "Halte Sekarpace Barat",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "Sekarpace",
-        "to": "Cembengan",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Sekarpace Barat",
+        "to": "Halte Cembengan Barat",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "Cembengan",
-        "to": "Thionghing",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Cembengan Barat",
+        "to": "Halte Thiongting 1",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "Thionghing",
-        "to": "SMA Muhammadiyah 3",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Thiongting 1",
+        "to": "Halte Muhammadiyah 3 Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "SMA Muhammadiyah 3",
-        "to": "RS Moewardi",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Muhammadiyah 3 Selatan",
+        "to": "Halte RS Moewardi",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "RS Moewardi",
-        "to": "Hermina",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte RS Moewardi",
+        "to": "Halte Helmina Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "Hermina",
-        "to": "panggung",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Helmina Selatan",
+        "to": "Halte Panggung Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "panggung",
-        "to": "jebres",
-        "time": 2,
-        "corridor": "K1"
+        "from": "Halte Panggung Selatan",
+        "to": "Halte Jebres 1",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "jebres",
-        "to": "mesen",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Jebres 1",
+        "to": "Halte Mesen Timur",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "mesen",
-        "to": "timlo",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Mesen Timur",
+        "to": "Halte Timlo",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "timlo",
-        "to": "warung pelem",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Timlo",
+        "to": "Halte Warung Pelem Timur",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "warung pelem",
-        "to": "pasar gede",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Warung Pelem Timur",
+        "to": "Pasar Gede Timur",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "pasar gede",
-        "to": "balaikota",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Pasar Gede Timur",
+        "to": "Balaikota Timur",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "balaikota",
-        "to": "vastenburg",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Balaikota Timur",
+        "to": "Benteng Vastenburg",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "vastenburg",
-        "to": "gladag",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Benteng Vastenburg",
+        "to": "Halte Gladag",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "gladag",
-        "to": "nonongan",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Gladag",
+        "to": "Halte Nonongan Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "nonongan",
-        "to": "pasar pon",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Nonongan Selatan",
+        "to": "Halte Pasar Pon Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "pasar pon",
-        "to": "wisma batari",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Pasar Pon Selatan",
+        "to": "Halte Wisma Batari",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "wisma batari",
-        "to": "timuran",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Wisma Batari",
+        "to": "Halte Timuran Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "timuran",
-        "to": "sriwedari 2",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Ngapeman Selatan",
+        "to": "Halte Sriwedari 2 Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "sriwedari 2",
-        "to": "sriwedari 1",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Sriwedari 2 Selatan",
+        "to": "Halte Sriwedari 1 Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "sriwedari 1",
-        "to": "gendengan",
-        "time": 2,
-        "corridor": "K1"
+        "from": "Halte Sriwedari 1 Selatan",
+        "to": "Halte Gendengan Selatan",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "gendengan",
-        "to": "DKT",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Gendengan Selatan",
+        "to": "Halte DKT",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "DKT",
-        "to": "Center point",
-        "time": 2,
-        "corridor": "K1"
+        "from": "Halte DKT",
+        "to": "Halte Center Point",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "Center Point",
-        "to": "Subter Kerten",
-        "time": 2,
-        "corridor": "K1"
+        "from": "Halte Center Point",
+        "to": "Sub Terminal Kerten",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "sub terminak kerten",
-        "to": "korem",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Sub Terminal Kerten",
+        "to": "Halte Korem 2",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "korem",
-        "to": "faroka",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Korem 2",
+        "to": "Halte Gapura Kleco",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "faroka",
+        "from": "Halte Gapura Kleco",
         "to": "smk 2 batik",
-        "time": 1,
-        "corridor": "K1"
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
         "from": "smk 2 batik",
-        "to": "relasi",
-        "time": 1,
-        "corridor": "K1"
+        "to": "Halte Relasi",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "relasi",
+        "from": "Halte Relasi",
         "to": "rs uns",
-        "time": 1,
-        "corridor": "K1"
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
         "from": "rs uns",
-        "to": "rs yarsis",
-        "time": 1,
-        "corridor": "K1"
+        "to": "Halte RS Yarsis",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "rs yarsis",
-        "to": "ums",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte RS Yarsis",
+        "to": "Halte UMS Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "ums",
+        "from": "Halte UMS Selatan",
         "to": "transmart",
-        "time": 1,
-        "corridor": "K1"
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
         "from": "transmart",
-        "to": "smpn 2 Kartasuro",
-        "time": 1,
-        "corridor": "K1"
+        "to": "Halte SMPN 2 Kartasura",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "smpn 2 Kartasuro",
-        "to": "goro mall",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte SMPN 2 Kartasura",
+        "to": "Halte Goro Selatan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "goro mall",
+        "from": "Halte Goro Selatan",
         "to": "gumpang",
-        "time": 1,
-        "corridor": "K1"
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
         "from": "gumpang",
-        "to": "suharti",
-        "time": 1,
-        "corridor": "K1"
+        "to": "Halte Suharti",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "suharti",
-        "to": "gembongan",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Suharti",
+        "to": "Halte Gembongan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "gembongan",
-        "to": "spbu gembongan",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Gembongan",
+        "to": "Halte Pom Bensin Gembongan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "spbu gembongan",
-        "to": "sarwo motor",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Pom Bensin Gembongan",
+        "to": "Halte Sarwo Motor",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "sarwo motor",
-        "to": "smp muhammadiyah 1",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Sarwo Motor",
+        "to": "Halte SMP 1 Muhammadiyah",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "smp muhammadiyah 1",
+        "from": "Halte SMP 1 Muhammadiyah",
         "to": "bri kartasura",
-        "time": 1,
-        "corridor": "K1"
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
         "from": "bri kartasura",
-        "to": "singopuran",
-        "time": 2,
-        "corridor": "K1"
+        "to": "Halte Singopuran",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "singopuran",
-        "to": "smp n 1 kartasura",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Singopuran",
+        "to": "Halte SMPN 1 Kartasura",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "smp n 1 kartasura",
-        "to": "bulog",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte SMPN 1 Kartasura",
+        "to": "Halte Bulog",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "bulog",
-        "to": "rs karima",
-        "time": 1,
-        "corridor": "K1"
+        "from": "Halte Bulog",
+        "to": "Halte RS Karima",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "rs karima",
-        "to": "terminal kartasura",
-        "time": 3,
-        "corridor": "K1"
-    },
-    {
-        "from": "terminal kartasura",
-        "to": "luwes",
-        "time": 4,
-        "corridor": "K1"
-    },
-    {
-        "from": "luwes",
-        "to": "klegen",
-        "time": 1,
-        "corridor": "K1"
-    },
-    {
-        "from": "klegen",
-        "to": "gereja colomadu",
-        "time": 1,
-        "corridor": "K1"
-    },
-    {
-        "from": "gereja colomadu",
-        "to": "pasar colomadu",
-        "time": 2,
-        "corridor": "K1"
-    },
-    {
-        "from": "pasar colomadu",
-        "to": "AURI",
-        "time": 1,
-        "corridor": "K1"
-    },
-    {
-        "from": "AURI",
-        "to": "tanjungsari",
-        "time": 2,
-        "corridor": "K1"
-    },
-    {
-        "from": "tanjungsari",
-        "to": "smpn 1 ngemplak",
-        "time": 2,
-        "corridor": "K1"
-    },
-    {
-        "from": "smpn 1 ngemplak",
-        "to": "bandara adi soemarmo",
-        "time": 5,
-        "corridor": "K1"
-    },
-    {
-        "from": "Terminal palur",
-        "to": "plaza palur",
-        "time": 2,
-        "corridor": "K2"
-    },
-    {
-        "from": "plaza palur",
-        "to": "mitra palur",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "mitra palur",
-        "to": "brigif",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "brigif",
-        "to": "asmi selatan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "asmi selatan",
-        "to": "jurug 2",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "jurug 2",
-        "to": "TMP",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "TMP",
-        "to": "UNS",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "UNS",
-        "to": "TBS Selatan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "TBS Selatan",
-        "to": "sekarpace barat",
-        "time": 2,
-        "corridor": "K2"
-    },
-    {
-        "from": "sekarpace barat",
-        "to": "cembengan barat",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "cembengan barat",
-        "to": "tionghing 1",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "tionghing 1",
-        "to": "sma muhammadiyah 3",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "sma muhammadiyah 3",
-        "to": "rs moewardi",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "rs moewardi",
-        "to": "hermina",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "hermina",
-        "to": "panggung",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "panggung",
-        "to": "maria regina",
-        "time": 2,
-        "corridor": "K2"
-    },
-    {
-        "from": "maria regina",
-        "to": "sekolah warga",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "sekolah warga",
-        "to": "smp kristen 3",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "smp kristen 3",
-        "to": "margoyudan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "margoyudan",
-        "to": "sd cemara",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "sd cemara",
-        "to": "spbu balapan",
-        "time": 2,
-        "corridor": "K2"
-    },
-    {
-        "from": "spbu balapan",
-        "to": "stasiun solo balapan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "stasiun solo balapan",
-        "to": "punggawan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "punggawan",
-        "to": "wonder",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "wonder",
-        "to": "sahid",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "sahid",
-        "to": "rs pku surakarta",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "rs pku surakarta",
-        "to": "sma muhammadiyah 2",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "sma muhammadiyah 2",
-        "to": "yosodipuro",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "yosodipuro",
-        "to": "paragon",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "paragon",
-        "to": "kota barat",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "kota barat",
-        "to": "smpn 24",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "smpn 24",
-        "to": "DKT",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "DKT",
-        "to": "kasih ibu",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "kasih ibu",
-        "to": "aston",
-        "time": 2,
-        "corridor": "K2"
-    },
-    {
-        "from": "aston",
-        "to": "batikan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "batikan",
-        "to": "pasar kabangan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "pasar kabangan",
-        "to": "omah laweyan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "omah laweyan",
-        "to": "sd jamaatul ichwan",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "sd jamaatul ichwan",
-        "to": "UNIBA",
-        "time": 1,
-        "corridor": "K2"
-    },
-    {
-        "from": "UNIBA",
-        "to": "stasiun purwosari",
-        "time": 2,
-        "corridor": "K2"
+        "from": "Halte RS Karima",
+        "to": "Terminal Kartasura",
+        "waktu": 3,
+        "koridor": "K1"
     },
     {
         "from": "Terminal Kartasura",
-        "to": "tugu kartasura",
-        "time": 3,
-        "corridor": "K3"
+        "to": "Halte Luwes",
+        "waktu": 4,
+        "koridor": "K1"
     },
     {
-        "from": "tugu kartasura",
-        "to": "pku kartasura",
-        "time": 2,
-        "corridor": "K3"
+        "from": "Halte Luwes",
+        "to": "Halte Klegen",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "pku kartasura",
-        "to": "pasar kartasura",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Klegen",
+        "to": "Halte Gereja Colomadu",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "pasar kartasura",
-        "to": "tugu keraton kartasura",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Gereja Colomadu",
+        "to": "Halte Pasar Colomadu",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "tugu keraton kartasura",
-        "to": "sidoramo",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Pasar Colomadu",
+        "to": "AURI",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "sidoramo",
-        "to": "superindo",
-        "time": 1,
-        "corridor": "K3"
+        "from": "AURI",
+        "to": "Halte Tanjung Sari",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "superindo",
-        "to": "ngadirejo",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Tanjung Sari",
+        "to": "smpn 1 ngemplak",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "ngadirejo",
-        "to": "pasar gompang",
-        "time": 1,
-        "corridor": "K3"
+        "from": "smpn 1 ngemplak",
+        "to": "Halte Bandara Adi Soemarmo",
+        "waktu": 5,
+        "koridor": "K1"
     },
     {
-        "from": "pasar gompang",
-        "to": "tyfountex pintu utama",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Bandara Adi Soemarmo",
+        "to": "Halte SMP N 1 Ngemplak Timur",
+        "waktu": 4,
+        "koridor": "K1"
     },
     {
-        "from": "tyfountex pintu utama",
-        "to": "tyfountex pintu timur",
-        "time": 1,
-        "corridor": "K3"
+        "from": "SMP N 1 Ngemplak Timur",
+        "to": "Halte Tanjung Sari",
+        "waktu": 3,
+        "koridor": "K1"
     },
     {
-        "from": "tyfountex pintu timur",
-        "to": "proyek bengawan",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Tanjung Sari",
+        "to": "SMP N 3 Colomadu",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "proyek bengawan",
-        "to": "masjid windan",
-        "time": 1,
-        "corridor": "K3"
+        "from": "SMP N 3 Colomadu",
+        "to": "Halte Lanud",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "masjid windan",
-        "to": "pracimaloyo",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Lanud",
+        "to": "Halte Klegen",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "pracimaloyo",
-        "to": "makam haji",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Klegen",
+        "to": "Halte Luwes Kartasura",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "makam haji",
-        "to": "tugu lilin",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Luwes Kartasura",
+        "to": "Halte Kecamatan Kartasura",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "tugu lilin",
-        "to": "wangkung",
-        "time": 2,
-        "corridor": "K3"
+        "from": "Halte Kecamatan Kartasura",
+        "to": "Halte SMP N 1 Kartasura",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "wangkung",
-        "to": "jongke",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte SMP N 1 Kartasura",
+        "to": "Halte Perempatan Kartasura",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "jongke",
-        "to": "pasar kabangan",
-        "time": 2,
-        "corridor": "K3"
+        "from": "Halte Perempatan Kartasura",
+        "to": "Halte SMP Muhammadiyah",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "pasar kabangan",
-        "to": "ria miranda",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte SMP Muhammadiyah",
+        "to": "Halte Sarwo Motor",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "ria miranda",
-        "to": "sabar motor",
-        "time": 2,
-        "corridor": "K3"
+        "from": "Halte Sarwo Motor",
+        "to": "Halte Pom Bensin Gembongan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "sabar motor",
-        "to": "baron barat",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Pom Bensin Gembongan",
+        "to": "Halte Perempatan Gembongan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "baron barat",
-        "to": "baron timur",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Perempatan Gembongan",
+        "to": "Halte Suharti",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "baron timur",
-        "to": "laweyan",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Suharti",
+        "to": "Gumpang (SMK Harapan)",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "laweyan",
-        "to": "BLK",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Gumpang (SMK Harapan)",
+        "to": "Halte Goro Mall",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "BLK",
-        "to": "SMA N 7",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Goro Mall",
+        "to": "Halte Puskesmas",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "SMA N 7",
-        "to": "lotte mart",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Puskesmas",
+        "to": "Halte UMS",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "lotte mart",
-        "to": "taspen",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte UMS",
+        "to": "RS Ortopedi",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "taspen",
-        "to": "serengan",
-        "time": 1,
-        "corridor": "K3"
+        "from": "RS Ortopedi",
+        "to": "Halte Mendungan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "serengan",
-        "to": "widya wacana",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Mendungan",
+        "to": "Kleco",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "widya wacana",
-        "to": "gemblengan sampurna",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Kleco",
+        "to": "Halte Farokha",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "gemblengan sampurna",
-        "to": "notosuman",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Farokha",
+        "to": "Halte Korem",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "notosuman",
-        "to": "kalilarangan",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Korem",
+        "to": "Halte RS Kasih Ibu",
+        "waktu": 4,
+        "koridor": "K1"
     },
     {
-        "from": "kalilarangan",
-        "to": "batik keris",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte RS Kasih Ibu",
+        "to": "Halte Pizza Hut",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "batik keris",
-        "to": "nonongan",
-        "time": 2,
-        "corridor": "K3"
+        "from": "Halte Pizza Hut",
+        "to": "Halte Gendengan Utara",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "nonongan",
-        "to": "gladag",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Gendengan Utara",
+        "to": "Halte Sriwedari 1 Utara",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "gladag",
-        "to": "vastenburg",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Sriwedari 1 Utara",
+        "to": "Halte Sriwedari 2 Utara",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "vastenburg",
-        "to": "balaikota",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Sriwedari 2 Utara",
+        "to": "Halte Ngapeman Utara",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "balaikota",
-        "to": "pasar gede",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Ngapeman Utara",
+        "to": "Halte Timuran",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "pasar gede",
-        "to": "warung pelem",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Timuran",
+        "to": "Halte Wismabatari",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "warung pelem",
-        "to": "timlo",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Wismabatari",
+        "to": "Halte Pasarpon",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "timlo",
-        "to": "mesen",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Pasarpon",
+        "to": "Halte Nonongan",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "mesen",
-        "to": "jebres",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Nonongan",
+        "to": "Halte Gladag",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "jebres",
-        "to": "panggung",
-        "time": 2,
-        "corridor": "K3"
+        "from": "Halte Gladag",
+        "to": "Kantor Pos",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "panggung",
-        "to": "hermina",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Kantor Pos",
+        "to": "Balai Kota",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "hermina",
-        "to": "rs moeward",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Balai Kota",
+        "to": "Pasar Gede Barat",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "rs moeward",
-        "to": "sma muhammadiyah 3",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Pasar Gede Barat",
+        "to": "Halte Warung Pelem",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "sma muhammadiyah 3",
-        "to": "thionghing",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Warung Pelem",
+        "to": "Halte Timlo Barat",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "thionghing",
-        "to": "stikes aisiyah",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Timlo Barat",
+        "to": "Halte Mesen Barat",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "stikes aisiyah",
-        "to": "solo techno park",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Mesen Barat",
+        "to": "Halte Jebres 2",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "solo techno park",
-        "to": "kantor kecamatan jebres",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Jebres 2",
+        "to": "Halte Panggung Utara",
+        "waktu": 2,
+        "koridor": "K1"
     },
     {
-        "from": "kantor kecamatan jebres",
-        "to": "pintu belakang uns",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Panggung Utara",
+        "to": "Halte Helmina Utara",
+        "waktu": 1,
+        "koridor": "K1"
     },
     {
-        "from": "pintu belakang uns",
-        "to": "rs jiwa/taman lansia",
-        "time": 1,
-        "corridor": "K3"
+        "from": "Halte Helmina Utara",
+        "to": "Halte RS Moewardi",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte RS Moewardi",
+        "to": "Halte Muhammadiyah 3 Utara",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte Muhammadiyah 3 Utara",
+        "to": "Tugu Cembengan",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Tugu Cembengan",
+        "to": "Halte Cembengan",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte Cembengan",
+        "to": "Halte Sekarpace Utara",
+        "waktu": 2,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte Sekarpace Utara",
+        "to": "Halte TBS",
+        "waktu": 2,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte TBS",
+        "to": "Halte UNS",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte UNS",
+        "to": "Halte Pom Bensin",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte Pom Bensin",
+        "to": "Halte Jurug 1",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte Jurug 1",
+        "to": "Halte Asmi",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte Asmi",
+        "to": "Halte Pertigaan Adiyasa",
+        "waktu": 1,
+        "koridor": "K1"
+    },
+    {
+        "from": "Halte Pertigaan Adiyasa",
+        "to": "Terminal Palur",
+        "waktu": 2,
+        "koridor": "K1"
+    },
+    {
+        "from": "Terminal Palur",
+        "to": "Halte Palur Plaza",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Palur Plaza",
+        "to": "Halte Mitra Palur",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Mitra Palur",
+        "to": "Halte Brigif",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Brigif",
+        "to": "Halte Asmi",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Asmi",
+        "to": "Halte Jurug 2",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Jurug 2",
+        "to": "Halte TMP",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte TMP",
+        "to": "Halte UNS Selatan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte UNS Selatan",
+        "to": "Halte TBS Selatan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte TBS Selatan",
+        "to": "Halte Sekarpace Barat",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Sekarpace Barat",
+        "to": "Halte Cembengan Barat",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Cembengan Barat",
+        "to": "Halte Thiongting 1",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Thiongting 1",
+        "to": "Halte Muhammadiyah 3 Selatan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Muhammadiyah 3 Selatan",
+        "to": "Halte RS Moewardi",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte RS Moewardi",
+        "to": "Halte Helmina Selatan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Helmina Selatan",
+        "to": "Halte Panggung Selatan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Panggung Selatan",
+        "to": "Halte Purbowardayan",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Purbowardayan",
+        "to": "Halte Sekolah Warga A",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Sekolah Warga A",
+        "to": "Halte SMP Kristen 3",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte SMP Kristen 3",
+        "to": "Halte Ganesha",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Ganesha",
+        "to": "Halte TK Cemara Selatan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte TK Cemara Selatan",
+        "to": "Halte Pom Bensin Balapan",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Pom Bensin Balapan",
+        "to": "Halte Balapan Selatan B",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Balapan Selatan B",
+        "to": "Halte Punggawan Timur",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Punggawan Timur",
+        "to": "Halte Wonder Timur",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Wonder Timur",
+        "to": "Halte Hotel Sahid",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Hotel Sahid",
+        "to": "Halte RS PKU Solo",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte RS PKU Solo",
+        "to": "Halte Muhammadiyah 2",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Muhammadiyah 2",
+        "to": "Halte LBC",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte LBC",
+        "to": "Halte Paragon Mall",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Paragon Mall",
+        "to": "Halte Kota Barat",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Kota Barat",
+        "to": "Halte SMPN 24",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte SMPN 24",
+        "to": "Halte DKT",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte DKT",
+        "to": "Halte Kasih Ibu Selatan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Kasih Ibu Selatan",
+        "to": "Halte Aston",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Aston",
+        "to": "Halte Perempatan Batikan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Perempatan Batikan",
+        "to": "Halte Pasar Kabangan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Pasar Kabangan",
+        "to": "Omah Laweyan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Omah Laweyan",
+        "to": "Halte Jamaatul Ichwan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Jamaatul Ichwan",
+        "to": "Halte Uniba",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Uniba",
+        "to": "Halte Stasiun Purwosari",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Stasiun Purwosari",
+        "to": "Halte RS Kasih Ibu",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte RS Kasih Ibu",
+        "to": "Halte Pizza Hut",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Pizza Hut",
+        "to": "Halte Gendengan Utara",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Gendengan Utara",
+        "to": "Halte Paragon Mall Timur",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Paragon Mall Timur",
+        "to": "Halte Apotek Kencana",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Apotek Kencana",
+        "to": "Halte SDN Yosodipuro",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte SDN Yosodipuro",
+        "to": "Halte RS PKU Utara",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte RS PKU Utara",
+        "to": "Halte Perhutani",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Perhutani",
+        "to": "Halte Wonder Barat",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Wonder Barat",
+        "to": "Halte Punggawan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Punggawan",
+        "to": "Halte Balapan Utara",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Balapan Utara",
+        "to": "Halte Proliman",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Proliman",
+        "to": "Halte SD Cemara 2",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte SD Cemara 2",
+        "to": "Halte SD Banjarsari",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte SD Banjarsari",
+        "to": "Halte SMAN 1",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte SMAN 1",
+        "to": "Halte Sekolah Warga B",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Sekolah Warga B",
+        "to": "Halte Ringin Semar",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Ringin Semar",
+        "to": "Halte Panggung Utara",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Panggung Utara",
+        "to": "Halte Helmina Utara",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Helmina Utara",
+        "to": "Halte RS Moewardi",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte RS Moewardi",
+        "to": "Halte Muhammadiyah 3 Utara",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Muhammadiyah 3 Utara",
+        "to": "Tugu Cembengan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Tugu Cembengan",
+        "to": "Halte Cembengan",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Cembengan",
+        "to": "Halte Sekarpace Utara",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Sekarpace Utara",
+        "to": "Halte TBS",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte TBS",
+        "to": "Halte UNS",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte UNS",
+        "to": "Halte Pom Bensin",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Pom Bensin",
+        "to": "Halte Jurug 1",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Jurug 1",
+        "to": "Halte Asmi",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Asmi",
+        "to": "Halte Pertigaan Adiyasa",
+        "waktu": 1,
+        "koridor": "K2"
+    },
+    {
+        "from": "Halte Pertigaan Adiyasa",
+        "to": "Terminal Palur",
+        "waktu": 2,
+        "koridor": "K2"
+    },
+    {
+        "from": "Terminal Kartasura",
+        "to": "Halte Tugu Kartasura",
+        "waktu": 3,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Tugu Kartasura",
+        "to": "Halte PKU Muhammadiyah Kartasura",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte PKU Muhammadiyah Kartasura",
+        "to": "Halte Pasar Kartasura",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Pasar Kartasura",
+        "to": "Halte Tugu Kraton Kartasura",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Tugu Kraton Kartasura",
+        "to": "Halte Sidaromo",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Sidaromo",
+        "to": "Halte Superindo",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Superindo",
+        "to": "Halte Ngadirejo",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Ngadirejo",
+        "to": "Halte Pasar Gumpang",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Pasar Gumpang",
+        "to": "Halte Tyfountex Utara",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Tyfountex Utara",
+        "to": "Halte Tyfountex Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Tyfountex Timur",
+        "to": "Halte Proyek Bengawan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Proyek Bengawan",
+        "to": "Halte Masjid Windan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Masjid Windan",
+        "to": "Halte Praci Maloyo",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Praci Maloyo",
+        "to": "Halte STIS",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte STIS",
+        "to": "Halte Tugu Lilin Utara",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Tugu Lilin Utara",
+        "to": "Halte Wangkung",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Wangkung",
+        "to": "Halte Jongke",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Jongke",
+        "to": "Halte Kelurahan Laweyan",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Kelurahan Laweyan",
+        "to": "Halte Ria Miranda",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Ria Miranda",
+        "to": "Halte Sabar Motor",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Sabar Motor",
+        "to": "Halte Baron Barat",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Baron Barat",
+        "to": "Halte Baron Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Baron Timur",
+        "to": "Halte Kecamatan Laweyan Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Kecamatan Laweyan Selatan",
+        "to": "Halte BLK Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte BLK Timur",
+        "to": "Halte SMA N 7 A",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte SMA N 7 A",
+        "to": "Halte Lottemart Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Lottemart Timur",
+        "to": "Halte Depan Taspen 3",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Depan Taspen 3",
+        "to": "Halte Kecamatan Serengan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Kecamatan Serengan",
+        "to": "Widya Wacana",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Widya Wacana",
+        "to": "Halte Sampurna Gemblegan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Sampurna Gemblegan",
+        "to": "Halte Pertigaan Notosuman B",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Pertigaan Notosuman B",
+        "to": "Halte Kalilarangan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Kalilarangan",
+        "to": "Halte Batik Keris",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Batik Keris",
+        "to": "Halte Nonongan",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Nonongan",
+        "to": "Halte Gladag",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Gladag",
+        "to": "Kantor Pos",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Kantor Pos",
+        "to": "Balai Kota",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Balai Kota",
+        "to": "Pasar Gede Barat",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Pasar Gede Barat",
+        "to": "Halte Warung Pelem",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Warung Pelem",
+        "to": "Halte Timlo Barat",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Timlo Barat",
+        "to": "Halte Mesen Barat",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Mesen Barat",
+        "to": "Halte Jebres 2",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Jebres 2",
+        "to": "Halte Panggung Utara",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Panggung Utara",
+        "to": "Halte Helmina Utara",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Helmina Utara",
+        "to": "Halte RS Moewardi",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte RS Moewardi",
+        "to": "Halte Muhammadiyah 3 Utara",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Muhammadiyah 3 Utara",
+        "to": "Tugu Cembengan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Tugu Cembengan",
+        "to": "Halte Stikes Aisyiyah",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Stikes Aisyiyah",
+        "to": "Halte Solo Techno Park",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Solo Techno Park",
+        "to": "Halte Kecamatan Jebres Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Kecamatan Jebres Timur",
+        "to": "Halte Pintu Belakang UNS",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Pintu Belakang UNS",
+        "to": "Halte RS Jiwa/Taman Lansia",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte RS Jiwa/Taman Lansia",
+        "to": "Halte Pintu Belakang UNS Barat",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Pintu Belakang UNS Barat",
+        "to": "Halte Kecamatan Jebres Barat",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Kecamatan Jebres Barat",
+        "to": "Halte ISI",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte ISI",
+        "to": "Halte Aisyiyah",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Aisyiyah",
+        "to": "Halte Thiongting 1",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Thiongting 1",
+        "to": "Halte Muhammadiyah 3 Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Muhammadiyah 3 Selatan",
+        "to": "Halte RS Moewardi",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte RS Moewardi",
+        "to": "Halte Helmina Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Helmina Selatan",
+        "to": "Halte Panggung Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Panggung Selatan",
+        "to": "Halte Jebres 1",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Jebres 1",
+        "to": "Halte Mesen Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Mesen Timur",
+        "to": "Halte Timlo",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Timlo",
+        "to": "Halte Warung Pelem Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Warung Pelem Timur",
+        "to": "Pasar Gede Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Pasar Gede Timur",
+        "to": "Balaikota Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Balaikota Timur",
+        "to": "Benteng Vastenburg",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Benteng Vastenburg",
+        "to": "pasar akik",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "pasar akik",
+        "to": "Pranoto Alun-Alun Utara",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Pranoto Alun-Alun Utara",
+        "to": "polsek pasar kliwon",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "polsek pasar kliwon",
+        "to": "Halte Pasar Klewer",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Pasar Klewer",
+        "to": "Halte Sidomumbul",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Sidomumbul",
+        "to": "Halte Penni Gallery",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Penni Gallery",
+        "to": "Halte Masjid Fatimah",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Masjid Fatimah",
+        "to": "Halte Pasar Kadipolo",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Pasar Kadipolo",
+        "to": "Halte Panularan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Panularan",
+        "to": "Halte Kecamatan Laweyan Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Kecamatan Laweyan Selatan",
+        "to": "Halte Baron Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Baron Selatan",
+        "to": "Halte Sabar Motor Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Sabar Motor Selatan",
+        "to": "Halte Trubus",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Trubus",
+        "to": "Halte Pasar Kabangan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Pasar Kabangan",
+        "to": "Halte Jongke Selatan",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Jongke Selatan",
+        "to": "Halte Wangkung Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Wangkung Selatan",
+        "to": "Halte Tugu Lilin Selatan",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Tugu Lilin Selatan",
+        "to": "Halte Makam Haji",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Makam Haji",
+        "to": "Halte STIE AAS",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte STIE AAS",
+        "to": "Halte Getuk Semar",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Getuk Semar",
+        "to": "Halte Proyek Bengawan Selatan",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Proyek Bengawan Selatan",
+        "to": "Halte Tyfountex Pintu Timur",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Tyfountex Pintu Timur",
+        "to": "Halte Tyfountex Pintu Utama",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Tyfountex Pintu Utama",
+        "to": "Halte Gumpang Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Gumpang Selatan",
+        "to": "Halte Sidorejo Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Sidorejo Selatan",
+        "to": "Halte Superindo Selatan",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Superindo Selatan",
+        "to": "Halte Klinik Medika",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Klinik Medika",
+        "to": "Halte SMK Pelayaran",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte SMK Pelayaran",
+        "to": "Halte PKU Muhammadiyah Kartasura",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte PKU Muhammadiyah Kartasura",
+        "to": "Halte Polsek Kartasura",
+        "waktu": 2,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Polsek Kartasura",
+        "to": "Halte Singopuran",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Singopuran",
+        "to": "Halte SMPN 1 Kartasura",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte SMPN 1 Kartasura",
+        "to": "Halte Bulog",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte Bulog",
+        "to": "Halte RS Karima",
+        "waktu": 1,
+        "koridor": "K3"
+    },
+    {
+        "from": "Halte RS Karima",
+        "to": "Terminal Kartasura",
+        "waktu": 3,
+        "koridor": "K3"
     },
     {
         "from": "terminal kartasura",
-        "to": "rs karima",
-        "time": 4,
-        "corridor": "K4"
+        "to": "Halte RS Karima Utama",
+        "waktu": 4,
+        "koridor": "K4"
     },
     {
-        "from": "rs karima",
-        "to": "luwes",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte RS Karima Utama",
+        "to": "Halte Luwes",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "luwes",
-        "to": "klegen",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Luwes",
+        "to": "Halte Klegen",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "klegen",
-        "to": "gereja colomadu",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Klegen",
+        "to": "Halte Gereja Colomadu",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "gereja colomadu",
-        "to": "kecamatan colomadu",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Gereja Colomadu",
+        "to": "Halte Kecamatan Colomadu",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "kecamatan colomadu",
-        "to": "pom bensin utara",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Kecamatan Colomadu",
+        "to": "Halte Pom Bensin Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "pom bensin utara",
-        "to": "koramil",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Pom Bensin Utara",
+        "to": "Halte Koramil",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "koramil",
-        "to": "ypac utara",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Koramil",
+        "to": "Halte YPAC Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "ypac utara",
-        "to": "jonggrang utara",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte YPAC Utara",
+        "to": "Halte Jonggrang Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "jonggrang utara",
-        "to": "ihs utara",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Jonggrang Utara",
+        "to": "Halte IHS Selatan",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "ihs utara",
-        "to": "atmi",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte IHS Selatan",
+        "to": "Halte ATMI",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "atmi",
-        "to": "lor inn utara",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte ATMI",
+        "to": "Halte Lor Inn Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "lor inn utara",
-        "to": "lapangan bulukan utara",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Lor Inn Utara",
+        "to": "Halte Lapangan Bulukan Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "lapangan bulukan utara",
-        "to": "alana",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Lapangan Bulukan Utara",
+        "to": "Halte Alana",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "alana",
-        "to": "solo pos utara",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Alana",
+        "to": "Halte Solo Pos Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "solo pos utara",
-        "to": "dprd utara",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Solo Pos Utara",
+        "to": "Halte DPRD Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "dprd utara",
-        "to": "adi sucipto barat 1",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte DPRD Utara",
+        "to": "Halte Adi Sucipto Barat 1",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "adi sucipto barat 1",
-        "to": "adisucipto timur",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Adi Sucipto Barat 1",
+        "to": "Halte Adi Sucipto Timur 1",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "adisucipto timur",
-        "to": "jajar",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Adi Sucipto Timur 1",
+        "to": "Halte Cafedangan Manahan",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "jajar",
-        "to": "ursulin",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Cafedangan Manahan",
+        "to": "Halte SMA Ursulin Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "ursulin",
-        "to": "smkn 4 surakarta",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte SMA Ursulin Utara",
+        "to": "Halte SMKN 4",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "smkn 4 surakarta",
-        "to": "RS Bhayangkara",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte SMKN 4",
+        "to": "Halte Bank Jateng",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "RS Bhayangkara",
-        "to": "stadion manahan",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Bank Jateng",
+        "to": "Halte Stadion Manahan",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "stadion manahan",
-        "to": "gedung wanita",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Stadion Manahan",
+        "to": "Halte Gedung Wanita",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "gedung wanita",
-        "to": "pom bensin manahan",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Gedung Wanita",
+        "to": "Halte Pom Bensin Manahan",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "pom bensin manahan",
-        "to": "rs brayat",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Pom Bensin Manahan",
+        "to": "Halte RS Brayat",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "rs brayat",
-        "to": "dewa dewi",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte RS Brayat",
+        "to": "Halte Dewa Dewi",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "dewa dewi",
+        "from": "Halte Dewa Dewi",
         "to": "tirtonadi barat",
-        "time": 4,
-        "corridor": "K4"
+        "waktu": 4,
+        "koridor": "K4"
     },
     {
         "from": "tirtonadi barat",
         "to": "terminal tirtonadi",
-        "time": 1,
-        "corridor": "K4"
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
         "from": "terminal tirtonadi",
-        "to": "pertigaan gilingan",
-        "time": 2,
-        "corridor": "K4"
+        "to": "Pasar Papsa Gilingan",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "pertigaan gilingan",
-        "to": "viaduk gilingan",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Pasar Papsa Gilingan",
+        "to": "Halte Viaduk Gilingan",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "viaduk gilingan",
-        "to": "pasar ngemplak",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Viaduk Gilingan",
+        "to": "Halte Pasar Ngemplak",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "pasar ngemplak",
-        "to": "perempatan aub",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Pasar Ngemplak",
+        "to": "Halte Perempatan AUB",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "perempatan aub",
-        "to": "kandang sapi timur",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Perempatan AUB",
+        "to": "Halte Kandang Sapi Timur",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "kandang sapi timur",
-        "to": "panggung",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Kandang Sapi Timur",
+        "to": "Halte Panggung A",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "panggung",
-        "to": "hermina",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Panggung A",
+        "to": "Halte Helmina Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "hermina",
-        "to": "rs moewardi",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Helmina Utara",
+        "to": "Halte RS Moewardi",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "rs moewardi",
-        "to": "sma muhammadiyah 3",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte RS Moewardi",
+        "to": "Halte Muhammadiyah 3 Utara",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "sma muhammadiyah 3",
-        "to": "thiongting",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Muhammadiyah 3 Utara",
+        "to": "Tugu Cembengan",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "thiongting",
-        "to": "stikes aisiyah",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Tugu Cembengan",
+        "to": "Halte Stikes Aisyiyah",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "stikes aisiyah",
-        "to": "solo technopark",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Stikes Aisyiyah",
+        "to": "Halte Solo Techno Park",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "solo technopark",
-        "to": "kecamatan jebres timur",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Solo Techno Park",
+        "to": "Halte Kecamatan Jebres Timur",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "kecamatan jebres timur",
-        "to": "pintu belakang uns",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Kecamatan Jebres Timur",
+        "to": "Halte Pintu Belakang UNS",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "pintu belakang uns",
-        "to": "taman lansia",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Pintu Belakang UNS",
+        "to": "Halte RS Jiwa/Taman Lansia",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "taman lansia",
-        "to": "rusun jurug timur",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte RS Jiwa/Taman Lansia",
+        "to": "Halte Rusun Jurug Timur",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "rusun jurug timur",
-        "to": "pasar buah jurug timur",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Rusun Jurug Timur",
+        "to": "Halte Pasar Buah Jurug Timur",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "pasar buah jurug timur",
-        "to": "jurug 1",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Pasar Buah Jurug Timur",
+        "to": "Halte Jurug 1",
+        "waktu": 2,
+        "koridor": "K4"
     },
     {
-        "from": "jurug 1",
-        "to": "asmi",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Jurug 1",
+        "to": "Halte Asmi",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "asmi",
-        "to": "adiyasa",
-        "time": 1,
-        "corridor": "K4"
+        "from": "Halte Asmi",
+        "to": "Halte Pertigaan Adiyasa",
+        "waktu": 1,
+        "koridor": "K4"
     },
     {
-        "from": "adiyasa",
-        "to": "terminal palur",
-        "time": 2,
-        "corridor": "K4"
+        "from": "Halte Pertigaan Adiyasa",
+        "to": "Terminal Palur",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Terminal Palur",
+        "to": "Halte Palur Plaza",
+        "waktu": 3,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Palur Plaza",
+        "to": "Halte Mitra Palur",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Mitra Palur",
+        "to": "Halte Brigif",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Brigif",
+        "to": "Halte Asmi",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Asmi",
+        "to": "Halte Jurug 2",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Jurug 2",
+        "to": "Halte Rusun Jurug Timur",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Rusun Jurug Timur",
+        "to": "Halte Rusun Jurug Barat",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Rusun Jurug Barat",
+        "to": "Halte RS Jiwa/Taman Lansia",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte RS Jiwa/Taman Lansia",
+        "to": "Halte Pintu Belakang UNS Barat",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Pintu Belakang UNS Barat",
+        "to": "Halte Kecamatan Jebres Barat",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Kecamatan Jebres Barat",
+        "to": "Halte ISI",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte ISI",
+        "to": "Halte Aisyiyah",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Aisyiyah",
+        "to": "Halte Thiongting 1",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Thiongting 1",
+        "to": "Halte Muhammadiyah 3 Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Muhammadiyah 3 Selatan",
+        "to": "Halte RS Moewardi",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte RS Moewardi",
+        "to": "Halte Helmina Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Helmina Selatan",
+        "to": "Halte Kandang Sapi Barat",
+        "waktu": 3,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Kandang Sapi Barat",
+        "to": "Halte Perempatan AUB Selatan",
+        "waktu": 3,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Perempatan AUB Selatan",
+        "to": "Halte Pasar Ngemplak Selatan",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Pasar Ngemplak Selatan",
+        "to": "Halte Masjid Syeikh Zayed",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Masjid Syeikh Zayed",
+        "to": "asrama cpm gilingan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "asrama cpm gilingan",
+        "to": "tirtonadi barat",
+        "waktu": 3,
+        "koridor": "K4"
+    },
+    {
+        "from": "tirtonadi barat",
+        "to": "terminal tirtonadi",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "terminal tirtonadi",
+        "to": "Halte Dewa Dewi Selatan",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Dewa Dewi Selatan",
+        "to": "Halte Pasar Ikan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Pasar Ikan",
+        "to": "Halte PLN Manahan",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte PLN Manahan",
+        "to": "smpn 1 surakarta",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "smpn 1 surakarta",
+        "to": "Halte Manahan Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Manahan Selatan",
+        "to": "Halte RS Bhayangkara",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte RS Bhayangkara",
+        "to": "Halte TK Pembina",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte TK Pembina",
+        "to": "Halte SMKN 4 Selatan",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte SMKN 4 Selatan",
+        "to": "Halte Ursulin",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Ursulin",
+        "to": "Halte Holland",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Holland",
+        "to": "Halte Adi Sucipto Barat 2",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Adi Sucipto Barat 2",
+        "to": "Halte Adi Sucipto Timur 2",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Adi Sucipto Timur 2",
+        "to": "Halte PDAM",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte PDAM",
+        "to": "Halte Solopos Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Solopos Selatan",
+        "to": "Halte Alana Selatan",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Alana Selatan",
+        "to": "Halte Lapangan Bulukan Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Lapangan Bulukan Selatan",
+        "to": "Halte Lor Inn Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Lor Inn Selatan",
+        "to": "Halte ATMI Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte ATMI Selatan",
+        "to": "Halte IHS Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte IHS Selatan",
+        "to": "Halte Jonggrang",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Jonggrang",
+        "to": "Halte YPAC",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte YPAC",
+        "to": "Halte Koramil Selatan",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Koramil Selatan",
+        "to": "Halte Pom Bensin Colomadu",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Pom Bensin Colomadu",
+        "to": "Halte Kecamatan Colomadu",
+        "waktu": 1,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Kecamatan Colomadu",
+        "to": "Halte Klegen",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Klegen",
+        "to": "Halte Luwes Kartasura",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte Luwes Kartasura",
+        "to": "Halte RS Karima",
+        "waktu": 2,
+        "koridor": "K4"
+    },
+    {
+        "from": "Halte RS Karima",
+        "to": "terminal kartasura",
+        "waktu": 3,
+        "koridor": "K4"
     },
     {
         "from": "terminal kartasura",
-        "to": "rs karima",
-        "time": 3,
-        "corridor": "K5"
+        "to": "Halte RS Karima Utama",
+        "waktu": 3,
+        "koridor": "K5"
     },
     {
-        "from": "rs karima",
-        "to": "luwes",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte RS Karima Utama",
+        "to": "Halte Luwes",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "luwes",
-        "to": "klegen",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Luwes",
+        "to": "Halte Klegen",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "klegen",
-        "to": "gereja colomadu",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Halte Klegen",
+        "to": "Halte Gereja Colomadu",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "gereja colomadu",
-        "to": "pasar colomadu",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Gereja Colomadu",
+        "to": "Halte Pasar Colomadu",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "pasar colomadu",
-        "to": "gbi malangjiwan",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Pasar Colomadu",
+        "to": "GBI Malangjiwan Utara",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "gbi malangjiwan",
-        "to": "apotek kirana",
-        "time": 1,
-        "corridor": "K5"
+        "from": "GBI Malangjiwan Utara",
+        "to": "Apotek Kinara Utara",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "apotek kirana",
-        "to": "smp 1 gawanan",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Apotek Kinara Utara",
+        "to": "SMP 1 Gawanan Utara",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "smp 1 gawanan",
-        "to": "smk adi soemarmo",
-        "time": 1,
-        "corridor": "K5"
+        "from": "SMP 1 Gawanan Utara",
+        "to": "SMK Adi Soemarmo",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "smk adi soemarmo",
-        "to": "yakkum",
-        "time": 1,
-        "corridor": "K5"
+        "from": "SMK Adi Soemarmo",
+        "to": "Yakkum Utara",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "yakkum",
-        "to": "garasi bst",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Yakkum Utara",
+        "to": "Garasi BST Utara",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "garasi bst",
+        "from": "Garasi BST Utara",
         "to": "afkis",
-        "time": 1,
-        "corridor": "K5"
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
         "from": "afkis",
-        "to": "soto sawah",
-        "time": 2,
-        "corridor": "K5"
+        "to": "Soto Sawah Utara",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "soto sawah",
-        "to": "puskesmas colomadu",
-        "time": 3,
-        "corridor": "K5"
+        "from": "Soto Sawah Utara",
+        "to": "Puskesmas Colomadu Utara",
+        "waktu": 3,
+        "koridor": "K5"
     },
     {
-        "from": "puskesmas colomadu",
-        "to": "klodran",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Puskesmas Colomadu Utara",
+        "to": "Klodran Utara",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "klodran",
-        "to": "smkn 9",
-        "time": 4,
-        "corridor": "K5"
+        "from": "Klodran Utara",
+        "to": "SMKN 9 Surakarta",
+        "waktu": 4,
+        "koridor": "K5"
     },
     {
-        "from": "smkn 9",
-        "to": "smpn 23",
-        "time": 2,
-        "corridor": "K5"
+        "from": "SMKN 9 Surakarta",
+        "to": "SMPN 23 Utara",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "smpn 23",
-        "to": "graha saba buana",
-        "time": 2,
-        "corridor": "K5"
+        "from": "SMPN 23 Utara",
+        "to": "Graha Saba Buana",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "graha saba buana",
-        "to": "lapangan sumber",
-        "time": 3,
-        "corridor": "K5"
+        "from": "Graha Saba Buana",
+        "to": "SMK BK",
+        "waktu": 3,
+        "koridor": "K5"
     },
     {
-        "from": "lapangan sumber",
-        "to": "smpn 12",
-        "time": 2,
-        "corridor": "K5"
+        "from": "SMK BK",
+        "to": "Halte Bank Jateng",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "smpn 12",
-        "to": "rs bhayangkara",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Bank Jateng",
+        "to": "Halte RS Bhayangkara",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "rs bhayangkara",
-        "to": "stadion manahan",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte RS Bhayangkara",
+        "to": "Halte Stadion Manahan",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "stadion manahan",
-        "to": "kota barat",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Stadion Manahan",
+        "to": "Halte Kota Barat",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "kota barat",
-        "to": "smpn 24",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Halte Kota Barat",
+        "to": "Halte SMPN 24",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "smpn 24",
-        "to": "gendengan",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte SMPN 24",
+        "to": "Halte Gendengan Utara",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "gendengan",
-        "to": "sriwedari 1",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Gendengan Utara",
+        "to": "Halte Sriwedari 1 Utara",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "sriwedari 1",
-        "to": "sriwedari 2",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Halte Sriwedari 1 Utara",
+        "to": "Halte Sriwedari 2 Utara",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "sriwedari 2",
-        "to": "ngapeman",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Halte Sriwedari 2 Utara",
+        "to": "Halte Ngapeman Utara",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "ngapeman",
-        "to": "timuran",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Halte Ngapeman Utara",
+        "to": "Halte Timuran",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "timuran",
-        "to": "wisma batari",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Halte Timuran",
+        "to": "Halte Wismabatari",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "wisma batari",
-        "to": "pasar pon",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Halte Wismabatari",
+        "to": "Halte Pasarpon",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "pasar pon",
+        "from": "Halte Pasarpon",
         "to": "batik keris",
-        "time": 3,
-        "corridor": "K5"
+        "waktu": 3,
+        "koridor": "K5"
     },
     {
         "from": "batik keris",
-        "to": "kalilarangan",
-        "time": 1,
-        "corridor": "K5"
+        "to": "Kalilangan Timur",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "kalilarangan",
-        "to": "notosuman",
-        "time": 3,
-        "corridor": "K5"
+        "from": "Kalilangan Timur",
+        "to": "Halte Pertigaan Notosuman A",
+        "waktu": 3,
+        "koridor": "K5"
     },
     {
-        "from": "notosuman",
-        "to": "gemblengan timur",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Pertigaan Notosuman A",
+        "to": "Halte Gemblegan Timur",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "gemblengan timur",
-        "to": "luwes gading",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Gemblegan Timur",
+        "to": "Halte Luwes Gading",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "luwes gading",
-        "to": "pasar gading",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Halte Luwes Gading",
+        "to": "Halte Pasar Gading A",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "pasar gading",
-        "to": "baturono",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte Pasar Gading A",
+        "to": "Baturono Timur",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "baturono",
-        "to": "spbu semanggi",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Baturono Timur",
+        "to": "Halte SPBU Semanggi A",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "spbu semanggi",
-        "to": "sma mta surakarta",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Halte SPBU Semanggi A",
+        "to": "Sub Terminal Semanggi",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "sma mta surakarta",
-        "to": "sub terminal semanggi",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Sub Terminal Semanggi",
+        "to": "SMA MTA Surakarta",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "sub terminal semanggi",
-        "to": "jembatan mojo",
-        "time": 2,
-        "corridor": "K5"
+        "from": "SMA MTA Surakarta",
+        "to": "Jembatan Mojo",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "jembatan mojo",
-        "to": "ngebrak",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Jembatan Mojo",
+        "to": "Ngebrak",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "ngebrak",
-        "to": "laban",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Ngebrak",
+        "to": "Laban",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "laban",
-        "to": "graha safira",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Laban",
+        "to": "Graha Safira",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "graha safira",
-        "to": "pasar plumbon",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Graha Safira",
+        "to": "Pasar Plumbon",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "pasar plumbon",
-        "to": "gamelan",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Pasar Plumbon",
+        "to": "Gamelan",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "gamelan",
+        "from": "Gamelan",
         "to": "GTP",
-        "time": 1,
-        "corridor": "K5"
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
         "from": "GTP",
-        "to": "wirun",
-        "time": 1,
-        "corridor": "K5"
+        "to": "Wirun",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "wirun",
-        "to": "polsek mojolaban",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Wirun",
+        "to": "Polsek Mojolaban",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "polsek mojolaban",
-        "to": "sman 1 mojolaban",
-        "time": 1,
-        "corridor": "K5"
+        "from": "Polsek Mojolaban",
+        "to": "SMAN 1 Mojolaban",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "sman 1 mojolaban",
+        "from": "SMAN 1 Mojolaban",
+        "to": "Tugu Bendo",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Tugu Bendo",
+        "to": "Pasar Bekonang",
+        "waktu": 3,
+        "koridor": "K5"
+    },
+    {
+        "from": "Pasar Bekonang",
+        "to": "Lapangan Cangkol",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Lapangan Cangkol",
+        "to": "SMP Mojolaban",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "SMP Mojolaban",
+        "to": "SPBU Sidan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "SPBU Sidan",
+        "to": "Simpang Sidan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Simpang Sidan",
+        "to": "SPBU Sidan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "SPBU Sidan",
+        "to": "SMP Mojolaban",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "SMP Mojolaban",
+        "to": "Lapangan Cangkol (MTSN 1 Sukoharjo)",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Lapangan Cangkol (MTSN 1 Sukoharjo)",
+        "to": "Pasar Bekonang",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Pasar Bekonang",
         "to": "tugu bendo",
-        "time": 1,
-        "corridor": "K5"
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
         "from": "tugu bendo",
-        "to": "pasar bekonang",
-        "time": 3,
-        "corridor": "K5"
+        "to": "SMAN 1 Mojolaban",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "pasar bekonang",
-        "to": "lapangan cangkol",
-        "time": 2,
-        "corridor": "K5"
+        "from": "SMAN 1 Mojolaban",
+        "to": "Polsek Mojolaban",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "lapangan cangkol",
-        "to": "smp mojolaban",
-        "time": 2,
-        "corridor": "K5"
+        "from": "Polsek Mojolaban",
+        "to": "wirun",
+        "waktu": 2,
+        "koridor": "K5"
     },
     {
-        "from": "smp mojolaban",
-        "to": "spbu sidan",
-        "time": 1,
-        "corridor": "K5"
+        "from": "wirun",
+        "to": "GTP",
+        "waktu": 1,
+        "koridor": "K5"
     },
     {
-        "from": "spbu sidan",
-        "to": "simpang sidan",
-        "time": 1,
-        "corridor": "K5"
+        "from": "GTP",
+        "to": "gamelan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "gamelan",
+        "to": "pasar plumbon",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "pasar plumbon",
+        "to": "graha safira",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "graha safira",
+        "to": "laban",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "laban",
+        "to": "ngebrak",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "ngebrak",
+        "to": "jembatan mojo",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "jembatan mojo",
+        "to": "SMA MTA surakarta",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "SMA MTA surakarta",
+        "to": "Halte SPBU Semanggi B",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte SPBU Semanggi B",
+        "to": "Perempatan Baturono",
+        "waktu": 3,
+        "koridor": "K5"
+    },
+    {
+        "from": "Perempatan Baturono",
+        "to": "Halte Pasar Gading B",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Pasar Gading B",
+        "to": "Halte Luwes Gading Selatan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Luwes Gading Selatan",
+        "to": "Halte Sampurna Gemblegan",
+        "waktu": 3,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Sampurna Gemblegan",
+        "to": "Halte Gereja-Masjid",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Gereja-Masjid",
+        "to": "Simpang 4 Notosuman",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Simpang 4 Notosuman",
+        "to": "Halte Singosaren",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Singosaren",
+        "to": "tiktok",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "tiktok",
+        "to": "Halte Wisma Batari",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Wisma Batari",
+        "to": "Halte Timuran Selatan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Timuran Selatan",
+        "to": "Halte Ngapeman Selatan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Ngapeman Selatan",
+        "to": "Halte Sriwedari 2 Selatan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Sriwedari 2 Selatan",
+        "to": "Halte Sriwedari 1 Selatan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Sriwedari 1 Selatan",
+        "to": "Halte Gendengan Selatan",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Gendengan Selatan",
+        "to": "SMP 24 dan 25",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "SMP 24 dan 25",
+        "to": "Kota Barat/Aswata",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Kota Barat/Aswata",
+        "to": "Halte Manahan Selatan",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Manahan Selatan",
+        "to": "Halte RS Bhayangkara",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte RS Bhayangkara",
+        "to": "Halte TK Pembina",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte TK Pembina",
+        "to": "smp n 12",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "smp n 12",
+        "to": "lapangan sumber",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "lapangan sumber",
+        "to": "Graha Saba Buana Barat",
+        "waktu": 3,
+        "koridor": "K5"
+    },
+    {
+        "from": "Graha Saba Buana Barat",
+        "to": "SPBU Banyu Anyar",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "SPBU Banyu Anyar",
+        "to": "SMKN 9 Selatan",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "SMKN 9 Selatan",
+        "to": "Klodran Selatan",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Klodran Selatan",
+        "to": "Puskesmas Colomadu Selatan",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Puskesmas Colomadu Selatan",
+        "to": "Soto Sawah Selatan",
+        "waktu": 3,
+        "koridor": "K5"
+    },
+    {
+        "from": "Soto Sawah Selatan",
+        "to": "Akfis Selatan",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Akfis Selatan",
+        "to": "Garasi BST",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Garasi BST",
+        "to": "yakkum",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "yakkum",
+        "to": "SMK Penerbangan",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "SMK Penerbangan",
+        "to": "SMP 1 Gawanan Selatan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "SMP 1 Gawanan Selatan",
+        "to": "Apotek Kinara Selatan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "Apotek Kinara Selatan",
+        "to": "GBI Malangjiwan Selatan",
+        "waktu": 1,
+        "koridor": "K5"
+    },
+    {
+        "from": "GBI Malangjiwan Selatan",
+        "to": "Halte Lanud",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Lanud",
+        "to": "Halte Klegen",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Klegen",
+        "to": "Halte Luwes Kartasura",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte Luwes Kartasura",
+        "to": "Halte RS Karima",
+        "waktu": 2,
+        "koridor": "K5"
+    },
+    {
+        "from": "Halte RS Karima",
+        "to": "terminal kartasura",
+        "waktu": 3,
+        "koridor": "K5"
     },
     {
         "from": "subter taman pelangi",
-        "to": "pasar sibela a",
-        "time": 2,
-        "corridor": "K6"
+        "to": "Pasar Sibela A",
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
-        "from": "pasar sibela a",
-        "to": "taman jayawijaya a",
-        "time": 2,
-        "corridor": "K6"
+        "from": "Pasar Sibela A",
+        "to": "Taman Jayawijaya A",
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
-        "from": "taman jayawijaya a",
-        "to": "indomaret jayawijaya b",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Taman Jayawijaya A",
+        "to": "Indomaret Jayawijaya A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "indomaret jayawijaya b",
-        "to": "toko anugrah a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Indomaret Jayawijaya A",
+        "to": "Toko Anugrah A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "toko anugrah a",
-        "to": "perempatan busukan a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Toko Anugrah A",
+        "to": "Perempatan Busukan A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "perempatan busukan a",
-        "to": "dempo a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Perempatan Busukan A",
+        "to": "Dempo A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "dempo a",
-        "to": "ngaglik a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Dempo A",
+        "to": "Ngaglik A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "ngaglik a",
-        "to": "usb poltekes a",
-        "time": 2,
-        "corridor": "K6"
+        "from": "Ngaglik A",
+        "to": "USB Poltekkes A",
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
-        "from": "usb poltekes a",
-        "to": "pertigaam patung banteng bibis a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "USB Poltekkes A",
+        "to": "Pertigaan Patung Banteng Bibis A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "pertigaam patung banteng bibis a",
-        "to": "sma 5 sma 6 a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Pertigaan Patung Banteng Bibis A",
+        "to": "Halte SMA 5/SMA 6 A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "sma 5 sma 6 a",
-        "to": "masjid al hakam a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte SMA 5/SMA 6 A",
+        "to": "Masjid Al Hakam A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "masjid al hakam a",
-        "to": "perempatan pasar ngemplak a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Masjid Al Hakam A",
+        "to": "Perempatan Pasar Ngemplak A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "perempatan pasar ngemplak a",
-        "to": "patung mayor ahmadi a",
-        "time": 2,
-        "corridor": "K6"
+        "from": "Perempatan Pasar Ngemplak A",
+        "to": "Halte Patung Mayor Ahmadi A",
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
-        "from": "patung mayor ahmadi a",
-        "to": "smpn 4 a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Patung Mayor Ahmadi A",
+        "to": "Halte SMP N 4 Surakarta A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "smpn 4 a",
-        "to": "smk kristen 2 a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte SMP N 4 Surakarta A",
+        "to": "Halte SMK Kristen 2",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "smk kristen 2 a",
-        "to": "kelurahan stabelan 1",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte SMK Kristen 2",
+        "to": "Halte Kelurahan Stabelan A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "kelurahan stabelan 1",
-        "to": "pasar beras a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Kelurahan Stabelan A",
+        "to": "Halte Pasar Beras A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "pasar beras a",
+        "from": "Halte Pasar Beras A",
         "to": "perempatan pasar legi",
-        "time": 1,
-        "corridor": "K6"
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
         "from": "perempatan pasar legi",
-        "to": "sma muhammadiyah 1",
-        "time": 1,
-        "corridor": "K6"
+        "to": "SMA Muhammadiyah 1",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "sma muhammadiyah 1",
-        "to": "dealer viar",
-        "time": 1,
-        "corridor": "K6"
+        "from": "SMA Muhammadiyah 1",
+        "to": "Halte Dealer VIAR",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "dealer viar",
-        "to": "kelurahan ketelan a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Dealer VIAR",
+        "to": "Halte Kelurahan Ketelan A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "kelurahan ketelan a",
-        "to": "monumen pers a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Kelurahan Ketelan A",
+        "to": "Halte Hotel Sahid",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "monumen pers a",
-        "to": "kelurahan timuran",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Hotel Sahid",
+        "to": "Halte Kelurahan Timuran A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "kelurahan timuran",
-        "to": "sami luwes",
-        "time": 2,
-        "corridor": "K6"
+        "from": "Halte Kelurahan Timuran A",
+        "to": "Halte Sami Luwes",
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
-        "from": "sami luwes",
-        "to": "pasarkembang",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Sami Luwes",
+        "to": "Pasar Kembang",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "pasarkembang",
-        "to": "perempatan trisakti",
-        "time": 2,
-        "corridor": "K6"
+        "from": "Pasar Kembang",
+        "to": "Perempatan Trisakti",
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
-        "from": "perempatan trisakti",
-        "to": "perempatan kalilarangan",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Perempatan Trisakti",
+        "to": "Halte Perempatan Kalilangan",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "perempatan kalilarangan",
-        "to": "notosuman",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Perempatan Kalilangan",
+        "to": "Halte Pertigaan Notosuman A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "notosuman",
-        "to": "gemblengan a",
-        "time": 2,
-        "corridor": "K6"
+        "from": "Halte Pertigaan Notosuman A",
+        "to": "Halte Gemblegan Timur",
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
-        "from": "gemblengan a",
-        "to": "perempatan grobakan a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Gemblegan Timur",
+        "to": "Perempatan Grobakan",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "perempatan grobakan a",
-        "to": "luwes gading a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Perempatan Grobakan",
+        "to": "Halte Luwes Gading",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "luwes gading a",
-        "to": "pasar gading",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Luwes Gading",
+        "to": "Halte Pasar Gading A",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "pasar gading",
-        "to": "perempatan baturono a",
-        "time": 1,
-        "corridor": "K6"
+        "from": "Halte Pasar Gading A",
+        "to": "Perempatan Baturono Timur",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
-        "from": "perempatan baturono a",
-        "to": "spbu semanggi a",
-        "time": 3,
-        "corridor": "K6"
+        "from": "Perempatan Baturono Timur",
+        "to": "Apil Semanggi A",
+        "waktu": 2,
+        "koridor": "K6"
     },
     {
-        "from": "spbu semanggi a",
-        "to": "subter semanggi",
-        "time": 2,
-        "corridor": "K6"
+        "from": "Apil Semanggi A",
+        "to": "Halte SPBU Semanggi A",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte SPBU Semanggi A",
+        "to": "Sub Terminal Semanggi",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Sub Terminal Semanggi",
+        "to": "RSUD Bung Karno",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "RSUD Bung Karno",
+        "to": "Halte SPBU Semanggi B",
+        "waktu": 4,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte SPBU Semanggi B",
+        "to": "Apil Semanggi B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Apil Semanggi B",
+        "to": "Perempatan Baturono",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Perempatan Baturono",
+        "to": "Halte Pasar Gading B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Pasar Gading B",
+        "to": "Halte Luwes Gading Selatan",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Luwes Gading Selatan",
+        "to": "Perempatan Grobakan B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Perempatan Grobakan B",
+        "to": "Halte Gemblegan Barat",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Gemblegan Barat",
+        "to": "Halte Pertigaan Notosuman B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Pertigaan Notosuman B",
+        "to": "Halte Singosaren",
+        "waktu": 4,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Singosaren",
+        "to": "tiktok",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "tiktok",
+        "to": "triwindu",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "triwindu",
+        "to": "Mangkunegaran",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Mangkunegaran",
+        "to": "Atria",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Atria",
+        "to": "Timur PKU",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Timur PKU",
+        "to": "Halte Perhutani",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Perhutani",
+        "to": "Halte Kelurahan Ketelan B",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Kelurahan Ketelan B",
+        "to": "SMA Muhammadiyah 1",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "SMA Muhammadiyah 1",
+        "to": "Halte Rusun Belakang Mangkunegaran",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Rusun Belakang Mangkunegaran",
+        "to": "Halte Perempatan Pasar Legi Selatan",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Perempatan Pasar Legi Selatan",
+        "to": "Pasar Legi",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Pasar Legi",
+        "to": "SMP Widya Wacana",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "SMP Widya Wacana",
+        "to": "Halte SMK Kristen 2 B",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte SMK Kristen 2 B",
+        "to": "Halte SMP N 4 Surakarta B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte SMP N 4 Surakarta B",
+        "to": "Halte Patung Mayor Ahmadi B",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Patung Mayor Ahmadi B",
+        "to": "Perempatan Pasar Ngemplak B",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Perempatan Pasar Ngemplak B",
+        "to": "Masjid Al Hakam B",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Masjid Al Hakam B",
+        "to": "Halte SMA 5/SMA 6 B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte SMA 5/SMA 6 B",
+        "to": "Pertigaan Patung Banteng Bibis B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Pertigaan Patung Banteng Bibis B",
+        "to": "USB Poltekkes B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "USB Poltekkes B",
+        "to": "Ngaglik B",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Ngaglik B",
+        "to": "Dempo B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Dempo B",
+        "to": "Perempatan Busukan B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Perempatan Busukan B",
+        "to": "Toko Anugrah B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Toko Anugrah B",
+        "to": "Indomaret Jayawijaya B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Indomaret Jayawijaya B",
+        "to": "Taman Jayawijaya B",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Taman Jayawijaya B",
+        "to": "Pasar Sibela B",
+        "waktu": 2,
+        "koridor": "K6"
+    },
+    {
+        "from": "Pasar Sibela B",
+        "to": "Halte Dr. Retno Pudjiastuti",
+        "waktu": 1,
+        "koridor": "K6"
+    },
+    {
+        "from": "Halte Dr. Retno Pudjiastuti",
+        "to": "Subter taman pelangi",
+        "waktu": 1,
+        "koridor": "K6"
     },
     {
         "from": "subter taman pelangi",
-        "to": "bakso putra makmur",
-        "time": 2,
-        "corridor": "K7"
+        "to": "Halte Bakso Putra Makmur",
+        "waktu": 2,
+        "koridor": "K7"
     },
     {
-        "from": "bakso putra makmur",
-        "to": "kelurahan mojosongo",
-        "time": 3,
-        "corridor": "K7"
+        "from": "Halte Bakso Putra Makmur",
+        "to": "Halte Kelurahan Mojosongo",
+        "waktu": 3,
+        "koridor": "K7"
     },
     {
-        "from": "kelurahan mojosongo",
-        "to": "goa maria",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Kelurahan Mojosongo",
+        "to": "Halte Goa Maria",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "goa maria",
-        "to": "untoroloyo",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Goa Maria",
+        "to": "Halte Untoroloyo",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "untoroloyo",
-        "to": "pabrik jerapah a",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Untoroloyo",
+        "to": "Halte Pabrik Jerapah A",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "pabrik jerapah a",
-        "to": "pasar mojosongo a",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Pabrik Jerapah A",
+        "to": "Halte Pasar Mojosongo A",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "pasar mojosongo a",
-        "to": "kandang sapi timur",
-        "time": 2,
-        "corridor": "K7"
+        "from": "Halte Pasar Mojosongo A",
+        "to": "Halte Kandang Sapi Timur",
+        "waktu": 2,
+        "koridor": "K7"
     },
     {
-        "from": "kandang sapi timur",
-        "to": "panggung a",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Kandang Sapi Timur",
+        "to": "Halte Panggung A",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "panggung a",
-        "to": "maria regina",
-        "time": 2,
-        "corridor": "K7"
+        "from": "Halte Panggung A",
+        "to": "Halte Purbowardayan",
+        "waktu": 2,
+        "koridor": "K7"
     },
     {
-        "from": "maria regina",
-        "to": "sekolah warga",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Purbowardayan",
+        "to": "Halte Sekolah Warga A",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "sekolah warga",
-        "to": "smp kristen 3",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Sekolah Warga A",
+        "to": "Halte SMP Kristen 3",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "smp kristen 3",
-        "to": "patung mayor ahmadi a",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte SMP Kristen 3",
+        "to": "Halte Patung Mayor Ahmadi A",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "patung mayor ahmadi a",
-        "to": "smpn 4 surakarta a",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Patung Mayor Ahmadi A",
+        "to": "Halte SMP N 4 Surakarta A",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "smpn 4 surakarta a",
-        "to": "smk kristen 2",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte SMP N 4 Surakarta A",
+        "to": "Halte SMK Kristen 2",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "smk kristen 2",
-        "to": "kelurahan stabelan a",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte SMK Kristen 2",
+        "to": "Halte Kelurahan Stabelan A",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "kelurahan stabelan a",
-        "to": "pasar beras a",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Kelurahan Stabelan A",
+        "to": "Halte Pasar Beras A",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "pasar beras a",
-        "to": "perempatan pasar legi",
-        "time": 1,
-        "corridor": "K7"
+        "from": "Halte Pasar Beras A",
+        "to": "Perempatan Pasar Legi",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "rsud ngipang",
-        "to": "gkj ngipang",
-        "time": 2,
-        "corridor": "K8"
+        "from": "Perempatan Pasar Legi",
+        "to": "Pasar Legi",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "gkj ngipang",
-        "to": "ldii bayan krajan",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Pasar Legi",
+        "to": "SMP Widya Wacana",
+        "waktu": 2,
+        "koridor": "K7"
     },
     {
-        "from": "ldii bayan krajan",
-        "to": "puskesmas kembyongan",
-        "time": 1,
-        "corridor": "K8"
+        "from": "SMP Widya Wacana",
+        "to": "Halte SMK Kristen 2 B",
+        "waktu": 2,
+        "koridor": "K7"
     },
     {
-        "from": "puskesmas kembyongan",
-        "to": "naraya babyshop",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Halte SMK Kristen 2 B",
+        "to": "Halte SMP N 4 Surakarta B",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "naraya babyshop",
-        "to": "sumpingan",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Halte SMP N 4 Surakarta B",
+        "to": "Halte Patung Mayor Ahmadi B",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "sumpingan",
-        "to": "sd kristen 2 stablean a",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Halte Patung Mayor Ahmadi B",
+        "to": "Halte SMAN 1",
+        "waktu": 2,
+        "koridor": "K7"
     },
     {
-        "from": "sd kristen 2 stablean a",
-        "to": "sdn 3 banyuagung",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Halte SMAN 1",
+        "to": "Halte Sekolah Warga B",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "sdn 3 banyuagung",
-        "to": "kimia farma banyuagung",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Halte Sekolah Warga B",
+        "to": "Halte Ringin Semar",
+        "waktu": 1,
+        "koridor": "K7"
     },
     {
-        "from": "kimia farma banyuagung",
+        "from": "Halte Ringin Semar",
+        "to": "Halte Panggung B",
+        "waktu": 1,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Panggung B",
+        "to": "Halte Kandang Sapi Barat",
+        "waktu": 1,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Kandang Sapi Barat",
+        "to": "Halte Pasar Mojosongo B",
+        "waktu": 2,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Pasar Mojosongo B",
+        "to": "Halte Pabrik Jerapah B",
+        "waktu": 1,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Pabrik Jerapah B",
+        "to": "Halte Untoroloyo B",
+        "waktu": 1,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Untoroloyo B",
+        "to": "Halte Goa Maria B",
+        "waktu": 1,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Goa Maria B",
+        "to": "Halte Kelurahan Mojosongo",
+        "waktu": 1,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Kelurahan Mojosongo",
+        "to": "Halte Bakso Putra Makmur",
+        "waktu": 3,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Bakso Putra Makmur",
+        "to": "Halte Dr. Retno Pudjiastuti",
+        "waktu": 1,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte Dr. Retno Pudjiastuti",
+        "to": "subter taman pelangi",
+        "waktu": 1,
+        "koridor": "K7"
+    },
+    {
+        "from": "Halte RSUD Ngipang",
+        "to": "GKJ Ngipang",
+        "waktu": 2,
+        "koridor": "K8"
+    },
+    {
+        "from": "GKJ Ngipang",
+        "to": "LDII Bayan Krajan",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "LDII Bayan Krajan",
+        "to": "Puskesmas Krembyongan",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Puskesmas Krembyongan",
+        "to": "Naraya Baby Shop",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Naraya Baby Shop",
+        "to": "Sumpingan",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Sumpingan",
+        "to": "SD Kristen 2 Stabelan A",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "SD Kristen 2 Stabelan A",
+        "to": "SD 3 Banyuagung",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "SD 3 Banyuagung",
+        "to": "Kimia Farma Banyu Agung",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Kimia Farma Banyu Agung",
         "to": "pasar nusukan",
-        "time": 3,
-        "corridor": "K8"
+        "waktu": 3,
+        "koridor": "K8"
     },
     {
         "from": "pasar nusukan",
-        "to": "jembatan tirtonadi utara",
-        "time": 2,
-        "corridor": "K8"
+        "to": "Jembatan Tirtonadi Utara",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "jembatan tirtonadi utara",
+        "from": "Jembatan Tirtonadi Utara",
         "to": "terminal tirtonadi",
-        "time": 2,
-        "corridor": "K8"
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
         "from": "terminal tirtonadi",
-        "to": "pasar papsa gilingan",
-        "time": 2,
-        "corridor": "K8"
+        "to": "Pasar Papsa Gilingan",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "pasar papsa gilingan",
-        "to": "pasar besi",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Pasar Papsa Gilingan",
+        "to": "Pasar Besi Gilingan B",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "pasar besi",
-        "to": "triharsi",
-        "time": 2,
-        "corridor": "K8"
+        "from": "Pasar Besi Gilingan B",
+        "to": "Triharsi",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "triharsi",
-        "to": "arif sport pasar legi",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Triharsi",
+        "to": "Arif Sport Pasar Legi",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "arif sport pasar legi",
-        "to": "pasar legi",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Arif Sport Pasar Legi",
+        "to": "Pasar Legi",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "pasar legi",
-        "to": "smp widya wacana",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Pasar Legi",
+        "to": "SMP Widya Wacana",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "smp widya wacana",
-        "to": "pdam stabelan",
-        "time": 2,
-        "corridor": "K8"
+        "from": "SMP Widya Wacana",
+        "to": "PDAM Stabelan",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "pdam stabelan",
-        "to": "apotik widuran",
-        "time": 1,
-        "corridor": "K8"
+        "from": "PDAM Stabelan",
+        "to": "Apotik Widuran",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "apotik widuran",
-        "to": "pegadaian widuran",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Apotik Widuran",
+        "to": "Pegadaian Widuran",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "pegadaian widuran",
+        "from": "Pegadaian Widuran",
+        "to": "Kejaksaan",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Kejaksaan",
+        "to": "Halte Warung Pelem Timur",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Halte Warung Pelem Timur",
+        "to": "Pasar Gede Timur",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Pasar Gede Timur",
+        "to": "Balaikota Timur",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Balaikota Timur",
+        "to": "Benteng Vastenburg",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Benteng Vastenburg",
+        "to": "Pasar Akik",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Pasar Akik",
+        "to": "Pranoto Alun-Alun Utara",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Pranoto Alun-Alun Utara",
+        "to": "Polsek Pasar Kliwon",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Polsek Pasar Kliwon",
+        "to": "Pasar Klewer",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Pasar Klewer",
+        "to": "Pasar Akik",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Pasar Akik",
+        "to": "PGS Selatan",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "PGS Selatan",
+        "to": "BTC Selatan",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "BTC Selatan",
+        "to": "Luwes Sangkrah",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Luwes Sangkrah",
+        "to": "Pertigaan Lodji Wetan",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Pertigaan Lodji Wetan",
+        "to": "Telkom",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Telkom",
+        "to": "Benteng Vastenburg",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Benteng Vastenburg",
+        "to": "Balai Kota",
+        "waktu": 2,
+        "koridor": "K8"
+    },
+    {
+        "from": "Balai Kota",
+        "to": "Pasar Gede Barat",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Pasar Gede Barat",
+        "to": "Halte Warung Pelem",
+        "waktu": 1,
+        "koridor": "K8"
+    },
+    {
+        "from": "Halte Warung Pelem",
         "to": "kejaksaan",
-        "time": 1,
-        "corridor": "K8"
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
         "from": "kejaksaan",
-        "to": "warung pelem",
-        "time": 1,
-        "corridor": "K8"
+        "to": "pegadaian widuran",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "warung pelem",
-        "to": "pasar gede",
-        "time": 1,
-        "corridor": "K8"
+        "from": "pegadaian widuran",
+        "to": "apotik widuran",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "pasar gede",
-        "to": "balaikota",
-        "time": 1,
-        "corridor": "K8"
+        "from": "apotik widuran",
+        "to": "roti ganep",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "balaikota",
-        "to": "vastenburg",
-        "time": 1,
-        "corridor": "K8"
+        "from": "roti ganep",
+        "to": "Perempatan Pasar Legi",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "vastenburg",
-        "to": "pasar akik",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Perempatan Pasar Legi",
+        "to": "Pasar Legi Barat",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "pasar akik",
-        "to": "alun-alun utara",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Pasar Legi Barat",
+        "to": "Luwes Kestalan",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "alun-alun utara",
-        "to": "polsek pasar kliwon",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Luwes Kestalan",
+        "to": "Proliman Balapan",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "polsek pasar kliwon",
-        "to": "pasar klewer",
-        "time": 1,
-        "corridor": "K8"
+        "from": "Proliman Balapan",
+        "to": "Pasar Besi Gilingan A",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "pasar klewer",
-        "to": "pasar akik",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Pasar Besi Gilingan A",
+        "to": "Pasar Papsa Gilingan",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "pasar akik",
-        "to": "alun alun utara",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Pasar Papsa Gilingan",
+        "to": "tirtonadi barat",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "alun alun utara",
-        "to": "polsek pasar kliwon",
-        "time": 1,
-        "corridor": "K9"
+        "from": "tirtonadi barat",
+        "to": "terminal tirtonadi",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "polsek pasar kliwon",
-        "to": "kedung lumbu a",
-        "time": 2,
-        "corridor": "K9"
+        "from": "terminal tirtonadi",
+        "to": "Jembatan Terminal Tirtonadi",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "kedung lumbu a",
-        "to": "spbu pasar kliwon b",
-        "time": 2,
-        "corridor": "K9"
+        "from": "Jembatan Terminal Tirtonadi",
+        "to": "Pasar Nusukan",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "spbu pasar kliwon b",
-        "to": "SMP N 6 Surakarta",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Pasar Nusukan",
+        "to": "Kimia Farma Banyu Agung",
+        "waktu": 3,
+        "koridor": "K8"
     },
     {
-        "from": "SMP N 6 Surakarta",
-        "to": "perempatan katangan b",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Kimia Farma Banyu Agung",
+        "to": "SD 3 Banyu Agung",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "perempatan katangan b",
-        "to": "baturono",
-        "time": 1,
-        "corridor": "K9"
+        "from": "SD 3 Banyu Agung",
+        "to": "sumpingan",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "baturono",
-        "to": "pasar gading",
-        "time": 1,
-        "corridor": "K9"
+        "from": "sumpingan",
+        "to": "Sumpingan 2 Barat",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "pasar gading",
-        "to": "smkn 3 surakarta a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Sumpingan 2 Barat",
+        "to": "Naraya Baby Shop",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "smkn 3 surakarta a",
-        "to": "sma al islam 1 a",
-        "time": 2,
-        "corridor": "K9"
+        "from": "Naraya Baby Shop",
+        "to": "Puskesmas Krembyongan",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "sma al islam 1 a",
-        "to": "sawo kecik a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Puskesmas Krembyongan",
+        "to": "LDII Bayan Krajan",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "sawo kecik a",
-        "to": "smpn 19 surakarta b",
-        "time": 2,
-        "corridor": "K9"
+        "from": "LDII Bayan Krajan",
+        "to": "GKJ Ngipang",
+        "waktu": 1,
+        "koridor": "K8"
     },
     {
-        "from": "smpn 19 surakarta b",
-        "to": "sd kanisius b",
-        "time": 2,
-        "corridor": "K9"
+        "from": "GKJ Ngipang",
+        "to": "Halte RSUD Ngipang",
+        "waktu": 2,
+        "koridor": "K8"
     },
     {
-        "from": "sd kanisius b",
-        "to": "widya wacana",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Halte Pasar Klewer",
+        "to": "Pasar Akik",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "widya wacana",
-        "to": "serengan",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Pasar Akik",
+        "to": "Pranoto Alun-Alun Utara",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "serengan",
-        "to": "kelurahan kratonan b",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Pranoto Alun-Alun Utara",
+        "to": "Polsek Pasar Kliwon",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "kelurahan kratonan b",
-        "to": "sma kristen 1",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Polsek Pasar Kliwon",
+        "to": "Kedung Lumbu A",
+        "waktu": 2,
+        "koridor": "K9"
     },
     {
-        "from": "sma kristen 1",
-        "to": "sma al islam",
-        "time": 2,
-        "corridor": "K9"
+        "from": "Kedung Lumbu A",
+        "to": "SPBU Pasar Kliwon B",
+        "waktu": 2,
+        "koridor": "K9"
     },
     {
-        "from": "sma al islam",
-        "to": "pasar kadipolo",
-        "time": 2,
-        "corridor": "K9"
+        "from": "SPBU Pasar Kliwon B",
+        "to": "RS Kustati B",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "pasar kadipolo",
-        "to": "gor sritek",
-        "time": 2,
-        "corridor": "K9"
+        "from": "RS Kustati B",
+        "to": "Perempatan Katangan B",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "gor sritek",
-        "to": "kelurahan sriwedari",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Perempatan Katangan B",
+        "to": "Perempatan Baturono",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "kelurahan sriwedari",
-        "to": "zona steak",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Perempatan Baturono",
+        "to": "Halte Pasar Gading B",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "zona steak",
-        "to": "sdn tegalsari a",
-        "time": 2,
-        "corridor": "K9"
+        "from": "Halte Pasar Gading B",
+        "to": "SMKN 3 Surakarta A",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "sdn tegalsari a",
-        "to": "al muayyad a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "SMKN 3 Surakarta A",
+        "to": "SMA Al Islam A",
+        "waktu": 2,
+        "koridor": "K9"
     },
     {
-        "from": "al muayyad a",
-        "to": "sinus",
-        "time": 1,
-        "corridor": "K9"
+        "from": "SMA Al Islam A",
+        "to": "Sawo Kecik A",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "sinus",
-        "to": "batikan",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Sawo Kecik A",
+        "to": "SMPN 19 Surakarta B",
+        "waktu": 2,
+        "koridor": "K9"
     },
     {
-        "from": "batikan",
-        "to": "pasar kabangan",
-        "time": 1,
-        "corridor": "K9"
+        "from": "SMPN 19 Surakarta B",
+        "to": "SD Kanisius B",
+        "waktu": 2,
+        "koridor": "K9"
     },
     {
-        "from": "pasar kabangan",
-        "to": "omah laweyan",
-        "time": 1,
-        "corridor": "K9"
+        "from": "SD Kanisius B",
+        "to": "Widya Wacana",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "omah laweyan",
-        "to": "pusat oleholeh jongke a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Widya Wacana",
+        "to": "Halte Kecamatan Serengan",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "pusat oleholeh jongke a",
-        "to": "jongke",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Halte Kecamatan Serengan",
+        "to": "Kelurahan Kratonan B",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "jongke",
-        "to": "wangkung",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Kelurahan Kratonan B",
+        "to": "SMA Kristen 1",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "wangkung",
-        "to": "spbu pajang a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "SMA Kristen 1",
+        "to": "SMA Al Islam",
+        "waktu": 2,
+        "koridor": "K9"
     },
     {
-        "from": "spbu pajang a",
-        "to": "POS A bkn POS B",
-        "time": 2,
-        "corridor": "K9"
+        "from": "SMA Al Islam",
+        "to": "Halte Pasar Kadipolo",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Pasar Kadipolo",
+        "to": "GOR Sritek",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "GOR Sritek",
+        "to": "Kelurahan Sri Wedari",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Kelurahan Sri Wedari",
+        "to": "Zona Steak",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Zona Steak",
+        "to": "SDN Tegalsari A",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "SDN Tegalsari A",
+        "to": "Al Muayyad A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Al Muayyad A",
+        "to": "SINUS",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SINUS",
+        "to": "Halte Perempatan Batikan",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Perempatan Batikan",
+        "to": "Halte Pasar Kabangan",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Pasar Kabangan",
+        "to": "Omah Laweyan",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Omah Laweyan",
+        "to": "Pusat Oleh - Oleh Jongke A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Pusat Oleh - Oleh Jongke A",
+        "to": "Halte Jongke Selatan",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Jongke Selatan",
+        "to": "Halte Wangkung Selatan",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Wangkung Selatan",
+        "to": "SPBU Pajang A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SPBU Pajang A",
+        "to": "POS B",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "POS B",
+        "to": "BCA Pajang A",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "BCA Pajang A",
+        "to": "SMPN 9 Surakarta A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SMPN 9 Surakarta A",
+        "to": "Halal Food A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halal Food A",
+        "to": "Luwes Gentan A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Luwes Gentan A",
+        "to": "Kelurahan Gentan A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Kelurahan Gentan A",
+        "to": "BNI A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "BNI A",
+        "to": "Lapangan RCTI Gentan",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "Lapangan RCTI Gentan",
+        "to": "Kelurahan Gentan B",
+        "waktu": 3,
+        "koridor": "K9"
+    },
+    {
+        "from": "Kelurahan Gentan B",
+        "to": "Luwes Gentan B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Luwes Gentan B",
+        "to": "Halal Food B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halal Food B",
+        "to": "SMPN 9 Surakarta B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SMPN 9 Surakarta B",
+        "to": "BCA Pajang B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "BCA Pajang B",
+        "to": "POS A",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
         "from": "POS A",
-        "to": "bca pajang a",
-        "time": 2,
-        "corridor": "K9"
+        "to": "spbu pajang b",
+        "waktu": 2,
+        "koridor": "K9"
     },
     {
-        "from": "bca pajang a",
-        "to": "smpn 9 surakarta a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "spbu pajang b",
+        "to": "Halte Wangkung",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "smpn 9 surakarta a",
-        "to": "halal food a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Halte Wangkung",
+        "to": "Halte Jongke",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "halal food a",
-        "to": "luwes gentan a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Halte Jongke",
+        "to": "Pusat Oleh - Oleh Jongke B",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "luwes gentan a",
-        "to": "kelurahan gentan a",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Pusat Oleh - Oleh Jongke B",
+        "to": "Halte Jamaatul Ichwan",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "kelurahan gentan a",
-        "to": "bni",
-        "time": 1,
-        "corridor": "K9"
+        "from": "Halte Jamaatul Ichwan",
+        "to": "Universitas Duta Bangsa",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "bni",
-        "to": "lapangan rcti gentan",
-        "time": 2,
-        "corridor": "K9"
+        "from": "Universitas Duta Bangsa",
+        "to": "SMK Al Islam",
+        "waktu": 1,
+        "koridor": "K9"
     },
     {
-        "from": "pasar klewer",
+        "from": "SMK Al Islam",
+        "to": "sinus",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "sinus",
+        "to": "Al Muayyad B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Al Muayyad B",
+        "to": "SDN Tegalsari B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SDN Tegalsari B",
+        "to": "SMA Murni B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SMA Murni B",
+        "to": "Halte Gendengan Utara",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Gendengan Utara",
+        "to": "Halte Sriwedari 1 Utara",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Sriwedari 1 Utara",
+        "to": "Halte Sriwedari 2 Utara",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Sriwedari 2 Utara",
+        "to": "Halte Sami Luwes",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Sami Luwes",
+        "to": "Pasar Kembang",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Pasar Kembang",
+        "to": "SMA Al Islam",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SMA Al Islam",
+        "to": "SMA Kristen 1",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "SMA Kristen 1",
+        "to": "Kelurahan Kratonan A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Kelurahan Kratonan A",
+        "to": "Halte Kecamatan Serengan",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Kecamatan Serengan",
+        "to": "Widya Wacana",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Widya Wacana",
+        "to": "SD Kanisius A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SD Kanisius A",
+        "to": "SMPN 19 Surakarta A",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "SMPN 19 Surakarta A",
+        "to": "Sawo Kecik B",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "Sawo Kecik B",
+        "to": "SMA Al Islam B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SMA Al Islam B",
+        "to": "SMKN 3 Surakarta B",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SMKN 3 Surakarta B",
+        "to": "Halte Pasar Gading A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Halte Pasar Gading A",
+        "to": "Perempatan Baturono Timur",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Perempatan Baturono Timur",
+        "to": "Perempatan Katangan A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "Perempatan Katangan A",
+        "to": "RS Kustiati A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "RS Kustiati A",
+        "to": "SPBU Pasar Kliwon A",
+        "waktu": 1,
+        "koridor": "K9"
+    },
+    {
+        "from": "SPBU Pasar Kliwon A",
+        "to": "Kedung Lumbu B",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "Kedung Lumbu B",
+        "to": "Halte Pasar Klewer",
+        "waktu": 2,
+        "koridor": "K9"
+    },
+    {
+        "from": "Terminal Palur",
+        "to": "Halte Palur Plaza",
+        "waktu": 3,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Palur Plaza",
+        "to": "Halte Mitra Palur",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Mitra Palur",
+        "to": "Halte Brigif",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Brigif",
+        "to": "Halte Tugu Adipura Jurug Barat",
+        "waktu": 3,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Tugu Adipura Jurug Barat",
+        "to": "Halte Pasar Pucang Sawit Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Pasar Pucang Sawit Selatan",
+        "to": "Halte Boing Tenis Center Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Boing Tenis Center Selatan",
+        "to": "Halte Kelurahan Pucang Sawit Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Kelurahan Pucang Sawit Selatan",
+        "to": "Halte Perdana Oli Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Perdana Oli Selatan",
+        "to": "Halte Alfamart Jonasan Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Alfamart Jonasan Selatan",
+        "to": "Halte Tambal Ban Jonasan Barat",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Tambal Ban Jonasan Barat",
+        "to": "Halte Abon Sapi Jagalan Barat",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Abon Sapi Jagalan Barat",
+        "to": "Halte SMP 20",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte SMP 20",
+        "to": "Halte Kelurahan Jagalan Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Kelurahan Jagalan Selatan",
+        "to": "Halte Pertigaan Wonosaren Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Pertigaan Wonosaren Selatan",
+        "to": "Halte SMA 3 Keskop/SMP 14",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte SMA 3 Keskop/SMP 14",
+        "to": "Halte Dr Loo Timur",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Dr Loo Timur",
+        "to": "Halte SD Warga Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte SD Warga Selatan",
+        "to": "Halte Apotik Talenta Selatan",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Apotik Talenta Selatan",
+        "to": "Halte Warung Pelem Timur",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Warung Pelem Timur",
+        "to": "Pasar Gede Timur",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Pasar Gede Timur",
+        "to": "Balaikota Timur",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Balaikota Timur",
+        "to": "Benteng Vastenburg",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Benteng Vastenburg",
         "to": "pasar akik",
-        "time": 1,
-        "corridor": "K10"
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
         "from": "pasar akik",
-        "to": "pgs selatan",
-        "time": 1,
-        "corridor": "K10"
+        "to": "Pranoto Alun-Alun Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "pgs selatan",
-        "to": "btc selatan",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Pranoto Alun-Alun Utara",
+        "to": "polsek pasar kliwon",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "btc selatan",
-        "to": "luwes sangkrah",
-        "time": 2,
-        "corridor": "K10"
+        "from": "polsek pasar kliwon",
+        "to": "Halte Pasar Klewer",
+        "waktu": 2,
+        "koridor": "K10"
     },
     {
-        "from": "luwes sangkrah",
-        "to": "pertigaan lodji wetan",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Pasar Klewer",
+        "to": "Pasar Akik",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "pertigaan lodji wetan",
-        "to": "telkom",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Pasar Akik",
+        "to": "PGS Selatan",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "telkom",
-        "to": "Vastenburg",
-        "time": 1,
-        "corridor": "K10"
+        "from": "PGS Selatan",
+        "to": "BTC Selatan",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Vastenburg",
-        "to": "balaikota",
-        "time": 1,
-        "corridor": "K10"
+        "from": "BTC Selatan",
+        "to": "Luwes Sangkrah",
+        "waktu": 2,
+        "koridor": "K10"
     },
     {
-        "from": "balaikota",
-        "to": "pasar gedhe",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Luwes Sangkrah",
+        "to": "Pertigaan Lodji Wetan",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "pasar gedhe",
-        "to": "warung pelem",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Pertigaan Lodji Wetan",
+        "to": "Telkom",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "warung pelem",
-        "to": "apotik talenta",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Telkom",
+        "to": "Benteng Vastenburg",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "apotik talenta",
-        "to": "sd warga",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Benteng Vastenburg",
+        "to": "Balai Kota",
+        "waktu": 2,
+        "koridor": "K10"
     },
     {
-        "from": "sd warga",
-        "to": "dr loo",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Balai Kota",
+        "to": "Pasar Gede Barat",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "dr loo",
-        "to": "sma 3 smp 14",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Pasar Gede Barat",
+        "to": "Halte Warung Pelem",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "sma 3 smp 14",
-        "to": "pertigaan wonosaren",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Warung Pelem",
+        "to": "Halte Apotik Talenta Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "pertigaan wonosaren",
-        "to": "kelurahan jagalan",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Apotik Talenta Utara",
+        "to": "Halte SD Warga Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "kelurahan jagalan",
-        "to": "smpn 20",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte SD Warga Utara",
+        "to": "Halte Dr Loo Barat",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "smpn 20",
-        "to": "Abon Sapi Jagalan",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Dr Loo Barat",
+        "to": "Halte SMA 3/SMP 14",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Abon Sapi Jagalan",
-        "to": "Tambal Ban Jonasan A",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte SMA 3/SMP 14",
+        "to": "Halte Pertigaan Wonosaren Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Tambal Ban Jonasan A",
-        "to": "Alfamart Jonasan A",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Pertigaan Wonosaren Utara",
+        "to": "Halte Kelurahan Jagalan Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Alfamart Jonasan A",
-        "to": "Perdana Oli A",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Kelurahan Jagalan Utara",
+        "to": "Halte SMPN 20",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Perdana Oli A",
-        "to": "Kelurahan Pucang Sawit A",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte SMPN 20",
+        "to": "Halte Abon Sapi Jagalan Timur",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Kelurahan Pucang Sawit A",
-        "to": "Boing Tenis Center A",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Abon Sapi Jagalan Timur",
+        "to": "Halte Tambal Ban Jonasan Timur",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Boing Tenis Center A",
-        "to": "Pasar Pucang Sawit A",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Tambal Ban Jonasan Timur",
+        "to": "Halte Alfamart Jonasan Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Pasar Pucang Sawit A",
-        "to": "Tugu Adipura Jurug A",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Alfamart Jonasan Utara",
+        "to": "Halte Perdana Oli Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Tugu Adipura Jurug A",
-        "to": "Asmi",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Perdana Oli Utara",
+        "to": "Halte Kelurahan Pucang Sawit Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Asmi",
-        "to": "Adiyasa",
-        "time": 1,
-        "corridor": "K10"
+        "from": "Halte Kelurahan Pucang Sawit Utara",
+        "to": "Halte Boing Tenis Center Utara",
+        "waktu": 1,
+        "koridor": "K10"
     },
     {
-        "from": "Adiyasa",
+        "from": "Halte Boing Tenis Center Utara",
+        "to": "Halte Pasar Pucang Sawit Utara",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Pasar Pucang Sawit Utara",
+        "to": "Halte Tugu Adipura Jurug Timur",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Tugu Adipura Jurug Timur",
+        "to": "Halte Asmi",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Asmi",
+        "to": "Halte Pertigaan Adiyasa",
+        "waktu": 1,
+        "koridor": "K10"
+    },
+    {
+        "from": "Halte Pertigaan Adiyasa",
         "to": "Terminal Palur",
-        "time": 2,
-        "corridor": "K10"
+        "waktu": 2,
+        "koridor": "K10"
     }
 ]

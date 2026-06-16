@@ -1,33 +1,59 @@
-import pandas as pd
+import openpyxl
 import json
 
-EXCEL_FILE = "data/BST.xlsx"
-# =====================================
-# SHEET 10 - WAKTU TEMPUH
-# =====================================
+FILE_EXCEL = "data_halte.xlsx"
 
-edge_df = pd.read_excel(
-    EXCEL_FILE,
-    sheet_name="Sheet10"
-)
+wb = openpyxl.load_workbook(FILE_EXCEL)
 
+# ---- 1. haltes.json (Sheet11: name, lat, lon) ----
+ws = wb["Sheet11"]
+haltes = []
+for i, row in enumerate(ws.iter_rows(values_only=True)):
+    if i == 0: continue  # skip header
+    name, lat, lon = row[0], row[1], row[2]
+    if name and lat and lon:
+        haltes.append({
+            "name": str(name).strip(),
+            "lat": float(lat),
+            "lon": float(lon)
+        })
+
+with open("haltes.json", "w", encoding="utf-8") as f:
+    json.dump(haltes, f, ensure_ascii=False, indent=4)
+print(f"haltes.json → {len(haltes)} halte")
+
+# ---- 2. transit.json (Sheet3: halte, koridor) ----
+ws = wb["Sheet3"]
+transit = []
+for i, row in enumerate(ws.iter_rows(values_only=True)):
+    if i == 0: continue  # skip header
+    halte, koridor = row[0], row[1]
+    if halte and koridor:
+        transit.append({
+            "halte": str(halte).strip(),
+            "koridor": str(koridor).strip()
+        })
+
+with open("transit.json", "w", encoding="utf-8") as f:
+    json.dump(transit, f, ensure_ascii=False, indent=4)
+print(f"transit.json → {len(transit)} entri")
+
+# ---- 3. edges.json (Sheet10: from, to, waktu, koridor) ----
+ws = wb["Sheet10"]
 edges = []
+for i, row in enumerate(ws.iter_rows(values_only=True)):
+    if i == 0: continue  # skip header
+    from_, to, waktu, koridor = row[0], row[1], row[2], row[3]
+    if from_ and to and waktu and koridor:
+        edges.append({
+            "from": str(from_).strip(),
+            "to": str(to).strip(),
+            "waktu": int(waktu),
+            "koridor": str(koridor).strip()
+        })
 
-for _, row in edge_df.iterrows():
+with open("edges.json", "w", encoding="utf-8") as f:
+    json.dump(edges, f, ensure_ascii=False, indent=4)
+print(f"edges.json → {len(edges)} edges")
 
-    if pd.isna(row["from"]):
-        continue
-
-    edges.append({
-        "from": str(row["from"]).strip(),
-        "to": str(row["to"]).strip(),
-        "time": int(row["waktu"]),
-        "corridor": str(row["koridor"]).strip()
-    })
-
-with open("data/edges.json", "w", encoding="utf-8") as f:
-    json.dump(edges, f, indent=4, ensure_ascii=False)
-
-print(f"Edges: {len(edges)}")
-
-print("\nSelesai convert data!")
+print("\nDone! 3 file JSON berhasil dibuat.")

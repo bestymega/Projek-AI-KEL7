@@ -51,15 +51,15 @@ def build_graph() -> tuple[dict, dict, dict]:
     for edge in edges:
         src      = normalize(edge["from"])
         dst      = normalize(edge["to"])
-        time     = edge["time"]
-        corridor = edge.get("corridor", "")
+        waktu     = edge["waktu"]
+        koridor = edge.get("koridor", "")
 
         if src not in graph:
             graph[src] = []
         if dst not in graph:
             graph[dst] = []
 
-        graph[src].append({"to": dst, "time": time, "corridor": corridor})
+        graph[src].append({"to": dst, "time": waktu, "corridor": koridor})
 
     # Bangun transit_map dari transit.json
     # {halte: set(koridor)} dulu, lalu filter yang punya >1 koridor

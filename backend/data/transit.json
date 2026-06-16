@@ -1,3202 +1,3282 @@
 [
     {
         "halte": "Halte Bandara Adi Soemarmo",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Tanggulsari",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Tanjung Sari",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Lanud",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Colomadu",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Gereja Colomadu",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Klegen",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Luwes",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Luwes Kartasura",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Kecamatan Kartasura",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Singopuran",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte SMP N 1 Kartasura",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte SMPN 1 Kartasura",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Perempatan Kartasura",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte SMP 1 Muhammadiyah",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte SMP Muhammadiyah",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Sarwo Motor",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Pom Bensin Gembongan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Gembongan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Suharti",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Perempatan Gembongan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Goro Mall",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Goro Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte SMPN 2 Kartasura",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Puskesmas",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte UMS",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte UMS Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte RS Yarsis",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Relasi",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Mendungan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Gapura Kleco",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Farokha",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Korem 2",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Korem",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Sub Terminal Kerten",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Center Point",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte RS Kasih Ibu",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Kasih Ibu Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Pizza Hut",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte DKT",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Gendengan Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Gendengan Utara",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Sriwedari 1 Utara",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Sriwedari 2 Utara",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Sriwedari 2 Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Ngapeman Utara",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Ngapeman Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Timuran",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Timuran Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Wismabatari",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Wisma Batari",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Pasarpon",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Pasar Pon Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Nonongan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Nonongan Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Gladag",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte BCA",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Benteng Vastenburg",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Kantor Pos",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Balai Kota",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Pasar Gede Timur",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Pasar Gede Barat",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Warung Pelem",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Warung Pelem Timur",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Timlo",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Timlo Barat",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Mesen Barat",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Mesen Timur",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Jebres 2",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Jebres 1",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Panggung Utara",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Panggung Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Helmina Utara",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte RS Moewardi",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte PMI",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Muhammadiyah 3 Utara",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Muhammadiyah 3 Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Tugu Cembengan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Thiongting 1",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Cembengan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Cembengan Barat",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Sekarpace Barat",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Sekarpace Utara",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte TBS Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte TBS",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte UNS",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte UNS Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte TMP",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Pom Bensin",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Jurug 2",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Jurug 1",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Asmi Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Asmi",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Brigif",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Mitra Palur",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Palur Plaza",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Terminal Kartasura",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Bulog",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Helmina Selatan",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Terminal Palur",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Pertigaan Adiyasa",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte RS Karima",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Balaikota Timur",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Klegen",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Pasar Colomadu",
-        "koridor": "1"
+        "koridor": "K1"
     },
     {
         "halte": "Halte Sriwedari 1 Selatan",
-        "koridor": "1"
+        "koridor": "K1"
+    },
+    {
+        "halte": "SMK 2 Batik",
+        "koridor": "K1"
+    },
+    {
+        "halte": "RS UNS",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Transmart",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Gumpang",
+        "koridor": "K1"
+    },
+    {
+        "halte": "BRI Kartasura",
+        "koridor": "K1"
+    },
+    {
+        "halte": "AURI",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Halte SMP N 1 Ngemplak",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Halte SMP N 1 Ngemplak Timur",
+        "koridor": "K1"
+    },
+    {
+        "halte": "SMP N 3 Colomadu",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Halte Gumpang (SMK Harapan)",
+        "koridor": "K1"
+    },
+    {
+        "halte": "RS Ortopedi",
+        "koridor": "K1"
+    },
+    {
+        "halte": "Halte Kleco",
+        "koridor": "K1"
     },
     {
         "halte": "Terminal Palur",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Pertigaan Adiyasa",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Brigif",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Mitra Palur",
-        "koridor": "F10"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Palur Plaza",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Asmi",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Asmi Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Pasar Pucang Sawit Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Pasar Pucang Sawit Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Tugu Adipura Jurug Timur",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Tugu Adipura Jurug Barat",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Boing Tenis Center Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Boing Tenis Center Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Kelurahan Pucang Sawit Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Kelurahan Pucang Sawit Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Perdana Oli Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Perdana Oli Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Alfamart Jonasan Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Alfamart Jonasan Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Tambal Ban Jonasan Timur",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Tambal Ban Jonasan Barat",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Abon Sapi Jagalan Timur",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Abon Sapi Jagalan Barat",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte SMP 20",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte SMPN 20",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Kelurahan Jagalan Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Kelurahan Jagalan Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Pertigaan Wonosaren Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Pertigaan Wonosaren Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte SMA 3/SMP 14",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte SMA 3 Keskop/SMP 14",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Dr Loo Barat",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Dr Loo Timur",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte SD Warga Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte SD Warga Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Apotik Talenta Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Apotik Talenta Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Warung Pelem Timur",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Halte Warung Pelem",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Pasar Gede Barat",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Pasar Gede Timur",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Balaikota Timur",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Balai Kota",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Kantor Pos",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Benteng Vastenburg",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Pasar Akik",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Pranoto Alun-Alun Utara",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Polsek Pasar Kliwon",
-        "koridor": "F10"
-    },
-    {
-        "halte": "PGS Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "BTC Selatan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Pertigaan Lodji Wetan",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Luwes Sangkrah",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Telkom",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Pasar Klewer",
-        "koridor": "F10"
-    },
-    {
-        "halte": "Terminal Palur",
-        "koridor": "2"
-    },
-    {
-        "halte": "Halte Palur Plaza",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Mitra Palur",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Brigif",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Pertigaan Adiyasa",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Asmi",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Asmi Selatan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Perbatasan Kota",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Jurug 1",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Jurug 2",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Pom Bensin",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte TMP",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte UNS",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte UNS Selatan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte TBS",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte TBS Selatan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Sekarpace Utara",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Sekarpace Barat",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Cembengan Barat",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Cembengan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Tugu Cembengan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Thiongting 1",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Muhammadiyah 3 Selatan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Muhammadiyah 3 Utara",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte RS Moewardi",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte PMI",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Panggung Selatan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Panggung Utara",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Helmina Utara",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Helmina Selatan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Ringin Semar",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Purbowardayan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Sekolah Warga B",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Sekolah Warga A",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte SMAN 1",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte SMP Kristen 3",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte SD Banjarsari",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Ganesha",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte SD Cemara 2",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte TK Cemara Selatan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Proliman",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Pom Bensin Balapan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Balapan Utara",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Balapan Selatan B",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Punggawan Timur",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Punggawan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Wonder Timur",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Wonder Barat",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Hotel Sahid",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte RS PKU Utara",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte RS PKU Solo",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte SDN Yosodipuro",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Muhammadiyah 2",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Apotek Kencana",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte LBC",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Paragon Mall Timur",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Paragon Mall",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Gendengan Utara",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte DKT",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Pizza Hut",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Kasih Ibu Selatan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte RS Kasih Ibu",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Kota Barat",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte SMPN 24",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Aston",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Perempatan Batikan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Pasar Kabangan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Jamaatul Ichwan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Uniba",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Omah Laweyan",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Stasiun Purwosari",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Halte Perhutani",
-        "koridor": "2"
+        "koridor": "K2"
     },
     {
         "halte": "Terminal Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Tugu Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte PKU Muhammadiyah Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pertigaan Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pasar Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Singopuran",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte SMPN 1 Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte SMP N 1 Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Kecamatan Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Bulog",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte RS Karima",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Tugu Kraton Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte SMK Pelayaran",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Sidaromo",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Klinik Medika",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Superindo",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Superindo Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Ngadirejo",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Sidorejo Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pasar Gumpang",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Gumpang Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Tyfountex Pintu Utama",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Tyfountex Utara",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Tyfountex Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Tyfountex Pintu Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Proyek Bengawan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Proyek Bengawan Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Masjid Windan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Getuk Semar",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte STIE AAS",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Praci Maloyo",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Makam Haji",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte STIS",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Tugu Lilin Utara",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Tugu Lilin Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Wangkung Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Jongke",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Kelurahan Laweyan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Trubus",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Ria Miranda",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Sabar Motor",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Sabar Motor Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Baron Barat",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Baron Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Baron Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Kecamatan Laweyan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Kecamatan Laweyan Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte BLK Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Lottemart Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte SPBU Bunderan A",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Widya Wacana",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Gemblegan Barat",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pertigaan Notosuman B",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Kalilarangan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Batik Keris",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Nonongan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Gladag",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Kantor Pos",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Balai Kota",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Warung Pelem",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Pasar Gede Barat",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Pasar Gede Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Warung Pelem Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Balaikota Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Benteng Vastenburg",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Timlo Barat",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Timlo",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Mesen Barat",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Mesen Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Jebres 2",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Jebres 1",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Panggung Utara",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Panggung Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Helmina Utara",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Helmina Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte RS Moewardi",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte PMI",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Muhammadiyah 3 Utara",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Muhammadiyah 3 Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Aisyiyah",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Stikes Aisyiyah",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte ISI",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Solo Techno Park",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Kecamatan Jebres Timur",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Kecamatan Jebres Barat",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pintu Belakang UNS Barat",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pintu Belakang UNS",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte RS Jiwa/Taman Lansia",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Jongke Selatan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Pranoto Alun-Alun Utara",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pasar Klewer",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Sidomumbul",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Tugu Cembengan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Thiongting 1",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Penni Gallery",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Masjid Fatimah",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pasar Kadipolo",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Panularan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Polsek Kartasura",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Depan Taspen 3",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte SMA N 7 A",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Omah Laweyan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Pasar Kabangan",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Halte Wangkung",
-        "koridor": "3"
+        "koridor": "K3"
     },
     {
         "halte": "Terminal Kartasura",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte RS Karima Utama",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte RS Karima",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Luwes Kartasura",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Luwes",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Klegen",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Klegen",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Gereja Colomadu",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Colomadu",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Kecamatan Colomadu",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pom Bensin Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pom Bensin Colomadu",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Koramil",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Koramil Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte YPAC Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte YPAC",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Jonggrang Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Jonggrang",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte IHS Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte IHS Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte ATMI",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte ATMI Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Lor Inn Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Lor Inn Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Lapangan Bulukan Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Lapangan Bulukan Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Alana Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Alana",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Solo Pos Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Solopos Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte DPRD Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte PDAM",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Adi Sucipto Barat 1",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Adi Sucipto Timur 2",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Adi Sucipto Timur 1",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Holland",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Cafedangan Manahan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte SMA Ursulin Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Ursulin",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte SMKN 4 Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte SMKN 4",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte TK Pembina",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Bank Jateng",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte RS Bhayangkara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Stadion Manahan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Manahan Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Gedung Wanita",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pom Bensin Manahan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte PLN Manahan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte RS Brayat",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Dewa Dewi Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Dewa Dewi",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Terminal Tirtonadi",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Viaduk Gilingan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pasar Ngemplak Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pasar Ngemplak",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Perempatan AUB",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Perempatan AUB Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Kandang Sapi Timur",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Kandang Sapi Barat",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Panggung Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Panggung Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Helmina Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Helmina Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte RS Moewardi",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte PMI",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Muhammadiyah 3 Utara",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Muhammadiyah 3 Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Tugu Cembengan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Thiongting 1",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Aisyiyah",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Stikes Aisyiyah",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte ISI",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Solo Techno Park",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pintu Belakang UNS",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pintu Belakang UNS Barat",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Kecamatan Jebres Barat",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Kecamatan Jebres Timur",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte RS Jiwa/Taman Lansia",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Taman Lansia",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Rusun Jurug Barat",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Rusun Jurug Timur",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pasar Buah Jurug Barat",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pasar Buah Jurug Timur",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Jurug 1",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Jurug 2",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Asmi",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Asmi Selatan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pertigaan Adiyasa",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Terminal Palur",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Brigif",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Mitra Palur",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Palur Plaza",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Pasar Ikan",
-        "koridor": "4"
+        "koridor": "K4"
     },
     {
         "halte": "Halte Masjid Syeikh Zayed",
-        "koridor": "4"
+        "koridor": "K4"
+    },
+    {
+        "halte": "Tirtonadi barat",
+        "koridor": "K4"
+    },
+    {
+        "halte": "Asrama CPM Gilingan",
+        "koridor": "K4"
+    },
+    {
+        "halte": "SMPN 1 Surakarta",
+        "koridor": "K4"
+    },
+    {
+        "halte": "Halte Adi Sucipto Barat 2",
+        "koridor": "K4"
     },
     {
         "halte": "Halte RS Karima Utama",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte RS Karima",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Luwes Kartasura",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Luwes",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Klegen",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Klegen",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Colomadu",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Gereja Colomadu",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Pasar Colomadu",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Lanud",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "GBI Malangjiwan Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "GBI Malangjiwan Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Apotek Kinara Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Apotek Kinara Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMP 1 Gawanan Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMP 1 Gawanan Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMK Adi Soemarmo",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMK Penerbangan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Yakkum",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Yakkum Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Garasi BST Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Garasi BST",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Akfis",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Akfis Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Soto Sawah Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Soto Sawah Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Puskesmas Colomadu Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Puskesmas Colomadu Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Klodran Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Klodran Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMKN 9 Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMKN 9 Surakarta",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SPBU Banyu Anyar",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMPN 23 Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Graha Saba Buana",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Graha Saba Buana Barat",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMK BK",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Lapangan Sumber",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Bank Jateng",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte TK Pembina",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte RS Bhayangkara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Manahan Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Stadion Manahan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Kota Barat",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte SMPN 24",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Kota Barat/Aswata",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMP 24 dan 25",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Gendengan Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Gendengan Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Sriwedari 1 Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Sriwedari 1 Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Sriwedari 2 Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Sriwedari 2 Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Ngapeman Utara",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Ngapeman Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Timuran",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Timuran Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Wismabatari",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Wisma Batari",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Pasarpon",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Pasar Pon Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Tiktok",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Singosaren",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Simpang 4 Notosuman",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Gereja-Masjid",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Sampurna Gemblegan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Gemblegan Timur",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Pertigaan Notosuman A",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Kalilangan Timur",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Batik Keris",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Luwes Gading Selatan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Luwes Gading",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Pasar Gading B",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Perempatan Baturono",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Perempatan Baturono Timur",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Baturono Timur",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte SPBU Semanggi B",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte SPBU Semanggi A",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Sub Terminal Semanggi",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMA MTA Surakarta",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMA MTA Surakarta",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Jembatan Mojo",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Jembatan Mojo",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Ngebrak",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Ngebrak",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Laban",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Laban",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Graha Safira",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Graha Safira",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Pasar Plumbon",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Pasar Plumbon",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Gamelan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Gamelan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "GTP",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "GTP",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Wirun",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Wirun",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Polsek Mojolaban",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Polsek Mojolaban",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMAN 1 Mojolaban",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMAN 1 Mojolaban",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Tugu Bendo",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Tugu Bendo",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Pasar Bekonang",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Pasar Bekonang",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Lapangan Cangkol (MTSN 1 Sukoharjo)",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Lapangan Cangkol",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMP Mojolaban",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SMP Mojolaban",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SPBU Sidan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "SPBU Sidan",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Halte Pasar Gading A",
-        "koridor": "5"
+        "koridor": "K5"
     },
     {
         "halte": "Simpang Sidan",
-        "koridor": "5"
+        "koridor": "K5"
+    },
+    {
+        "halte": "SMP N 12",
+        "koridor": "K5"
+    },
+    {
+        "halte": "Halte Sriwedari 1 Selatan",
+        "koridor": "K5"
     },
     {
         "halte": "Subter Taman Pelangi",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Dr. Retno Pudjiastuti",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Pasar Sibela B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Pasar Sibela A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Taman Jayawijaya A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Taman Jayawijaya B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Indomaret Jayawijaya A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Indomaret Jayawijaya B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Toko Anugrah A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Toko Anugrah B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Busukan B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Busukan A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Dempo B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Dempo A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Ngaglik A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Ngaglik B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "USB Poltekkes B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "USB Poltekkes A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Pertigaan Patung Banteng Bibis A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Pertigaan Patung Banteng Bibis B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Pasar Ngemplak B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Pasar Ngemplak A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Masjid Al Hakam B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Masjid Al Hakam A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte SMA 5/SMA 6 A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte SMA 5/SMA 6 B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Patung Mayor Ahmadi A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Patung Mayor Ahmadi B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte SMP N 4 Surakarta A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte SMP N 4 Surakarta B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte SMK Kristen 2",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte SMK Kristen 2 B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Kelurahan Stabelan B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Kelurahan Stabelan A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "SMP Widya Wacana",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Pasar Beras A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Pasar Legi",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Pasar Legi",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Rusun Belakang Mangkunegaran",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "SMA Muhammadiyah 1",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Dealer VIAR",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Kelurahan Ketelan B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Kelurahan Ketelan A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Hotel Sahid",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Perhutani",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Timur PKU",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Kelurahan Timuran A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Atria",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Mangkunegaran",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Sami Luwes",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Pasar Kembang",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Trisakti",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Perempatan Kalilangan",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Pertigaan Notosuman A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Simpang 4 Notosuman",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Singosaren",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Triwindu",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Pertigaan Notosuman B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Gemblegan Barat",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Gemblegan Timur",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Grobakan B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Grobakan",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Luwes Gading",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Luwes Gading Selatan",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Pasar Gading B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Pasar Gading A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Baturono Timur",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Perempatan Baturono",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Baturono Timur",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Apil Semanggi B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Apil Semanggi A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte SPBU Semanggi B",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte SPBU Semanggi A",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Sub Terminal Semanggi",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "RSUD Bung Karno",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Halte Perempatan Pasar Legi Selatan",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "SMA Muhammadiyah 1",
-        "koridor": "F9"
+        "koridor": "K6"
     },
     {
         "halte": "Subter Taman Pelangi",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Dr. Retno Pudjiastuti",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Bakso Putra Makmur",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Bakso Putra Makmur",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Goa Maria B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Goa Maria",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Kelurahan Mojosongo",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Untoroloyo B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Untoroloyo",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Pabrik Jerapah B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Pabrik Jerapah A",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Pasar Mojosongo B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Pasar Mojosongo A",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Kandang Sapi Timur",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Kandang Sapi Barat",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Panggung B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Panggung A",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Ringin Semar",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Purbowardayan",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Sekolah Warga B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Sekolah Warga A",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte SMAN 1",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte SMP Kristen 3",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte SD Banjarsari",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Ganesha",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Patung Mayor Ahmadi A",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Patung Mayor Ahmadi B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte SMP N 4 Surakarta A",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte SMP N 4 Surakarta B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte SMK Kristen 2 B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte SMK Kristen 2",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Kelurahan Stabelan B",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Kelurahan Stabelan A",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "SMP Widya Wacana",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Pasar Beras A",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Perempatan Pasar Legi",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Pasar Legi",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte Kelurahan Mojosongo",
-        "koridor": "F8"
+        "koridor": "K7"
     },
     {
         "halte": "Halte RSUD Ngipang",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "GKJ Ngipang",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "GKJ Ngipang",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "LDII Bayan Krajan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "LDII Bayan Krajan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Puskesmas Krembyongan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Puskesmas Krembyongan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Naraya Baby Shop",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Naraya Baby Shop",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Sumpingan 2",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Sumpingan 2 Barat",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Sumpingan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Sumpingan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "SD 3 Banyu Agung",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "SD Kristen 2 Stabelan A",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "SD 3 Banyuagung",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Kimia Farma Banyu Agung",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Kimia Farma Banyu Agung",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Luwes Nusukan 1",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Luwes Nusukan 2",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Nusukan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Nusukan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Jembatan Terminal Tirtonadi",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Jembatan Tirtonadi Utara",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Terminal Tirtonadi",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Papsa Gilingan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Papsa Gilingan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Besi Gilingan B",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Besi Gilingan A",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Proliman Balapan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Triharsi",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Arif Sport Pasar Legi",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Luwes Kestalan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Legi",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "SMP Widya Wacana",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "PDAM Stabelan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Apotik Widuran",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Perempatan Pasar Legi",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Legi Barat",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pegadaian Widuran",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pegadaian Widuran",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Kejaksaan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Kejaksaan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Halte Warung Pelem",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Halte Warung Pelem Timur",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Gede Barat",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Balaikota Timur",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Balai Kota",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Benteng Vastenburg",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Kantor Pos",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Akik",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pranoto Alun-Alun Utara",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Polsek Pasar Kliwon",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Klewer",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "PGS Selatan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "BTC Selatan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Luwes Sangkrah",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pertigaan Lodji Wetan",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Telkom",
-        "koridor": "F7"
+        "koridor": "K8"
     },
     {
         "halte": "Pasar Gede Timur",
-        "koridor": "F7"
+        "koridor": "K8"
+    },
+    {
+        "halte": "Roti Ganep",
+        "koridor": "K8"
+    },
+    {
+        "halte": "Tirtonadi barat",
+        "koridor": "K8"
     },
     {
         "halte": "Polsek Pasar Kliwon",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Pasar Klewer",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Pranoto Alun-Alun Utara",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Pasar Akik",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Kedung Lumbu B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Kedung Lumbu A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SPBU Pasar Kliwon B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SPBU Pasar Kliwon A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Perempatan Baturono Timur",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Perempatan Baturono",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Pasar Gading A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Pasar Gading B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMKN 3 Surakarta A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMKN 3 Surakarta B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMA Al Islam B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMA Al Islam A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Sawo Kecik A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Sawo Kecik B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMPN 19 Surakarta A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMPN 19 Surakarta B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SD Kanisius A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SD Kanisius B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Widya Wacana",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte SPBU Bunderan A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Kecamatan Serengan",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Widya Wacana",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Kelurahan Kratonan A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Kelurahan Kratonan B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMA Kristen 1",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMA Kristen 1",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMA Al Islam",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMA Al Islam",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Pasar Kadipolo",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Pasar Kembang",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "GOR Sritek",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Sami Luwes",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Sriwedari 2 Utara",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Sriwedari 1 Utara",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Gendengan Utara",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Fakultas Kedokteran UMS",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMA Murni B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Simpang 4 Sutowijoyo",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Zona Steak",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Kelurahan Sri Wedari",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SDN Tegalsari A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SDN Tegalsari B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Al Muayyad A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Al Muayyad B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Perempatan Batikan",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SINUS",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SINUS",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMK Al Islam",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Universitas Duta Bangsa",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Jamaatul Ichwan",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Omah Laweyan",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Pasar Kabangan",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Jongke Selatan",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Pusat Oleh - Oleh Jongke B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Pusat Oleh - Oleh Jongke A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "RS Kustati B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "RS Kustiati A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Perempatan Katangan A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Perempatan Katangan B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Wangkung Selatan",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halte Wangkung",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SPBU Pajang A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "POS B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "POS A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "BCA Pajang A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "BCA Pajang B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMPN 9 Surakarta B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "SMPN 9 Surakarta A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halal Food A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Halal Food B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Luwes Gentan A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Luwes Gentan B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Kelurahan Gentan A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Kelurahan Gentan B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "BNI B",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "BNI A",
-        "koridor": "F12"
+        "koridor": "K9"
     },
     {
         "halte": "Lapangan RCTI Gentan",
-        "koridor": "F12"
+        "koridor": "K9"
+    },
+    {
+        "halte": "Terminal Palur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Pertigaan Adiyasa",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Brigif",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Mitra Palur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Palur Plaza",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Asmi",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Asmi Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Pasar Pucang Sawit Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Pasar Pucang Sawit Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Tugu Adipura Jurug Timur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Tugu Adipura Jurug Barat",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Boing Tenis Center Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Boing Tenis Center Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Kelurahan Pucang Sawit Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Kelurahan Pucang Sawit Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Perdana Oli Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Perdana Oli Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Alfamart Jonasan Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Alfamart Jonasan Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Tambal Ban Jonasan Timur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Tambal Ban Jonasan Barat",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Abon Sapi Jagalan Timur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Abon Sapi Jagalan Barat",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte SMP 20",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte SMPN 20",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Kelurahan Jagalan Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Kelurahan Jagalan Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Pertigaan Wonosaren Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Pertigaan Wonosaren Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte SMA 3/SMP 14",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte SMA 3 Keskop/SMP 14",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Dr Loo Barat",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Dr Loo Timur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte SD Warga Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte SD Warga Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Apotik Talenta Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Apotik Talenta Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Warung Pelem Timur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Halte Warung Pelem",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Pasar Gede Barat",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Pasar Gede Timur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Balaikota Timur",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Balai Kota",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Kantor Pos",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Benteng Vastenburg",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Pasar Akik",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Pranoto Alun-Alun Utara",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Polsek Pasar Kliwon",
+        "koridor": "K10"
+    },
+    {
+        "halte": "PGS Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "BTC Selatan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Pertigaan Lodji Wetan",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Luwes Sangkrah",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Telkom",
+        "koridor": "K10"
+    },
+    {
+        "halte": "Pasar Klewer",
+        "koridor": "K10"
     }
 ]
