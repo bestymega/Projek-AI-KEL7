@@ -367,12 +367,12 @@
     },
     {
         "from": "Halte Tanjung Sari",
-        "to": "smpn 1 ngemplak",
+        "to": "Halte SMP N 1 Ngemplak",
         "waktu": 2,
         "koridor": "K1"
     },
     {
-        "from": "smpn 1 ngemplak",
+        "from": "Halte SMP N 1 Ngemplak",
         "to": "Halte Bandara Adi Soemarmo",
         "waktu": 5,
         "koridor": "K1"
@@ -463,12 +463,12 @@
     },
     {
         "from": "Halte Suharti",
-        "to": "Gumpang (SMK Harapan)",
+        "to": "Halte Gumpang (SMK Harapan)",
         "waktu": 1,
         "koridor": "K1"
     },
     {
-        "from": "Gumpang (SMK Harapan)",
+        "from": "Halte Gumpang (SMK Harapan)",
         "to": "Halte Goro Mall",
         "waktu": 1,
         "koridor": "K1"
@@ -499,12 +499,12 @@
     },
     {
         "from": "Halte Mendungan",
-        "to": "Kleco",
+        "to": "Halte Kleco",
         "waktu": 1,
         "koridor": "K1"
     },
     {
-        "from": "Kleco",
+        "from": "Halte Kleco",
         "to": "Halte Farokha",
         "waktu": 1,
         "koridor": "K1"
@@ -2425,12 +2425,12 @@
     },
     {
         "from": "Garasi BST Utara",
-        "to": "afkis",
+        "to": "Akfis",
         "waktu": 1,
         "koridor": "K5"
     },
     {
-        "from": "afkis",
+        "from": "Akfis",
         "to": "Soto Sawah Utara",
         "waktu": 2,
         "koridor": "K5"

@@ -10,7 +10,7 @@
     "halte tanggulsari": [],
     "halte tanjung sari": [
       {
-        "to": "smpn 1 ngemplak",
+        "to": "halte smp n 1 ngemplak",
         "time": 2,
         "corridor": "K1"
       },
@@ -213,7 +213,7 @@
         "corridor": "K1"
       },
       {
-        "to": "gumpang (smk harapan)",
+        "to": "halte gumpang (smk harapan)",
         "time": 1,
         "corridor": "K1"
       }
@@ -283,7 +283,7 @@
     ],
     "halte mendungan": [
       {
-        "to": "kleco",
+        "to": "halte kleco",
         "time": 1,
         "corridor": "K1"
       }
@@ -3196,7 +3196,7 @@
     ],
     "garasi bst utara": [
       {
-        "to": "afkis",
+        "to": "akfis",
         "time": 1,
         "corridor": "K5"
       }
@@ -3208,7 +3208,13 @@
         "corridor": "K5"
       }
     ],
-    "akfis": [],
+    "akfis": [
+      {
+        "to": "soto sawah utara",
+        "time": 2,
+        "corridor": "K5"
+      }
+    ],
     "akfis selatan": [
       {
         "to": "garasi bst",
@@ -5030,7 +5036,13 @@
         "corridor": "K1"
       }
     ],
-    "halte smp n 1 ngemplak": [],
+    "halte smp n 1 ngemplak": [
+      {
+        "to": "halte bandara adi soemarmo",
+        "time": 5,
+        "corridor": "K1"
+      }
+    ],
     "halte smp n 1 ngemplak timur": [
       {
         "to": "halte tanjung sari",
@@ -5045,7 +5057,13 @@
         "corridor": "K1"
       }
     ],
-    "halte gumpang (smk harapan)": [],
+    "halte gumpang (smk harapan)": [
+      {
+        "to": "halte goro mall",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
     "rs ortopedi": [
       {
         "to": "halte mendungan",
@@ -5053,7 +5071,13 @@
         "corridor": "K1"
       }
     ],
-    "halte kleco": [],
+    "halte kleco": [
+      {
+        "to": "halte farokha",
+        "time": 1,
+        "corridor": "K1"
+      }
+    ],
     "tirtonadi barat": [
       {
         "to": "terminal tirtonadi",
@@ -5111,34 +5135,6 @@
         "to": "halte wangkung",
         "time": 1,
         "corridor": "K9"
-      }
-    ],
-    "smpn 1 ngemplak": [
-      {
-        "to": "halte bandara adi soemarmo",
-        "time": 5,
-        "corridor": "K1"
-      }
-    ],
-    "gumpang (smk harapan)": [
-      {
-        "to": "halte goro mall",
-        "time": 1,
-        "corridor": "K1"
-      }
-    ],
-    "kleco": [
-      {
-        "to": "halte farokha",
-        "time": 1,
-        "corridor": "K1"
-      }
-    ],
-    "afkis": [
-      {
-        "to": "soto sawah utara",
-        "time": 2,
-        "corridor": "K5"
       }
     ]
   },
