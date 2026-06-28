@@ -10,6 +10,7 @@ PERUBAHAN dari versi sebelumnya:
 - came_from sekarang menyimpan (node_sebelumnya, corridor) bukan hanya node
 - Return tambahan: path_edges — list edge yang dilalui beserta corridor-nya
   → digunakan app.py untuk ekstrak info koridor & transit tanpa mengubah logika A*
+- [BARU] Parameter transit_penalty: penalti waktu (menit) saat pindah koridor
 """
 
 import heapq
@@ -49,25 +50,34 @@ def heuristic(node: str, goal: str, coords: dict) -> float:
 
 
 # ---------------------------------------------------------------------------
-# Algoritma A* — logika TIDAK berubah, hanya tambah pelacakan corridor
+# Algoritma A* — dengan transit penalty
 # ---------------------------------------------------------------------------
 
-def astar(graph: dict, coords: dict, start: str, goal: str) -> dict:
+def astar(
+    graph: dict,
+    coords: dict,
+    start: str,
+    goal: str,
+    transit_penalty: float = 5.0,   # [BARU] penalti (menit) saat ganti koridor
+) -> dict:
     """
     Mencari rute tercepat dari start ke goal menggunakan A*.
 
     Args:
-        graph  (dict): Adjacency list {halte: [{to, time, corridor}]}.
-        coords (dict): {halte: {lat, lon}}.
-        start  (str) : Nama halte asal.
-        goal   (str) : Nama halte tujuan.
+        graph           (dict) : Adjacency list {halte: [{to, time, corridor}]}.
+        coords          (dict) : {halte: {lat, lon}}.
+        start           (str)  : Nama halte asal.
+        goal            (str)  : Nama halte tujuan.
+        transit_penalty (float): Biaya tambahan (menit) saat berpindah koridor.
+                                 Default 5 menit. Set 0 untuk menonaktifkan.
 
     Returns:
         dict:
-            path        : list nama halte yang dilalui
-            path_edges  : list {from, to, corridor, time} tiap segmen
-            total_time  : total waktu tempuh (menit)
-            nodes_visited: jumlah node yang dieksplorasi
+            path          : list nama halte yang dilalui
+            path_edges    : list {from, to, corridor, time} tiap segmen
+            total_time    : total waktu tempuh (menit), sudah termasuk penalti transit
+            nodes_visited : jumlah node yang dieksplorasi
+            transit_count : jumlah perpindahan koridor yang terjadi
 
     Raises:
         ValueError  : Jika start atau goal tidak ada di graph.
@@ -84,7 +94,7 @@ def astar(graph: dict, coords: dict, start: str, goal: str) -> dict:
 
     g_score: dict[str, float] = {start: 0.0}
 
-    # ← PERUBAHAN: simpan (node_sebelumnya, corridor, time_edge) per node
+    # came_from menyimpan (node_sebelumnya, corridor, time_edge)
     came_from: dict[str, tuple | None] = {start: None}
 
     closed_set: set[str] = set()
@@ -114,21 +124,33 @@ def astar(graph: dict, coords: dict, start: str, goal: str) -> dict:
                         "from"    : prev_node,
                         "to"      : node,
                         "corridor": corridor,
-                        "time"    : edge_time
+                        "time"    : edge_time,
                     })
                 node = meta[0] if meta else None
 
             path.reverse()
             path_edges.reverse()
 
+            # Hitung jumlah transit (perpindahan koridor)
+            transit_count = sum(
+                1
+                for i in range(1, len(path_edges))
+                if path_edges[i]["corridor"] != path_edges[i - 1]["corridor"]
+            )
+
             return {
-                "path"        : path,
-                "path_edges"  : path_edges,
-                "total_time"  : round(g_score[goal], 2),
-                "nodes_visited": nodes_visited
+                "path"         : path,
+                "path_edges"   : path_edges,
+                "total_time"   : round(g_score[goal], 2),
+                "nodes_visited": nodes_visited,
+                "transit_count": transit_count,
             }
 
-        # Eksplorasi tetangga — TIDAK ADA PERUBAHAN LOGIKA A*
+        # Eksplorasi tetangga
+        # Ambil koridor saat ini dari came_from agar tahu apakah ganti koridor
+        current_meta    = came_from.get(current)
+        current_corridor = current_meta[1] if current_meta else None
+
         for neighbor in graph.get(current, []):
             next_node  = neighbor["to"]
             edge_cost  = neighbor["time"]
@@ -139,9 +161,12 @@ def astar(graph: dict, coords: dict, start: str, goal: str) -> dict:
 
             tentative_g = g_score[current] + edge_cost
 
+            # [BARU] Tambahkan penalti jika koridor berubah
+            if current_corridor is not None and corridor != current_corridor:
+                tentative_g += transit_penalty
+
             if tentative_g < g_score.get(next_node, float("inf")):
                 g_score[next_node]   = tentative_g
-                # ← simpan corridor dan time_edge bersama parent
                 came_from[next_node] = (current, corridor, edge_cost)
                 f_score = tentative_g + heuristic(next_node, goal, coords)
                 counter += 1

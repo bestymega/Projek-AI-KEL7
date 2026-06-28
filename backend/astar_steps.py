@@ -2,6 +2,11 @@
 astar_steps.py
 Versi A* yang mencatat setiap iterasi untuk keperluan visualisasi step-by-step.
 Logika A* TIDAK DIUBAH — hanya ditambahkan pencatatan state per iterasi.
+
+PERUBAHAN dari versi sebelumnya:
+- [BARU] Parameter transit_penalty: penalti waktu (menit) saat pindah koridor
+- [BARU] Setiap step snapshot menyertakan field `transit_here` (bool) agar
+  visualisasi Streamlit dapat menandai halte transit dengan warna berbeda.
 """
 
 import heapq
@@ -13,7 +18,7 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 
 
 # ---------------------------------------------------------------------------
-# Haversine & Heuristic (sama persis dengan astar.py asli)
+# Haversine & Heuristic (sama persis dengan astar.py)
 # ---------------------------------------------------------------------------
 
 def haversine(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
@@ -51,20 +56,38 @@ def _reconstruct_path(came_from: dict, node: str) -> list[str]:
 
 
 # ---------------------------------------------------------------------------
-# A* dengan pencatatan steps
+# A* dengan pencatatan steps dan transit penalty
 # ---------------------------------------------------------------------------
 
-def astar_with_steps(graph: dict, coords: dict, start: str, goal: str) -> dict:
+def astar_with_steps(
+    graph: dict,
+    coords: dict,
+    start: str,
+    goal: str,
+    transit_penalty: float = 5.0,   # [BARU] penalti (menit) saat ganti koridor
+) -> dict:
     """
-    Sama dengan astar() asli tetapi menyimpan snapshot setiap iterasi ke `steps`.
+    Sama dengan astar() tetapi menyimpan snapshot setiap iterasi ke `steps`.
+
+    Args:
+        graph           (dict) : Adjacency list {halte: [{to, time, corridor}]}.
+        coords          (dict) : {halte: {lat, lon}}.
+        start           (str)  : Nama halte asal.
+        goal            (str)  : Nama halte tujuan.
+        transit_penalty (float): Biaya tambahan (menit) saat berpindah koridor.
+                                 Default 5 menit. Set 0 untuk menonaktifkan.
 
     Returns:
         dict:
-            path         : rute optimal
-            path_edges   : edge yang dilalui beserta corridor
-            total_time   : total waktu (menit)
-            nodes_visited: jumlah node dieksplorasi
-            steps        : list snapshot per iterasi A*
+            path          : rute optimal
+            path_edges    : edge yang dilalui beserta corridor
+            total_time    : total waktu (menit), sudah termasuk penalti transit
+            nodes_visited : jumlah node dieksplorasi
+            transit_count : jumlah perpindahan koridor
+            steps         : list snapshot per iterasi A*
+                            Setiap step memiliki field tambahan:
+                            - transit_here (bool): apakah terjadi transit di node ini
+                            - penalty_applied (float): besar penalti yang ditambahkan
     """
     if start not in graph:
         raise ValueError(f"Halte asal '{start}' tidak ditemukan dalam graph.")
@@ -101,8 +124,13 @@ def astar_with_steps(graph: dict, coords: dict, start: str, goal: str) -> dict:
         neighbors_added = []
         is_goal = (current == goal)
 
+        # [BARU] Cek apakah node ini merupakan titik transit
+        current_meta     = came_from.get(current)
+        current_corridor = current_meta[1] if current_meta else None
+        transit_here     = False   # akan di-set True jika ada pergantian koridor masuk
+        penalty_applied  = 0.0
+
         if not is_goal:
-            # Eksplorasi tetangga — TIDAK ADA PERUBAHAN LOGIKA A*
             for neighbor in graph.get(current, []):
                 next_node = neighbor["to"]
                 edge_cost = neighbor["time"]
@@ -114,12 +142,21 @@ def astar_with_steps(graph: dict, coords: dict, start: str, goal: str) -> dict:
                 neighbors_added.append(next_node)
                 tentative_g = g_score[current] + edge_cost
 
+                # [BARU] Tambahkan penalti jika koridor berubah
+                added_penalty = 0.0
+                if current_corridor is not None and corridor != current_corridor:
+                    added_penalty = transit_penalty
+                    tentative_g  += added_penalty
+                    transit_here  = True   # current adalah titik transit
+
                 if tentative_g < g_score.get(next_node, float("inf")):
                     g_score[next_node]   = tentative_g
                     came_from[next_node] = (current, corridor, edge_cost)
                     f_val = tentative_g + h_score.get(next_node, 0)
                     counter += 1
                     heapq.heappush(open_set, (f_val, counter, next_node))
+                    if added_penalty > 0:
+                        penalty_applied = added_penalty
 
         # Snapshot open_set saat ini (ambil nilai unik per node, ambil f terbaik)
         open_nodes: dict[str, float] = {}
@@ -131,7 +168,7 @@ def astar_with_steps(graph: dict, coords: dict, start: str, goal: str) -> dict:
             if n not in closed_set
         ]
 
-        # g, f score snapshot
+        # g, f, h score snapshot
         g_snap = {n: round(v, 2) for n, v in g_score.items()}
         f_snap = {n: round(g_score.get(n, 0) + h_score.get(n, 0), 2) for n in g_score}
         h_snap = {n: round(h_score.get(n, 0), 2) for n in g_score}
@@ -145,17 +182,20 @@ def astar_with_steps(graph: dict, coords: dict, start: str, goal: str) -> dict:
         path_so_far = _reconstruct_path(came_from, current)
 
         steps.append({
-            "step"           : step_num,
-            "current"        : current,
-            "open_set"       : open_list_snapshot,
-            "closed_set"     : list(closed_set),
-            "neighbors_added": neighbors_added,
-            "g_score"        : g_snap,
-            "h_score"        : h_snap,
-            "f_score"        : f_snap,
-            "parent"         : parent_snap,
-            "path_so_far"    : path_so_far,
-            "goal_found"     : is_goal,
+            "step"            : step_num,
+            "current"         : current,
+            "open_set"        : open_list_snapshot,
+            "closed_set"      : list(closed_set),
+            "neighbors_added" : neighbors_added,
+            "g_score"         : g_snap,
+            "h_score"         : h_snap,
+            "f_score"         : f_snap,
+            "parent"          : parent_snap,
+            "path_so_far"     : path_so_far,
+            "goal_found"      : is_goal,
+            # [BARU] info transit untuk visualisasi
+            "transit_here"    : transit_here,
+            "penalty_applied" : penalty_applied,
         })
 
         if is_goal:
@@ -173,18 +213,26 @@ def astar_with_steps(graph: dict, coords: dict, start: str, goal: str) -> dict:
                         "from"    : prev_node,
                         "to"      : node,
                         "corridor": corridor,
-                        "time"    : edge_time
+                        "time"    : edge_time,
                     })
                 node = meta[0] if meta else None
 
             path.reverse()
             path_edges.reverse()
 
+            # Hitung jumlah transit (perpindahan koridor)
+            transit_count = sum(
+                1
+                for i in range(1, len(path_edges))
+                if path_edges[i]["corridor"] != path_edges[i - 1]["corridor"]
+            )
+
             return {
                 "path"         : path,
                 "path_edges"   : path_edges,
                 "total_time"   : round(g_score[goal], 2),
                 "nodes_visited": nodes_visited,
+                "transit_count": transit_count,
                 "steps"        : steps,
             }
 
@@ -194,7 +242,7 @@ def astar_with_steps(graph: dict, coords: dict, start: str, goal: str) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# Load graph (sama dengan astar.py asli)
+# Load graph (sama dengan astar.py)
 # ---------------------------------------------------------------------------
 
 def load_graph_from_file() -> tuple[dict, dict, dict]:
