@@ -342,8 +342,13 @@ else:
         used_start = result.get("start", start_halte)
         used_goal = result.get("goal", goal_halte)
         
+        show_all_labels = st.checkbox("Tampilkan Nama Semua Halte Aktif", value=False, help="Centang untuk melihat nama seluruh halte di rute saat ini (bisa sedikit berantakan)")
+        
         if show_labels:
-            label_nodes = list({step_data["current"], used_start, used_goal})
+            if show_all_labels:
+                label_nodes = None
+            else:
+                label_nodes = list({step_data["current"], used_start, used_goal})
 
         fig = draw_step(
             G, pos, step_data,
@@ -441,6 +446,9 @@ else:
         timeline_html += f'<div class="timeline-item timeline-future">… {total_steps - win_end} step berikutnya</div>'
 
     st.markdown(timeline_html, unsafe_allow_html=True)
+
+    if steps[step_idx]["goal_found"]:
+        st.markdown(f'### GOAL DITEMUKAN!', unsafe_allow_html=True)
 
     # ── Rute optimal (tampil setelah goal ditemukan) ─────────────────────────
     if step_idx == total_steps - 1 and steps[-1]["goal_found"]:
