@@ -73,6 +73,7 @@ const map = new maptilersdk.Map({
 
 let currentMarkers = [];
 let currentPolyline = null;
+let allHaltMarkers = {};
 
 function clearMapLayers() {
     currentMarkers.forEach(m => m.remove());
@@ -169,10 +170,41 @@ function drawRoute(coords) {
 const selOrigin = document.getElementById('sel-origin');
 const selDest = document.getElementById('sel-dest');
 
+function updateMarkerStyles() {
+    const origin = selOrigin.value.toLowerCase();
+    const dest = selDest.value.toLowerCase();
+    
+    for (const [name, marker] of Object.entries(allHaltMarkers)) {
+        const el = marker.customEl;
+        if (name === origin) {
+            el.style.background = '#16a34a'; // green
+            el.style.width = '20px';
+            el.style.height = '20px';
+            el.style.zIndex = '10';
+        } else if (name === dest) {
+            el.style.background = '#dc2626'; // red
+            el.style.width = '20px';
+            el.style.height = '20px';
+            el.style.zIndex = '10';
+        } else {
+            el.style.background = '#9ca3af'; // gray
+            el.style.width = '14px';
+            el.style.height = '14px';
+            el.style.zIndex = '1';
+        }
+    }
+}
+
 document.getElementById('btn-swap').addEventListener('click', () => {
     const tmp = selOrigin.value;
     selOrigin.value = selDest.value;
     selDest.value = tmp;
+    updateMarkerStyles();
+});
+
+['input', 'change'].forEach(evt => {
+    selOrigin.addEventListener(evt, updateMarkerStyles);
+    selDest.addEventListener(evt, updateMarkerStyles);
 });
 
 // ─────────────────────────────────────────────────────────
@@ -404,7 +436,55 @@ async function initData() {
             const opt = document.createElement('option');
             opt.value = name;
             datalist.appendChild(opt);
+            
+            // Render interactive marker on map
+            const h = getHalt(name);
+            if (h) {
+                const el = document.createElement('div');
+                el.className = 'halt-marker';
+                el.style.cssText = `
+                    background: #9ca3af; color: #fff; border-radius: 50%;
+                    width: 14px; height: 14px;
+                    border: 2px solid #fff; box-shadow: 0 2px 4px rgba(0,0,0,.2); cursor: pointer;
+                    transition: all 0.3s ease;
+                `;
+                
+                const popupNode = document.createElement('div');
+                popupNode.style.cssText = 'font-family:Poppins,sans-serif;font-size:12px;font-weight:600;padding:4px 6px;text-align:center;min-width:120px;';
+                popupNode.innerHTML = `
+                    <div style="margin-bottom:8px">${h.name}</div>
+                    <div style="display:flex;gap:6px;justify-content:center;">
+                        <button class="btn-set-origin" style="background:#16a34a;color:#fff;border:none;padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;flex:1;">Set Asal</button>
+                        <button class="btn-set-dest" style="background:#dc2626;color:#fff;border:none;padding:4px 8px;border-radius:4px;cursor:pointer;font-size:11px;flex:1;">Set Tujuan</button>
+                    </div>
+                `;
+                
+                const popup = new maptilersdk.Popup({ offset: 12, closeButton: true, maxWidth: '200px' }).setDOMContent(popupNode);
+                
+                const marker = new maptilersdk.Marker({ element: el })
+                    .setLngLat([h.lon, h.lat])
+                    .setPopup(popup)
+                    .addTo(map);
+                    
+                marker.customEl = el;
+                allHaltMarkers[name.toLowerCase()] = marker;
+
+                // Event listeners for popup buttons
+                popupNode.querySelector('.btn-set-origin').addEventListener('click', () => {
+                    selOrigin.value = h.name;
+                    updateMarkerStyles();
+                    popup.remove();
+                });
+                
+                popupNode.querySelector('.btn-set-dest').addEventListener('click', () => {
+                    selDest.value = h.name;
+                    updateMarkerStyles();
+                    popup.remove();
+                });
+            }
         });
+        
+        updateMarkerStyles();
     } catch (e) {
         console.error("Gagal memuat data JSON dari backend:", e);
     }
