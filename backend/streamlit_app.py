@@ -22,7 +22,6 @@ from visualizer import build_networkx_graph, draw_step, _short_label
 
 st.set_page_config(
     page_title="BST A* Visualizer",
-    page_icon="🚌",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -37,7 +36,7 @@ st.markdown("""
     .stButton>button { width: 100%; border-radius: 8px; font-weight: 600; }
     .summary-grid {
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
         gap: 12px;
         margin-bottom: 16px;
     }
@@ -123,13 +122,20 @@ with st.sidebar:
     # Pilih halte
     def fmt(h): return h.title()
 
+    def clear_result():
+        st.session_state.result = None
+        st.session_state.current_step = 0
+        st.session_state.playing = False
+
     st.markdown('<div style="font-size:11px; font-weight:600; color:#475569; text-transform:uppercase; letter-spacing:0.5px; margin-bottom:4px;"><i class="fa-solid fa-location-crosshairs" style="color:#1a56db; font-size:13px; margin-right:4px;"></i> Halte Asal</div>', unsafe_allow_html=True)
     start_halte = st.selectbox(
         "Halte Asal",
         options=haltes_sorted,
         format_func=fmt,
-        index=haltes_sorted.index("terminal palur") if "terminal palur" in haltes_sorted else 0,
-        label_visibility="collapsed"
+        index=None,
+        placeholder="Pilih halte asal...",
+        label_visibility="collapsed",
+        on_change=clear_result
     )
     
     st.markdown('<div style="font-size:11px; font-weight:600; color:#475569; text-transform:uppercase; letter-spacing:0.5px; margin-bottom:4px; margin-top:10px;"><i class="fa-solid fa-location-dot" style="color:#dc2626; font-size:13px; margin-right:4px;"></i> Halte Tujuan</div>', unsafe_allow_html=True)
@@ -137,8 +143,10 @@ with st.sidebar:
         "Halte Tujuan",
         options=haltes_sorted,
         format_func=fmt,
-        index=haltes_sorted.index("halte stasiun purwosari") if "halte stasiun purwosari" in haltes_sorted else 1,
-        label_visibility="collapsed"
+        index=None,
+        placeholder="Pilih halte tujuan...",
+        label_visibility="collapsed",
+        on_change=clear_result
     )
 
     cari_btn = st.button("Cari Rute & Visualisasi", type="primary")
@@ -168,12 +176,16 @@ if "playing"      not in st.session_state: st.session_state.playing      = False
 # ─────────────────────────────────────────────────────────────────────────────
 
 if cari_btn:
-    if start_halte == goal_halte:
+    if start_halte is None or goal_halte is None:
+        st.warning("Silakan pilih halte asal dan halte tujuan terlebih dahulu.")
+    elif start_halte == goal_halte:
         st.warning("Halte asal dan tujuan tidak boleh sama.")
     else:
         with st.spinner("Menjalankan A*…"):
             try:
                 result = astar_with_steps(graph, coords, start_halte, goal_halte)
+                result["start"] = start_halte
+                result["goal"] = goal_halte
                 st.session_state.result       = result
                 st.session_state.current_step = 0
                 st.session_state.playing      = False
@@ -253,7 +265,7 @@ else:
             <div class="s-value">{transit_count}</div>
         </div>
         <div class="summary-card">
-            <div class="s-icon"><i class="fa-solid fa-calculator"></i></div>
+            <div class="s-icon"><i class="fa-solid fa-shoe-prints"></i></div>
             <div class="s-label">Total Step A*</div>
             <div class="s-value">{total_steps}</div>
         </div>
@@ -263,35 +275,41 @@ else:
     st.divider()
 
     # ── Kontrol step ────────────────────────────────────────────────────────
-    ctrl_cols = st.columns([1, 1, 1, 1, 1, 3])
+    # Penyempurnaan proporsi UI reponsiveness
+    ctrl_cols = st.columns([1, 1, 1, 1, 1.2, 1.2])
+    is_playing = st.session_state.playing
 
     with ctrl_cols[0]:
-        if st.button("⏮ Reset"):
+        if st.button("⏮ Reset", disabled=is_playing):
             st.session_state.current_step = 0
-            st.session_state.playing      = False
 
     with ctrl_cols[1]:
-        if st.button("◀ Prev"):
+        if st.button("◀ Prev", disabled=is_playing):
             st.session_state.current_step = max(0, st.session_state.current_step - 1)
-            st.session_state.playing      = False
 
     with ctrl_cols[2]:
-        if st.button("▶ Next"):
+        if st.button("▶ Next", disabled=is_playing):
             st.session_state.current_step = min(total_steps - 1, st.session_state.current_step + 1)
-            st.session_state.playing      = False
 
     with ctrl_cols[3]:
-        if st.button("⏭ Akhir"):
+        if st.button("⏭ Akhir", disabled=is_playing):
             st.session_state.current_step = total_steps - 1
-            st.session_state.playing      = False
 
     with ctrl_cols[4]:
-        if st.session_state.playing:
-            if st.button("⏸ Pause"):
-                st.session_state.playing = False
-        else:
-            if st.button("▶▶ Play"):
+        if st.button("▶▶ Play"):
+            if is_playing:
+                # Menambah alert peringatan interaktif jika Play ditekan berulang kali
+                st.toast("⚠️ Peringatan: Simulasi sedang berjalan! Jangan tekan tombol Play berulang kali untuk mencegah error.", icon="⚠️")
+            elif st.session_state.current_step >= total_steps - 1:
+                st.toast("ℹ️ Simulasi sudah berada di akhir step. Silakan tekan Reset.", icon="ℹ️")
+            else:
                 st.session_state.playing = True
+                st.rerun()
+
+    with ctrl_cols[5]:
+        if st.button("⏸ Pause", disabled=not is_playing):
+            st.session_state.playing = False
+            st.rerun()
 
     # Slider
     selected = st.slider(
@@ -300,6 +318,7 @@ else:
         max_value=total_steps,
         value=st.session_state.current_step + 1,
         key="step_slider",
+        disabled=is_playing
     )
     if selected - 1 != st.session_state.current_step:
         st.session_state.current_step = selected - 1
@@ -318,21 +337,18 @@ else:
         st.markdown(f'#### <i class="fa-solid fa-earth-asia"></i> Graph — Step {step_idx + 1} / {total_steps}', unsafe_allow_html=True)
 
         # Hanya render node yang relevan agar cepat
-        # Tentukan node yang perlu dilabeli
+        # Agar tidak bertumpuk, kita batasi label hanya untuk start, goal, dan current node
         label_nodes = None
+        used_start = result.get("start", start_halte)
+        used_goal = result.get("goal", goal_halte)
+        
         if show_labels:
-            step_open   = {item["node"] for item in step_data["open_set"]}
-            step_closed = set(step_data["closed_set"])
-            label_nodes = list(
-                {step_data["current"], start_halte, goal_halte}
-                | step_open | step_closed
-                | set(step_data["path_so_far"])
-            )
+            label_nodes = list({step_data["current"], used_start, used_goal})
 
         fig = draw_step(
             G, pos, step_data,
-            start=start_halte,
-            goal=goal_halte,
+            start=used_start,
+            goal=used_goal,
             show_labels=show_labels,
             label_nodes=label_nodes,
         )
@@ -413,7 +429,7 @@ else:
     for i in range(win_start, win_end):
         s    = steps[i]
         name = _short_label(s["current"])
-        label = "✅ Goal ditemukan!" if s["goal_found"] else f"Ekspansi: {name}"
+        label = "Goal ditemukan!" if s["goal_found"] else f"Ekspansi: {name}"
         if i == step_idx:
             timeline_html += f'<div class="timeline-item timeline-active">➤ Step {i+1} · {label}</div>'
         elif i < step_idx:
@@ -449,3 +465,4 @@ else:
             st.rerun()
         else:
             st.session_state.playing = False
+            st.rerun()

@@ -202,7 +202,7 @@ def draw_step(
         ax.set_ylim(y_min - y_margin, y_max + y_margin)
 
     # ── Judul ───────────────────────────────────────────────────
-    status = "✅ GOAL DITEMUKAN!" if goal_found else f"Step {step_data['step']}"
+    status = "GOAL DITEMUKAN!" if goal_found else f"Step {step_data['step']}"
     ax.set_title(
         f"{status}  |  Current: {_short_label(current)}",
         fontsize=9, color="#ffffff", pad=8,
